@@ -2,7 +2,7 @@ from PyPDF2 import PdfReader
 import pandas as pd
 import json
 
-reader = PdfReader("coloStandards.pdf")
+reader = PdfReader("../data/coloStandards.pdf")
 
 number = len(reader.pages)
 print(number)
