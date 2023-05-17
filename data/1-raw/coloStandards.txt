@@ -1,0 +1,2431 @@
+kindergartens:
+Math:
+1. Number Sense, Properties, and Operations:
+A. Whole numbers can be used to name,count,represent,and
+order quantity:
+a. Use number names and the count sequence.
+(CCSS:K.CC)
+i. Count to 100 by ones and by tens. (CCSS:
+K.CC.1)
+ii. Count forward beginning from a given number
+within the known sequence. (CCSS: K.CC.2)
+iii. Write numbers from 0 to 20. Represent a number
+of objects with a written numeral 0-20. (CCSS:
+K.CC.3)
+b. Count To Determine The Number Of Objects.
+(CCSS:K.CC)
+i. Apply the relationship between numbers and
+quantities and connect counting to cardinality.
+(CCSS: K.CC.4)
+ii. Count and represent objects to 20.
+(CCSS:K.CC.5)
+c. Compare and instantly recognize numbers. (CCSS:
+K.CC)
+i. Identify whether the number of objects in one
+group is greater than, less than, or equal to the
+number of objects in another group.
+(CCSS:K.CC.6)
+ii. Compare two numbers between 1 and 10
+presented as written numerals. (CCSS: K.CC.7)
+iii. Identify small groups of objects fewer than five
+without counting
+B. Composing and decomposing quantity forms the foundation
+for addition and subtraction:
+a. Model and describe addition as putting together and adding to,
+and subtraction as taking apart and taking from, using objects
+or drawings. (CCSS: K.OA)
+i. Represent addition and subtraction with objects, fingers,
+mental images, drawings, sounds, acting out situations,
+verbal explanations, expressions, or equations. (CCSS:
+K.OA.1)
+ii. Solve addition and subtraction word problems, and add and subtract within 10. (CCSS: K.OA.2)
+iii. Decompose numbers less than or equal to 10 into pairs in more than one way. (CCSS: K.OA.3)
+iv. For any number from 1 to 9, find the number that
+makes 10 when added to the given number. (CCSS:
+K.OA.4)
+v. Use objects including coins and drawings to model
+addition and subtraction problems to 10 (PFL)
+b. Fluently add and subtract within 5. (CCSS: K.OA.5)
+c. Compose and decompose numbers 11–19 to gain foundations for place value using objects and drawings. (CCSS: K.NBT)
+2. Shape, Dimension, and Geometric Relationships:
+A. Shapes are described by their characteristics and position and created by composing and decomposing:
+a. Identify And Describe Shapes (squares ,circles,
+triangles, rectangles, hexagons, cubes, cones, cylinders,
+and spheres). (CCSS: K.G)
+i. Describe objects in the environment using names
+of shapes, and describe the relative positions of
+these objects using terms such as above, below,
+beside, in front of, behind, and next to. (CCSS:
+K.G.1)
+ii. Correctly name shapes regardless of their
+orientations or overall size. (CCSS: K.G.2)
+iii. Identify shapes as two-dimensional or three
+dimensional. (CCSS: K.G.3)
+b. Analyze, compare, create, and compose
+shapes.(CCSS:K.G)
+i. Analyze and compare two- and
+three-dimensional shapes, in different sizes and
+orientations, using informal language to describe
+their similarities, differences, parts and other
+attributes. (CCSS: K.G.4)
+ii. Model shapes in the world by building shapes
+from components and drawing shapes. (CCSS:
+K.G.5)
+iii. Compose simple shapes to form larger shapes.
+(CCSS: K.G.6)
+B. Measurement Is Used To Compare And Order Objects:
+a. Describe and compare measurable attributes.(CCSS:K.MD)
+i. Describe measurable attributes of objects, such as
+length or weight. (CCSS: K.MD.1)
+ii. Describe several measurable attributes of a single
+object. (CCSS:K.MD.1)
+iii. Directly compare two objects with a measurable
+attribute in common, to see which object has “more
+of”/“less of” the attribute, and describe the difference.
+(CCSS: K.MD.2)
+iv. Order several objects by length, height, weight, or price
+(PFL)
+b. Classify objects and count the number objects in each category. (CCSS: K.MD)
+i. Classify objects into given categories. (CCSS: K.MD.3)
+ii. Count the numbers of objects in each category.
+(CCSS:K.MD.3)
+iii. Sort the categories by count. (CCSS: K.MD.3)
+Literacy:
+1. Oral Expression and Listening:
+A. Oral communication skills are built within a language-rich
+environment:
+a. Describe familiar people, places, things, and events and,with prompting and support, provide additional detail. (CCSS:
+SL.K.4)
+b. Add drawings or other visual displays to descriptions as desired to provide additional detail. (CCSS: SL.K.5)
+c. Speak audibly and express thoughts, feelings, and ideas clearly. (CCSS: SL.K.6)
+d. Sort common objects into categories (e.g.,shapes,foods)to gain a sense of the concepts the categories represent. (CCSS:
+L.K.5a)
+e. Demonstrate understanding of frequently occurring verbs and adjectives by relating them to their opposites (antonyms).
+(CCSS: L.K.5b)
+f. Identify real-life connections between words and their use (e.g., note places at school that are colorful). (CCSS: L.K.5c)
+g. Distinguish shades of meaning among verbs describing the
+same general action (e.g., walk, march, strut, prance) by acting out the meanings. (CCSS: L.K.5d)
+h. Express words and word meanings as encountered in books and conversation
+i. Use new vocabulary that is directly taught through reading,
+speaking, and listening
+j. Relate new vocabulary to prior knowledge
+B. Communication relies on effective verbal and nonverbal skills: a. Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups. (CCSS: SL.K.1)
+i. Follow agreed-upon rules for discussions (e.g., listening to others and taking turns speaking about the topics and
+texts under discussion). (CCSS: SL.K.1a)
+ii. Continue a conversation through multiple exchanges.
+(CCSS: SL.K.1b)
+b. Confirm understanding of a text read aloud or information presented orally or through other media by asking and
+answering questions about key details and requesting
+clarification if something is not understood. (CCSS: SL.K.2) c. Ask and answer questions in order to seek help, get
+information, or clarify something that is not understood. (CCSS: SL.K.3)
+d. Listen with comprehension to follow two-step directions. e. Use words and phrases acquired through conversations, reading and being read to, and responding to texts. (CCSS: L.K.6)
+2. Reading for All Purposes:
+A. A concept of print to read and a solid comprehension of literary texts are the building blocks for reading:
+a. Use Key Ideas and Details to:
+i. With prompting and support, ask and answer questions about key details in a text. (CCSS: RL.K.1)
+ii. With prompting and support, retell familiar stories,
+including key details. (CCSS: RL.K.2)
+iii. With prompting and support, identify characters,
+settings, and major events in a story. (CCSS: RL.K.3)
+b. Use Craft and Structure to:
+i. Ask and answer questions about unknown words in a
+text. (CCSS: RL.K.4)
+ii. Recognize common types of texts (e.g., storybooks,
+poems). (CCSS: RL.K.5)
+iii. With prompting and support, name the author and
+illustrator of a story and define the role of each in telling the story. (CCSS: RL.K.6)
+c. Use Integration of Knowledge and Ideas to:
+i. With prompting and support, describe the relationship between illustrations and the story in which they appear (e.g., what moment in a story an illustration depicts).
+(CCSS: RL.K.7)
+ii. With prompting and support, compare and contrast the adventures and experiences of characters in familiar
+stories. (CCSS: RL.K.9)
+d. Use Range of Reading and Level of Text Complexity to:
+i. Actively engage in group reading activities with
+purpose and understanding. (CCSS: RL.K.10)
+B. A concept of print to read and a solid comprehension of informational text are the building blocks for reading:
+a. Use Key Ideas and Details to:
+i. With prompting and support, ask and answer questions about key details in a text. (CCSS: RI.K.1)
+ii. With prompting and support, identify the main topic and retell key details of a text. (CCSS: RI.K.2)
+iii. With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a
+text. (CCSS:RI.K.3)
+b. Use Craft and Structure to:
+i. With prompting and support, ask and answer questions about unknown words in a text. (CCSS: RI.K.4)
+ii. Identify the front cover, back cover, and title page of a book. (CCSS: RI.K.5)
+iii. Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text. (CCSS:
+RI.K.6)
+c. Use Integration of Knowledge and Ideas to:
+i. With prompting and support, describe the relationship between illustrations and the text in which they appear (e.g., what
+person, place, thing, or idea in the text an illustration depicts). (CCSS: RI.K.7)
+ii. With prompting and support, identify the reasons an author gives to support points in a text. (CCSS: RI.K.8)
+iii. With prompting and support, identify basic similarities in and differences between two texts on the same topic (e.g., in
+illustrations, descriptions, or procedures). (CCSS: RI.K.9)
+d. Use Range of Reading and Level of Text Complexity to:
+i. Actively engage in group reading activities with purpose and understanding. (CCSS: RI.K.10)
+C. Decoding words in print requires alphabet recognition and knowledge of letter sounds:
+a. Demonstrate understanding of the organization and basic features of print. (CCSS: RF.K.1)
+i. Follow words from left to right, top to bottom, and page by page. (CCSS: RF.K.1a)
+ii. Recognize that spoken words are represented in written
+language by specific sequences of letters. (CCSS: RF.K.1b)
+iii. Understand that words are separated by spaces in print. (CCSS: RF.K.1c)
+iv. Recognize and name all upper- and lowercase letters of the alphabet. (CCSS: RF.K.1d)
+b. Demonstrate understanding of spoken words, syllables, and sounds (phonemes). (CCSS: RF.K.2)
+i. Recognize and produce rhyming words. (CCSS: RF.K.2a)
+ii. Count, pronounce, blend, and segment syllables in spoken words. (CCSS: RF.K.2b)
+iii. Blend and segment onsets and rimes of single-syllable spoken words. (CCSS: RF.K.2c)
+iv. Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three
+phoneme (consonant-vowel-consonant, or CVC) words. (This
+does not include CVCs ending with /l/, /r/, or /x/.) (CCSS:
+RF.K.2d)
+v. Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words. (CCSS: RF.K.2e)
+vi. Identify phonemes for letters.
+c. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content. (CCSS: L.K.4)
+i. Identify new meanings for familiar words and apply them accurately (e.g., knowing duck is a bird and learning the verb
+to duck). (CCSS: L.K.4a)
+ii. Use the most frequently occurring inflections and affixes (e.g., -ed, -s, re-, un-, pre-, -ful, -less) as a clue to the meaning of
+an unknown word. (CCSS: L.K.4b)
+d. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.K3)
+i. Demonstrate basic knowledge of letter-sound correspondences by producing the primary or most frequent sound for each
+consonant. (CCSS: RF.K.3a)
+ii. Associate the long and short sounds with the common
+spellings (graphemes) for the five major vowels. (CCSS:
+RF.K.3b)
+iii. Read common high-frequency words by sight (e.g., the, of, to, you, she, my, is, are, do, does). (CCSS: RF.K.3c)
+iv. Distinguish between similarly spelled words by identifying the sounds of the letters that differ. (CCSS: RF.K.3d)
+e. Read emergent-reader texts with purpose and understanding. (CCSS:RF.K.4)
+3. Writing and Composition:
+A. Text types and purposes, labels, and familiar words are used to communicate information and ideas:
+a. Use Combination Of Drawing,dictating,and writing to compose opinion pieces in which they tell a reader the topic or the name of the book they are writing about and state an opinion or
+preference about the topic or book (e.g., My favorite book is...). (CCSS: W.K.1)
+b. Use a combination of drawing,dictating,and writing to compose informative/explanatory texts in which they name what they are writing about and supply some information about the topic. (CCSS: W.K.2)
+c. Use a combination of drawing, dictating, and writing to narrate a single event or several loosely linked events, tell about the events in the order in which they occurred, and provide a
+reaction to what happened. (CCSS: W.K.3)
+d. With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen
+writing as needed. (CCSS: W.K.5)
+e. With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in
+collaboration with peers. (CCSS: W.K.6)
+B. Appropriate mechanics and conventions are used to create simple texts
+a. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.K.1) i. Print Many Upper-and lowercase letters.(CCSS:L.K.1a) ii. Use Frequently Occurring Nouns And
+Verbs.(CCSS:L.K.1b)
+iii. Form regular plural nouns orally by adding /s/ or /es/ (e.g.,dog, dogs; wish, wishes). (CCSS: L.K.1c)
+iv. Understand and use question words (interrogatives)
+(e.g.,
+who, what, where, when, why, how). (CCSS: L.K.1d)
+v. Use the most frequently occurring prepositions (e.g., to,
+from, in, out, on, off, for, of, by, with). (CCSS: L.K.1e)
+vi. Produce and expand complete sentences shared
+language
+activities. (CCSS: L.K.1f)
+b. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS:
+L.K.2)
+i. Capitalize the first word in a sentence and the pronoun
+I. (CCSS:L.K.2a)
+ii. Recognize and name end punctuation. (CCSS: L.K.2b)
+iii. Write a letter or letters for most consonant and
+short-vowel sounds (phonemes). (CCSS: L.K.2c)
+iv. Spell simple words phonetically, drawing on knowledge
+of
+sound-letter relationships. (CCSS: L.K.2d)
+4. Research and Reasoning:
+A. Identify purpose, information and question an issue:
+a. Participate in shared research and writing projects (e.g.,
+explore a number of books by a favorite author and express
+opinions about them). (CCSS: W.K.7)
+b. With guidance and support from adults, recall information from experiences or gather information from provided sources to
+answer a question. (CCSS: W.K.8)
+Science:
+1. Physical Science:
+A. Objects can move in a variety of ways that can be described by speed and direction:
+a. Observe,investigate,and describe how different objects move (DOK 1-2)
+b. Describe the motion of a child who is playing (DOK 1)
+B. Objects can be sorted by physical properties, which can be observed and measured:
+a. Observe,investigate,and describe how objects can be sorted using their physical properties (DOK 1-2)
+b. Explain why objects are sorted into categories (DOK 2)
+c. Sort a set of objects based on their physical characteristics, and
+then explain how the objects are sorted (DOK 1-2)
+2. Life Science:
+A. Organisms can be described and sorted by their physical
+characteristics:
+a. Sort a group of items based on observable characteristics
+(DOK1-2)
+b. Communicate and justify an evidence- based scientific rationale
+for sorting organisms into categories (DOK 1-2)
+3. Earth Systems Science:
+A. The sun provides heat and light to Earth:
+a. Investigate,explain,and describe that the Sun provides heat and
+light to Earth (DOK 1)
+b. Analyze and interpret temperature data between day (when the
+Sun shines on our area) and night (when the Sun does not
+shine on our area) (DOK 1-3)
+c. Investigate and communicate findings about what happens
+when the Sun’s light is blocked (DOK 1-2)
+d. Investigate and communicate the effect of varying heat and
+light on the growth of plants through a scientific study (DOK
+1-2)
+firstgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A. The whole number system describes place value relationships
+within and beyond 100 and forms the foundation for efficient
+algorithms:
+a. Count to 120 (CCSS: 1.NBT.1)
+i. Count starting at any number less than 120.
+(CCSS: 1.NBT.1)
+ii. Within 120, read and write numerals and
+represent a number of objects with a written
+numeral. (CCSS: 1.NBT.1)
+b. Represent and use the digits of a two-digit number.
+(CCSS: 1.NBT.2)
+i. Represent the digits of a two-digit number as
+tens and ones. (CCSS:1.NBT.2)
+ii. Compare two two-digit numbers based on
+meanings of the tens and ones digits, recording
+the results of comparisons with the symbols >,
+=, and <. (CCSS:1.NBT.3)
+iii. Compare two sets of objects, including pennies, up to at least 25 using language such as "three
+more or three fewer" (PFL)
+c. Use place value and properties of operations to add and subtract. (CCSS: 1.NBT)
+i. Add within 100, including adding a two-digit
+number and a one-digit number and adding a
+two-digit number and a multiple of ten, using
+concrete models or drawings, and/or the
+relationship between addition and subtraction.
+(CCSS: 1.NBT.4)
+ii. Identify coins and find the value of a collection of two coins (PFL)
+iii. Mentally find 10 more or 10 less than any
+two-digit number, without counting;explain the
+reasoning used. (CCSS: 1.NBT.5)
+iv. Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or
+zero differences), using concrete models or
+drawings and strategies based on place value,
+properties of operations, and/or the relationship
+between addition and subtraction.
+(CCSS:1.NBT.6)
+v. Relate addition and subtraction strategies to a
+written method and explain the reasoning used.
+(CCSS: 1.NBT.4 and 1.NBT.6)
+B. Number relationships can be used to solve addition and subtraction problems:
+a. Represent and solve problems involving addition and subtraction. (CCSS: 1.OA)
+i. Use addition and subtraction within 20 to solve
+word problems. (CCSS: 1.OA.1)
+ii. Solve word problems that call for addition of
+three whole numbers whose sum is less than or
+equal to 20.3 (CCSS: 1.OA.2)
+b. Apply properties of operations and relationship between addition and subtraction. (CCSS: 1.OA)
+i. Apply properties of operations as strategies to
+add and subtract. (CCSS: 1.OA.3)
+ii. Relate subtraction to unknown-addend
+problem.(CCSS:1.OA.4)
+c. Add and subtract within 20. (CCSS: 1.OA)
+i. Relate counting to addition and subtraction.6
+(CCSS: 1.OA.5)
+ii. Add and subtract within 20 using multiple
+strategies.(CCSS:1.OA.6)
+iii. Demonstrate fluency for addition and subtraction
+within 10.(CCSS: 1.OA.6)
+d. Use addition and subtraction equations to show number relationships.(CCSS: 1.OA)
+i. Use the equal sign to demonstrate equality in
+number relationships. (CCSS: 1.OA.7)
+ii. Determine the unknown whole number in an
+addition or subtraction equation relating three
+whole numbers.(CCSS:1.OA.8)
+2. Data Analysis, Statistics, and Probability:
+A.Visual displays of information can be used to answer questions:
+a. Represent and interpret data.(CCSS:1.MD)
+i. Organize, represent, and interpret data with up
+to three categories. (CCSS: 1.MD.4)
+ii. Ask and answer questions about the total number
+of data points, how many in each category, and
+how many more or less are in one category than
+in another. (CCSS:1.MD.4)
+3. Shape, Dimension, and Geometric Relationships:
+A.Shapes can be described by defining attributes and created by composing and decomposing:
+a. Distinguish between defining attributes versus
+non-defining attributes. (CCSS: 1.G.1)
+b. Build and draw shapes to possess defining attributes.
+(CCSS:1.G.1)
+c. Compose two-dimensional shapes3 or three-dimensional
+shapes to create a composite shape, and compose new
+shapes from the composite shape. (CCSS: 1.G.2)
+d. Partition circles and rectangles into two and four equal
+shares.(CCSS: 1.G.3)
+i. Describe shares using the words halves, fourths,
+and quarters,and use the phrases half of, fourth
+of, and quarter of. (CCSS:1.G.3)
+ii. Describe the whole as two of, or four of the equal
+shares.(CCSS: 1.G.3)
+B.Measurement Is Used To Compare And Order Objects And Events:
+a. Measure Lengths Indirectly And By Iterating Length
+Units.(CCSS: 1.MD)
+i. Order three objects by length; compare the lengths of
+two objects indirectly by using a third object. (CCSS:
+1.MD.1)
+ii. Express the length of an object as a whole number of
+length units. (CCSS: 1.MD.2)
+b. Tell and write time.(CCSS:1.MD)
+i. Tell and write time in hours and half-hours using analog
+and digital clocks. (CCSS: 1.MD.3)
+Literacy:
+1. Oral Expression and Listening:
+A. Multiple strategies develop and expand oral vocabulary:
+a. Describe people,places,things,and events with relevant details, expressing ideas and feelings clearly. (CCSS: SL.1.4)
+b. Add drawings or other visual displays to descriptions when
+appropriate to clarify ideas, thoughts, and feelings. (CCSS:
+SL.1.)
+c. Produce complete sentences when appropriate to task and
+situation. (CCSS: SL.1.6)
+B. Verbal and nonverbal language is used to express and receive information:
+a. Participate in collaborative conversations with diverse partners about grade 1 topics and texts with peers and adults in small and larger groups. (CCSS: SL.1.1)
+i. Follow agreed-upon rules for discussions (e.g., listening to others with care, speaking one at a time about the
+topics and texts under discussion). (CCSS: SL.1.1a)
+ii. Build on others’ talk in conversations by responding to the comments of others through multiple exchanges.
+(CCSS: SL.1.1b)
+iii. Ask questions to clear up any confusion about the topics and texts under discussion. (CCSS: SL.1.1c)
+b. Ask and answer questions about key details in a text read aloud or information presented orally or through other media. (CCSS: SL.1.2)
+c. Ask and answer questions about what a speaker says in order to gather additional information or clarify something that is not understood. (CCSS: SL.1.3)
+C. Identifying and manipulating phonemes in spoken words allow people to understand the meaning of speech:
+a. Demonstrate understanding of spoken words,syllables, and sounds (phonemes). (CCSS: RF.1.2)
+i. Distinguish long from short vowel sounds in spoken
+single-syllable words. (CCSS: RF.1.2a)
+ii. Orally produce single-syllable words by blending sounds (phonemes), including consonant blends. (CCSS:RF
+.1.2b)
+iii. Isolate and pronounce initial, medial vowel, and final
+sounds (phonemes) in spoken single-syllable words.
+(CCSS: RF.1.2c)
+iv. Segment spoken single-syllable words into their
+complete sequence of individual sounds (phonemes).
+(CCSS: RF.1.2d)
+2. Reading for All Purposes:
+A. Comprehending and fluently reading a variety of literary texts are the beginning traits of readers:
+a. Use Key Ideas and Details to:
+i. Ask and answer questions about key details in a text.
+(CCSS: RL.1.1)
+ii. Retell stories, including key details, and demonstrate
+understanding of their central message or lesson.
+(CCSS: RL.1.2)
+iii. Describe characters, settings, and major events in a story, using key details. (CCSS: RL.1.3)
+iv. Make predictions about what will happen in the text and explain whether they were confirmed or not and why
+b. Use Craft and Structure to:
+i. Identify words and phrases in stories or poems that suggest feelings or appeal to the senses. (CCSS: RL.1.4) ii. Explain major differences between books that tell stories and books that give information, drawing on a wide
+reading of a range of text types.
+(CCSS: RL.1.5)
+iii. Identify who is telling the story at various points in a text. (CCSS:RL.1.6)
+iv. Follow and replicate patterns in predictable poems. c. Use Integration of Knowledge and Ideas to:
+i. Use illustrations and details in a story to describe its characters, setting, or events. (CCSS: RL.1.7)
+ii. Compare and contrast the adventures and experiences of characters in stories. (CCSS: RL.1.9)
+d. Use Range of Reading and Level of Text Complexity to: i. With prompting and support, read prose and poetry of appropriate complexity for grade 1. (CCSS: RL.1.10)
+e. Read with sufficient accuracy and fluency to support comprehension:(CCSS:RF .1.4)
+i. Read grade-level text with purpose and understanding. (CCSS: RF.1.4a)
+ii. Read grade-level text orally with accuracy, appropriate rate, and expression. (CCSS: RF.1.4b)
+iii. Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS:
+RF.1.4c)
+B. Comprehending and fluently reading a variety of informational texts are the beginning traits of readers:
+a. Use Key Ideas and Details to:
+i. Ask and answer questions about key details in a text. (CCSS: RI.1.1)
+ii. Identify the main topic and retell key details of a text. (CCSS: RI.1.2)
+iii. Describe the connection between two individuals,
+events, ideas, or pieces of information in a text. (CCSS: RI.1.3)
+iv. Activate schema and background knowledge to construct meaning
+b. Use Craft and Structure to:
+i. Ask and answer questions to help determine or clarify the meaning of words and phrases in a text. (CCSS:
+RI.1.4)
+ii. Know and use various text features (e.g., headings, tables of contents, glossaries, electronic menus, icons)
+to locate key facts or information in a text. (CCSS:
+RI.1.5)
+iii. Distinguish between information provided by pictures or other illustrations and information provided by the words in a text. (CCSS:RI.1.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Use the illustrations and details in a text to describe its key ideas. (CCSS: RI.1.7)
+ii. Identify the reasons an author gives to support points in a text. (CCSS:RI.1.8)
+iii. Identify basic similarities in and differences between two texts on the same topic (e.g., in illustrations,
+descriptions, or procedures). (CCSS:RI.1.9)
+d. Use Range of Reading and Level of Text Complexity to: i. With prompting and support, read informational texts appropriately complex for grade 1. (CCSS: RI.1.10)
+e. Read with sufficient accuracy and fluency to support
+comprehension.(CCSS:RF .1.4)
+i. Read grade-level text with purpose and understanding. (CCSS: RF.1.4a)
+ii. Read grade-level text orally with accuracy, appropriate rate, and expression. (CCSS: RF.1.4b)
+iii. Use context to confirm or self-correct word recognition and understanding, rereading as necessary.
+(CCSS:RF.1.4c)
+C. Decoding words require the application of alphabetic principles, letter sounds, and letter combinations:
+a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.1.3)
+i. Know the spelling-sound correspondences for common consonant digraphs (two letters that represent one
+sound). (CCSS: RF.1.3a)
+ii. Decode regularly spelled one-syllable words.
+(CCSS:RF.1.3b)
+iii. Know final -e and common vowel team conventions for representing long vowel sounds. (CCSS: RF.1.3c)
+iv. Use knowledge that every syllable must have a vowel sound to determine the number of syllables in a printed
+word. (CCSS:RF .1.3d)
+v. Decode two-syllable words following basic patterns by breaking the words into syllables. (CCSS: RF.1.3e)
+vi. Read words with inflectional endings. (CCSS: RF.1.3f) vii. Recognize and read grade-appropriate irregularly spelled words. (CCSS: RF.1.3g)
+D. Understanding word structure, word relationships, and word families needs to be demonstrated to begin to read:
+a. Determine or clarify the meaning of unknown and
+multiple-meaning words and phrases based on grade 1 reading and content, choosing flexibly from an array of strategies. (CCSS: L.1.4)
+i. Use sentence-level context as a clue to the meaning of a word or phrase. (CCSS: L.1.4a)
+ii. Use frequently occurring affixes as a clue to the meaning of a word. (CCSS: L.1.4b)
+iii. Identify frequently occurring root words (e.g., look) and their inflectional forms (e.g., looks, looked, looking).
+(CCSS: L.1.4c)
+b. With guidance and support from adults, demonstrate understanding of figurative language, word relationships and nuances in word meanings. (CCSS: L.1.5)
+i. Sort words into categories (e.g., colors, clothing) to gain a sense of the concepts the categories represent.
+(CCSS: L.1.5a)
+ii. Define words by category and by one or more key
+attributes (e.g., a duck is a bird that swims; a tiger is a
+large cat with stripes). (CCSS: L.1.5b)
+iii. Identify real-life connections between words and their use (e.g., note places at home that are cozy). (CCSS:
+L.1.5c)
+iv. Distinguish shades of meaning among verbs differing in manner (e.g., look, peek, glance, stare, glare, scowl)
+and adjectives differing in intensity (e.g., large, gigantic) by defining or choosing them or by acting out the
+meanings. (CCSS: L.1.5d)
+c. Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using frequently occurring conjunctions to signal simple
+relationships (e.g., because). (CCSS: L.1.6)
+d. Demonstrate understanding of the organization and basic features of print. (CCSS: RF.1.1)
+i. Recognize the distinguishing features of a sentence
+(e.g., first word, capitalization, ending punctuation).
+(CCSS: RF.1.1a)
+ii. Create new words by combining base words with affixes to connect known words to new words
+iii. Identify and understand compound words
+3. Writing and Composition:
+A. Exploring the writing process develops ideas for writing texts that carry meaning:
+a. Write opinion pieces in which they introduce the topic or name the book they are writing about, state an opinion, supply a reason for the opinion, and provide some sense of closure. (CCSS: W.1.1)
+b. Write informative/explanatory texts in which they name a topic, supply some facts about the topic, and provide some sense of closure. (CCSS: W.1.2)
+c. Write narratives in which they recount two or more
+appropriately sequenced events, include some details regarding what happened, use temporal words to signal event order, and provide some sense of closure. (CCSS: W.1.3)
+d. With guidance and support from adults, focus on a topic, respond to questions and suggestions from peers, and add details to strengthen writing as needed. (CCSS: W.1.5)
+e. With guidance and support from adults, use a variety of digital tools to produce and publish writing, including in collaboration with peers. (CCSS: W.1.6)
+B. Appropriate spelling, conventions, and grammar are applied when writing:
+a. Demonstrate command of the conventions of standard
+English grammar and usage when writing or speaking.
+(CCSS: L.1.1)
+i. Print all upper- and lowercase letters. (CCSS:
+L.1.1a)
+ii. Use common, proper, and possessive nouns.
+(CCSS:L.1.1b)
+iii. Use singular and plural nouns with matching
+verbs in basic sentences (e.g., He hops; We hop).
+(CCSS: L.1.1c)
+iv. Use personal, possessive, and indefinite pronouns
+(e.g., I, me, my; they, them, their, anyone,
+everything). (CCSS: L.1.1d)
+v. Use verbs to convey a sense of past,present,and
+future (e.g.,YesterdayI walked home; Today I
+walk home; Tomorrow I will walk home). (CCSS:
+L.1.1e)
+vi. Use frequently occurring adjectives. (CCSS:
+L.1.1f)
+vii. Use frequently occurring conjunctions (e.g., and,
+but, or, so, because).(CCSS: L.1.1g)
+viii. Use determiners (e.g., articles, demonstratives).
+(CCSS:L.1.1h)
+ix. Use frequently occurring prepositions (e.g.,
+during, beyond, toward).(CCSS: L.1.1i)
+x. Produce and expand complete simple and
+compound declarative,interrogative, imperative,
+and exclamatory sentences in response to
+prompts. (CCSS: L.1.1j)
+b. Demonstrate command of the conventions of standard
+English capitalization, punctuation, and spelling when
+writing. (CCSS: L.1.2)
+i. Write complete simple sentences.
+ii. Capitalize dates and names of people. (CCSS:
+L.1.2a)
+iii. Use end punctuation for sentences. (CCSS:
+L.1.2b)
+iv. Use commas in dates and to separate single
+words in a series. (CCSS: L.1.2c)
+v. Use conventional spelling for words with common
+spelling patterns and for frequently occurring
+irregular words. (CCSS:L.1.2d)
+vi. Spell untaught words phonetically, drawing on
+phonemic awareness and spelling conventions.
+(CCSS: L.1.2e)
+4. Research and Reasoning:
+A. Purpose, information, and questions about an issue are essential steps in early research:
+a. Participate in shared research and writing projects (e.g., explore a number of “how- to” books on a given topic
+and use them to write a sequence of instructions).
+(CCSS: W.1.7)
+i. Identify a clear and significant purpose for
+research (Is my purpose for researching frogs
+clear and is it important to understanding more
+about mammals?)
+b. With guidance and support from adults, recall
+information from experiences or gather information from
+provided sources to answer a question. (CCSS: W.1.8)
+i. Evaluate information for clarity and accuracy
+Science:
+1. Physical Science:
+A. Solids and liquids have unique properties that distinguish them: a. Analyze and interpret observations about solids and liquids and their unique properties (DOK 1-3)
+b. Identify The Similarities And differences of two or more groups of solids or liquids (DOK 1-2)
+c. Classify solids and liquids based on their properties, and justify your choice based on evidence (DOK 1-3)
+2. Life Science:
+A. Offspring have characteristics that are similar to but not exactly like their parents’ characteristics:
+a. Use evidence to analyze similarities and differences between parents and offspring in a variety of organisms including both
+plants and animals (DOK 1-2)
+b. Analyze and interpret data regarding the similarities and
+differences between parents and offspring (DOK 1-2)
+c. Question peers about evidence used in developing ideas about similarities and differences between parents and offspring (DOK
+1-2)
+d. Interpret Information Represented In pictures, illustrations, and simple charts (DOK 1-2)
+B. An organism is a living thing that has physical characteristics to help it survive:
+a. Identify organisms and use evidence based scientific
+explanations for classifying them into groups (DOK 1- 3)
+b. Analyze and interpret data about the needs of plants and
+animals (DOK 1- 2)
+c. Use direct observations and other evidence to support ideas
+concerning physical characteristics that help plants and animals
+survive (DOK 1-3)
+3. Earth Systems Science:
+A. Earth’s materials can be compared and classified based on their properties:
+a. Identify And Represent Similarities And differences such as the
+texture, size, color, and shape of various materials on Earth
+(DOK 1-2)
+b. Sort, group, and classify Earth’s materials based on
+observations and explorations (DOK 1-2)
+c. Make predictions about how a material on Earth might be useful
+based on its properties (DOK 1-3)
+d. Communicate Ideas About The differences between soils from
+different places (DOK 1-2)
+e. Use a variety of tools to observe, analyze, record, and compare
+Earth’s materials (DOK 1-2)
+f. Analyze the impact of reducing, reusing, and recycling various
+materials (DOK 1-3)
+secondgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A.The whole number system describes place value relationships
+through 1,000 and forms the foundation for efficient algorithms:
+a. Use place value to read,write,count,compare,and
+represent numbers.(CCSS: 2.NBT)
+i. Represent the digits of a three-digit number as
+hundreds, tens, and ones.1 (CCSS: 2.NBT.1)
+ii. Count within 1000. (CCSS: 2.NBT.2)
+iii. Skip-count by 5s, 10s, and 100s. (CCSS:
+2.NBT.2)
+iv. Read and write numbers to 1000 using base-ten
+numerals, number names, and expanded form.
+(CCSS: 2.NBT.3)
+v. Compare two three-digit numbers based on
+meanings of the hundreds, tens, and ones digits,
+using >, =, and < symbols to record the results
+of comparisons. (CCSS: 2.NBT.4)
+b. Use place value understanding and properties of
+operations adding subtract. (CCSS: 2.NBT)
+i. Fluently add and subtract within 100 using
+strategies based on place value, properties of
+operations, and/or the relationship between
+addition and subtraction. (CCSS: 2.NBT.5)
+ii. Add up to four two-digit numbers using strategies based on place value and properties of
+operations. (CCSS: 2.NBT.6)
+iii. Add and subtract within 1000, using concrete
+models or drawings and strategies based on place
+value, properties of operations, and/or the
+relationship between addition and subtraction;
+relate the strategy to a written method. (CCSS:
+2.NBT.7)
+iv. Mentally add 10 or 100 to a given number
+100–900, and mentally subtract 10 or 100 from a
+given number 100–900. (CCSS: 2.NBT.8)
+v. Explain why addition and subtraction strategies
+work, using place value and the properties of
+operations. (CCSS: 2.NBT.9)
+B. Formulate,represent,and use strategies to add and subtract within 100 with flexibility, accuracy, and efficiency:
+a. Represent and solve problems involving addition and subtraction. (CCSS: 2.OA)
+i. Use addition and subtraction within 100 to solve
+one and two-step word problems involving
+situations of adding to, taking from, putting
+together, taking apart, and comparing, with
+unknowns in all positions. (CCSS: 2.OA.1)
+ii. Apply addition and subtraction concepts to
+financial decision-making (PFL)
+b. Fluently add and subtract within 20 using mental
+strategies. (CCSS: 2.OA.2)
+c. Know from memory all sums of two one-digit numbers. (CCSS: 2.OA.2)
+d. Use equal groups of objects to gain foundations for multiplication. (CCSS: 2.OA)
+i. Determine whether a group of objects (up to 20) has an odd or even number of members. (CCSS:
+2.OA.3)
+ii. Write an equation to express an even number as a sum of two equal addends. (CCSS: 2.OA.3)
+iii. Use addition to find the total number of objects
+arranged in rectangular arrays with up to 5 rows
+and up to 5 columns and write an equation to
+express the total as a sum of equal addends.
+(CCSS: 2.OA.4)
+2. Data Analysis, Statistics, and Probability:
+A. Visual displays of data can be constructed in a variety of formats to solve problems:
+a. Represent and interpret data.(CCSS:2.MD)
+i. Generate measurement data by measuring lengths of
+several
+objects to the nearest whole unit, or by making repeated
+measurements of the same object. Show the
+measurements by making a line plot, where the
+horizontal scale is marked off in whole-number units.
+(CCSS: 2.MD.9)
+ii. Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories.
+(CCSS: 2.MD.10)
+iii. Solve simple put together, take-apart, and compare
+problems using information presented in picture and bar
+graphs. (CCSS: 2.MD.10)
+3. Shape, Dimension, and Geometric Relationships:
+A. Shapes can be described by their attributes and used to represent part/whole relationships:
+a. Recognize and draw shapes having specified attributes,
+such as a given number of angles or a given number of
+equal faces. (CCSS: 2.G.1)
+b. Identify triangles, quadrilaterals, pentagons, hexagons, and cubes. (CCSS: 2.G.1)
+c. Partition a rectangle into rows and columns of same-size squares and count to find the total number of them.
+(CCSS: 2.G.2)
+d. Partition circles and rectangles into two, three,or four
+equal shares, describe the shares using the words
+halves, thirds, half of, a third of, etc., and describe the
+whole as two halves, three thirds, four fourths. (CCSS:
+2.G.3)
+e. Recognize that equal shares of identical whole need not have the same shape. (CCSS: 2.G.3)
+B. Some attributes of objects are measurable and can be quantified using different tools:
+a. Measure and estimate lengths in standard units.(CCSS:2.MD)
+i. Measure the length of an object by selecting and using
+appropriate tools such as rulers, yardsticks, meter
+sticks, and measuring tapes. (CCSS: 2.MD.1)
+ii. Measure the length of an object twice, using length units
+of different lengths for the two measurements; describe
+how the two measurements relate to the size of the unit
+chosen. (CCSS: 2.MD.2)
+iii. Estimate lengths using units of inches, feet, centimeters,
+and meters. (CCSS: 2.MD.3)
+iv. Measure to determine how much longer one object is
+than another, expressing the length difference in terms
+of a standard length unit. (CCSS: 2.MD.4)
+b. Relate addition and subtraction to length.(CCSS:2.MD)
+i. Use addition and subtraction within 100 to solve word
+problems involving lengths that are given in the same
+units and equations with a symbol for the unknown
+number to represent the problem. (CCSS:2.MD.5)
+ii. Represent whole numbers as lengths from 0 on a
+number line2 diagram and represent whole-number sums
+and differences within 100 on a number line diagram.
+(CCSS: 2.MD.6)
+c. Solve problems time and money. (CCSS: 2.MD)
+i. Tell and write time from analog and digital clocks to the
+nearest five minutes, using a.m. and p.m. (CCSS:
+2.MD.7)
+ii. Solve word problems involving dollar bills, quarters,
+dimes,nickels, and pennies, using $ and ¢ symbols
+appropriately. (CCSS: 2.MD.8)
+Literacy:
+1. Oral Expression and Listening:
+A. Discussions contribute and expand on the ideas of self and others: a. Tell a story or recount an experience with appropriate facts and relevant, descriptive details, speaking audibly in coherent
+sentences. (CCSS: SL.2.4)
+b. Create audio recordings of stories or poems; add drawings or other visual displays to stories or recounts of experiences when
+appropriate to clarify ideas, thoughts, and feelings.
+(CCSS:SL.2.5)
+c. Produce complete sentences when appropriate to task and
+situation in order to provide requested detail or clarification.
+(CCSS: SL.2.6)
+B. New information can be learned and better dialogue created by listening actively:
+a. Participate in collaborative conversations with diverse partners about grade 2 topics and texts with peers and adults in small and larger groups. (CCSS: SL.2.1)
+i. Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care,
+speaking one at a time about the topics and texts under
+discussion). (CCSS: SL.2.1a)
+ii. Build on others’ talk in conversations by linking their
+comments to the remarks of others. (CCSS: SL.2.1b)
+iii. Ask for clarification and further explanation as needed about the topics and texts under discussion.
+(CCSS:SL.2.1c)
+b. Recount or describe key ideas or details from a text read aloud or information presented orally or through other media.
+(CCSS:SL.2.2)
+c. Ask and answer questions about what a speaker says in order to clarify comprehension, gather additional information, or
+deepen understanding of a topic or issue. (CCSS: SL.2.3)
+2. Reading for All Purposes:
+A. Fluent reading depends on specific skills and approaches to understanding strategies when reading literary text:
+a. Use Key Ideas and Details to:
+i. Ask and answer such questions as who, what, where, when,
+why, and how to demonstrate understanding of key details in a
+text. (CCSS: RL.2.1)
+ii. Recount stories, including fables and folktales from diverse
+cultures, and determine their central message, lesson, or
+moral. (CCSS: RL.2.2)
+iii. Describe how characters in a story respond to major events and challenges. (CCSS: RL.2.3)
+b. Use Craft and Structure to:
+i. Describe how words and phrases (e.g., regular beats,
+alliteration, rhymes, repeated lines) supply rhythm and
+meaning in a story, poem, or song. (CCSS: RL.2.4)
+ii. Describe the overall structure of a story, including describing how the beginning introduces the story and the ending
+concludes the action. (CCSS: RL.2.5)
+iii. Acknowledge differences in the points of view of characters, including by speaking in a different voice for each character
+when reading dialogue aloud. (CCSS: RL.2.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Use information gained from the illustrations and words in a print or digital text to demonstrate understanding of its
+characters, setting, or plot. (CCSS: RL.2.7)
+ii. Compare and contrast two or more versions of the same story (e.g., Cinderella stories) by different authors or from different
+cultures. (CCSS: RL.2.9)
+d. Use Range of Reading and Level of Text Complexity to:
+i. By the end of the year, read and comprehend literature,
+including stories and poetry, in the grades 2–3 text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RL.2.10)
+e. Compare formal and informal uses of English. (CCSS: L.2.3a)
+B. Fluent reading depends on specific skills and approaches to understanding strategies when reading informational text: a. Use Key Ideas and Details to:
+i. Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in a text. (CCSS: RI.2.1)
+ii. Identify the main topic of a multiparagraph text as well as the focus of specific paragraphs within the text. (CCSS: RI.2.2)
+iii. Describe the connection between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text. (CCSS: RI.2.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of words and phrases in a text
+relevant to a grade 2 topic or subject area. (CCSS: RI.2.)
+ii. Know and use various text features (e.g., captions, bold print, subheadings, glossaries, indexes, electronic menus, icons) to
+locate key facts or information in a text efficiently.
+(CCSS:RI.2.5)
+iii. Identify the main purpose of a text, including what the author wants to answer, explain, or describe. (CCSS: RI.2.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Explain how specific images (e.g., a diagram showing how a machine works) contribute to and clarify a text. (CCSS: RI.2.7) ii. Describe how reasons support specific points the author makes in a text. (CCSS: RI.2.8)
+iii. Compare and contrast the most important points presented by two texts on the same topic. (CCSS: RI.2.9)
+d. Use Range of Reading and Level of Text Complexity to:
+i. By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 2–3 text complexity band proficiently, with
+scaffolding as needed at the high end of the range.
+(CCSS:RI.2.10)
+e. Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases. (CCSS: L.2.4e) C. Decoding words with accuracy depends on knowledge of complex spelling patterns and morphology:
+a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.2.3)
+i. Distinguish long and short vowels when reading regularly
+spelled one-syllable words.(CCSS: RF.2.3a)
+ii. Know spelling-sound correspondences for additional common vowel teams. (CCSS:RF.2.3b)
+iii. Decode regularly spelled two-syllable words with long vowels. (CCSS:RF.2.3c)
+iv. Decode words with common prefixes and suffixes. (CCSS:
+RF.2.3d)
+v. Identify words with inconsistent but common spelling-sound correspondences. (CCSS:RF.2.3e)
+vi. Recognize and read grade-appropriate irregularly spelled
+words. (CCSS: RF.2.3f)
+b. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.2.4)
+i. Read grade-level text with purpose and understanding. (CCSS: RF.2.4a)
+ii. Read grade-level text orally with accuracy, appropriate rate, and expression. (CCSS: RF.2.4b)
+iii. Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS: RF.2.4c)
+c. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 2 reading and content, choosing flexibly from an array of strategies. (CCSS: L.2.4)
+i. Use sentence-level context as a clue to the meaning of a word or phrase. (CCSS: L.2.4a)
+ii. Determine the meaning of the new word formed when a known prefix is added to a known word (e.g., happy/unhappy,
+tell/retell). (CCSS:L.2.4b)
+iii. Use a known root word as a clue to the meaning of an
+unknown word with the same root (e.g., addition, additional).
+(CCSS: L.2.4c)
+iv. Use knowledge of the meaning of individual words to predict the meaning of compound words (e.g., birdhouse, lighthouse,
+housefly; bookshelf, notebook, bookmark). (CCSS:L.2.4d)
+d. Demonstrate understanding of figurative language, word relationships and nuances in word meanings. (CCSS: L.2.5)
+i. Identify real-life connections between words and their use
+(e.g., describe foods that are spicy or juicy). (CCSS: L.2.5a)
+ii. Distinguish shades of meaning among closely related verbs
+(e.g., toss, throw, hurl) and closely related adjectives (e.g.,
+thin, slender, skinny, scrawny). (CCSS: L.2.5b)
+e. Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using adjectives and adverbs to describe (e.g., When other kids are happy that makes me happy). (CCSS: L.2.6)
+3. Writing and Composition:
+A. Exploring the writing process helps to plan and draft a variety of literary genres:
+a. Write opinion pieces in which they introduce the topic or book they are writing about, state an opinion, supply reasons that support the opinion, use linking words (e.g., because, and, also) to connect opinion and reasons, and provide a concluding statement or section. (CCSS: W.2.1)
+b. Write narratives in which they recount a well-elaborated event or short sequence of events, include details to describe actions, thoughts, and feelings, use temporal words to signal event order, and provide a sense of closure. (CCSS: W.2.3)
+B. Exploring the writing process helps to plan and draft a variety of simple informational texts:
+a. Write informative/explanatory texts in which they introduce a topic, use facts and definitions to develop points, and provide a concluding statement or section. (CCSS: W.2.2)
+C. Appropriate spelling, capitalization, grammar, and punctuation are used and applied when writing:
+a. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.2.1) i. Use collective nouns (e.g., group). (CCSS: L.2.1a)
+ii. Form and use frequently occurring irregular plural nouns (e.g., feet, children, teeth, mice, fish). (CCSS: L.2.1b)
+iii. Use reflexive pronouns (e.g., myself, ourselves).
+(CCSS:L.2.1c)
+iv. Form and use the past tense of frequently occurring irregular verbs (e.g.,sat, hid, told). (CCSS: L.2.1d)
+v. Use adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.2.1e)
+vi. Produce, expand, and rearrange complete simple and compound sentences (e.g., The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy). (CCSS: L.2.1f)
+b. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.
+(CCSS:L.2.2)
+i. Capitalize holidays, product names, and geographic names. (CCSS: L.2.2a)
+ii. Use commas in greetings and closings of letters.
+(CCSS:L.2.2b)
+iii. Use an apostrophe to form contractions and frequently
+occurring possessives. (CCSS: L.2.2c)
+iv. Generalize learned spelling patterns when writing words
+(e.g., cage → badge; boy → boil). (CCSS: L.2.2d)
+v. Consult reference materials, including beginning
+dictionaries, as needed to check and correct spellings.
+(CCSS: L.2.2e)
+c. With guidance and support from adults and peers, focus on a topic and strengthen writing as needed by revising and editing.
+(CCSS: W.2.5)
+d. With guidance and support from adults, use a variety of digital tools to produce and publish writing, including in collaboration
+with peers. (CCSS: W.2.6)
+4. Research and Reasoning:
+A. Reference materials help us locate information and answer questions: a. Recall information from experiences or gather information from provided sources to answer a question. (CCSS: W.2.8)
+B. Questions are essential to analyze and evaluate the quality of thinking: a. Participate in shared research and writing projects (e.g., read a number of books on a single topic to produce a report; record
+science observations). (CCSS: W.2.7)
+Science:
+1. Physical Science:
+A. Changes in speed or direction of motion are caused by forces such as pushes and pulls:
+a. Identify and predict how the direction or speed of an object
+may change due to an outside force (DOK 1-2)
+b. Analyze and interpret observable data about the impact of
+forces on the motion of objects (DOK 1-2)
+2. Life Science:
+A. Organisms depend on their habitat’s nonliving parts to satisfy their needs:
+a. Use evidence to develop a scientific explanation about how
+organisms depend on their habitat. (DOK 2-3)
+b. Analyze and interpret data about non living components of a
+habitat (DOK 1-2)
+c. Assess and provide feedback on other scientific explanations
+regarding why an organism can survive in its habitat (DOK 1-3)
+d. Use instruments to make observations about habitat
+components – for example, data can be collected from a fish
+tank to assess the environmental health (dissolved oxygen, pH,
+Nitrogen content). (DOK 1-2)
+B. Each plant or animal has different structures or behaviors that serve different functions:
+a. Use evidence to develop an explanation as to why a habitat is
+or is not suitable for a specific organism (DOK 1-3)
+b. Analyze and interpret data about structures or behaviors of a
+population that help that population survive (DOK 1-2)
+3. Earth Systems Science:
+A. Weather and the changing seasons impact the environment and
+organisms such as humans, plants, and other animals:
+a. Use evidence to develop a scientific explanation for how the
+weather and changing seasons impacts the organisms such as
+humans, plants, and other animals – and the environment
+(DOK1-3)
+b. Analyze and interpret data such as temperatures in different
+locations (Sun or shade) at different times and seasons as
+evidence of how organisms and the environment are influenced
+by the weather and changing seasons (DOK 1-3)
+c. Analyze ways in which severe weather contributes to
+catastrophic events such as floods and forest fires (DOK 1- 2)
+thirdgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A. The whole number system describes place value relationships
+and forms the foundation for efficient algorithms:
+a. Use place value and properties of operations to perform
+multi-digit arithmetic. (CCSS: 3.NBT)
+i. Use place value to round whole numbers to the
+nearest 10 or 100. (CCSS: 3.NBT.1)
+ii. Fluently add and subtract within 1000 using
+strategies and algorithms based on place value,
+properties of operations, and/or the relationship
+between addition and subtraction. (CCSS:
+3.NBT.2)
+iii. Multiply one-digit whole numbers by multiples of 10 in the range 10–90 using strategies based on
+place value and properties of operations. (CCSS:
+3.NBT.3)
+B. Parts of a whole can be modeled and represented in different ways:
+a. Develop Understanding Of Fractions As
+Numbers.(CCSS:3.NF)
+i. Describe a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal
+parts; describe a fraction a/b a the quantity
+formed by a parts of size 1/b. (CCSS:3.NF.1)
+ii. Describe a fraction as a number on the number line; represent fractions on a number line
+diagram. (CCSS:3.NF.2)
+iii. Explain equivalence of fractions in special cases, and compare fractions by reasoning about their
+size. (CCSS:3.NF.3)
+1. Identify two fractions as equivalent(equal)
+if they are the same size, or the same
+point on a number line. (CCSS:3.NF.3a)
+2. Identify and generate simple equivalent
+fractions. Explain why the fractions are
+equivalent.(CCSS:3.NF.3b)
+3. Express Whole Numbers As Fractions,and
+recognize fractions that are equivalent to
+whole numbers. (CCSS:3.NF.3c)
+4. Compare Two Fractions With The Same
+Numerator Or The Same denominator by
+reasoning about their size. (CCSS:
+3.NF.3d)
+5. Explain why comparisons are valid only
+when the two fractions refer to the same
+whole. (CCSS:3.NF.3d)
+6. Record The Results Of Comparisons With
+The Symbols >,=,or <, and justify the
+conclusions.(CCSS: 3.NF.3d)
+C. Multiplication and division are inverse operations and can be modeled in a variety of ways:
+a. Represent and solve problems involving multiplication and
+division. (CCSS: 3.OA)
+i. Interpret products of whole numbers. (CCSS:
+3.OA.1)Interpret whole-number quotients of whole
+numbers. (CCSS: 3.OA.2)
+ii. Use multiplication and division within 100 to solve
+word problems in situations involving equal groups,
+arrays, and measurement quantities.(CCSS: 3.OA.3)
+iii. Determine the unknown whole number in a
+multiplication or division equation relating three whole
+numbers. (CCSS: 3.OA.4)
+iv. Model strategies to achieve a personal financial goal
+using arithmetic operations (PFL)
+b. Apply properties of multiplication and the relationship between multiplication and division. (CCSS: 3.OA)
+i. Apply properties of operations as strategies to multiply
+and divide. (CCSS: 3.OA.5)
+ii. Interpret division as an unknown-factor problem.
+(CCSS:3.OA.6)
+c. Multiply and divide within 100. (CCSS: 3.OA)
+i. Fluently multiply and divide within 100, using
+strategies such as the relationship between
+multiplication and division or properties of operations.
+(CCSS: 3.OA.7)
+ii. Recall from memory all products of two one-digit
+numbers. (CCSS: 3.OA.7)
+d. Solve problems involving the four operations, and identify and explain patterns in arithmetic. (CCSS: 3.OA)
+i. Solve two-step word problems using the four
+operations. (CCSS:3.OA.8)
+ii. Represent two-step word problems using equations
+with a letter standing for the unknown quantity.
+(CCSS: 3.OA.8)
+iii. Assess the reasonableness of answers using mental
+computation and estimation strategies including
+rounding. (CCSS: 3.OA.8)
+iv. Identify arithmetic patterns (including patterns in the
+addition table or multiplication table), and explain
+them using properties of operations. (CCSS: 3.OA.9)
+2. Data Analysis, Statistics, and Probability:
+A. Visual Displays Are Used To Describe Data:
+a. Represent and interpret data. (CCSS: 3.MD)
+i. Draw a scaled picture graph and a scaled bar
+graph to represent a data set with several
+categories. (CCSS:3.MD.3)
+ii. Solve one- and two-step “how many more” and
+“how many less” problems using information
+presented in scaled bar graphs.(CCSS: 3.MD.3)
+iii. Generate measurement data by measuring
+lengths using rulers marked with halves and
+fourths of an inch. Show the data by making a
+line plot, where the horizontal scale is marked off
+in appropriate units— whole numbers, halves, or
+quarters. (CCSS: 3.MD.4)
+3. Shape, Dimension, and Geometric Relationships:
+A. Geometric Figures Are Described By Their Attributes:
+a. Reason With Shapes And Their Attributes.(CCSS:3.G)
+i. Explain that shapes in different categories1 may
+share attributes and that the shared attributes
+can define a larger category. (CCSS: 3.G.1)
+1. Identify Rhombuses,rectangles,and
+squares as examples of quadrilaterals, and
+draw examples of quadrilaterals that do
+not belong to any of these subcategories.
+(CCSS: 3.G.1)
+ii. Partition shapes into parts with equal areas.
+Express the area of each part as a unit fraction of
+the whole(CCSS: 3.G.2)
+B. Linear and area measurement are fundamentally different and require different units of measure:
+a. Use concepts of area and relate area to multiplication
+and addition. (CCSS: 3.MD)
+i. Recognize area as an attribute of plane figures
+and apply concepts of area measurement. (CCSS:
+3.MD.5)
+ii. Find area of rectangles with whole number side
+lengths using a variety of methods (CCSS:
+3.MD.7a)
+iii. Relate area to the operations of multiplication
+and addition and recognize area as additive.
+(CSSS: 3.MD.7)
+b. Describe perimeter as an attribute of plane figures and
+distinguish between linear and area measures. (CCSS:
+3.MD)
+c. Solve real world and mathematical problems involving
+perimeters of polygons. (CCSS: 3.MD.8)
+i. Find the perimeter given the side lengths. (CCSS:
+3.MD.8)
+ii. Find an unknown side length given the perimeter.
+(CCSS: 3.MD.8)
+iii. Find rectangles with the same perimeter and
+different areas or with the same area and
+different perimeters. (CCSS: 3.MD.8)
+C. Time and attributes of object can be measured with appropriate Tools:
+a. Solve problems involving measurement and estimation of
+intervals of time, liquid volumes, and masses of objects.
+(CCSS: 3.MD)
+i. Tell and write time to the nearest minute. (CCSS:
+3.MD.1)
+ii. Measure time intervals in minutes. (CCSS: 3.MD.1)
+iii. Solve word problems involving addition and subtraction
+of time intervals in minutes using a number line
+diagram. (CCSS: 3.MD.1)
+iv. Measure and estimate liquid volumes and masses of
+objects using standard units of grams (g), kilograms
+(kg), and liters (l). (CCSS: 3.MD.2)
+v. Use models to add, subtract, multiply, or divide to solve
+one- step word problems involving masses or volumes
+that are given in the same units. (CCSS: 3.MD.2)
+Literacy:
+1. Oral Expression and Listening:
+A. Oral communication is used both informally and formally:
+a. Report on a topic or text, tell a story,or recount an experience with appropriate facts and relevant, descriptive details,
+speaking clearly at an understandable pace. (CCSS: SL.3.4)
+b. Create engaging audio recordings of stories or poems
+that demonstrate fluid reading at an understandable pace; add visual displays when appropriate to emphasize or enhance
+certain facts or details. (CCSS: SL.3.5)
+c. Speak in complete sentences when appropriate to task and situation in order to provide requested detail or clarification. (CCSS: SL.3.6)
+B. Successful group activities need the cooperation of everyone: a. Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others’ ideas and
+expressing their own clearly. (CCSS: SL 3.1)
+i. Come to discussions prepared, having read or studied
+required material; explicitly draw on that preparation
+and other information known about the topic to explore
+ideas under discussion. (CCSS: SL.3.1a)
+ii. Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care,
+speaking one at a time about the topics and texts under
+discussion). (CCSS: SL.3.1b)
+iii. Ask questions to check understanding of information
+presented, stay on topic, and link their comments to the
+remarks of others. (CCSS: SL.3.1c)
+iv. Explain their own ideas and understanding in light of the discussion. (CCSS: SL.3.1d)
+b. Determine the main ideas and supporting details of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally. (CCSS: SL 3.2)
+c. Ask and answer questions about information from a speaker, offering appropriate elaboration and detail. (CCSS: SL 3.3)
+2. Reading for All Purposes:
+A. Strategies are needed to make meaning of various types of literary genres:
+a. Use Key Ideas and Details to:
+i. Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the
+answers. (CCSS: RL.3.1)
+ii. Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or
+moral and explain how it is conveyed through key details in the
+text. (CCSS: RL.3.2)
+iii. Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the
+sequence of events. (CCSS: RL.3.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language.
+(CCSS: RL.3.4)
+ii. Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier
+sections. (CCSS: RL.3.5)
+iii. Distinguish their own point of view from that of the narrator or those of the characters. (CCSS: RL.3.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Explain how specific aspects of a text’s illustrations contribute to what is conveyed by the words in a story (e.g., create
+mood, emphasize aspects of a character or setting).
+(CCSS:RL.3.7)
+ii. Compare and contrast the themes, settings, and plots of
+stories written by the same author about the same or similar
+characters (e.g., in books from a series). (CCSS: RL.3.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend literature,
+including stories, dramas, and poetry, at the high end of the
+grades 2–3 text complexity band independently and
+proficiently. (CCSS: RL.3.10)
+B. Comprehension strategies are necessary when reading informational or persuasive text:
+a. Use Key Ideas and Details to:
+i. Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the
+answers. (CCSS: RI.3.1)
+ii. Determine the main idea of a text; recount the key details and explain how they support the main idea. (CCSS: RI.3.2)
+iii. Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and
+cause/effect. (CCSS: RI.3.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of general academic and
+domain-specific words and phrases in a text relevant to a
+grade 3 topic or subject area. (CCSS: RI.3.4)
+ii. Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic
+efficiently. (CCSS: RI.3.5)
+iii. Distinguish their own point of view from that of the author of a text. (CCSS: RI.3.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Use information gained from illustrations (e.g., maps,
+photographs) and the words in a text to demonstrate
+understanding of the text (e.g., where,when, why, and how
+key events occur). (CCSS: RI.3.7)
+ii. Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect,
+first/second/third in a sequence). (CCSS: RI.3.8)
+iii. Compare and contrast the most important points and key details presented in two texts on the same topic. (CCSS:
+RI.3.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical
+texts, at the high end of the grades 2–3 text complexity band
+independently and proficiently. (CCSS: RI.3.10)
+C. Increasing word understanding, word use, and word relationships increases vocabulary:
+a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.3.3)
+i. Identify and know the meaning of the most common prefixes and derivational suffixes.(CCSS: RF.3.3a)
+ii. Decode words with common Latin suffixes. (CCSS: RF.3.3b) iii. Decode multisyllable words. (CCSS: RF.3.3c)
+iv. Read grade-appropriate irregularly spelled words.
+(CCSS:RF.3.3d)
+b. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.3.4)
+i. Read grade-level text with purpose and understanding.
+(CCSS.3.4a)
+ii. Read grade-level prose and poetry orally with accuracy,
+appropriate rate, and expression. (CCSS.3.4b)
+iii. Use context to confirm or self-correct word recognition and understanding, rereading as
+necessary. (CCSS.3.4c)
+c. Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies. (CCSS: L.3.4)
+i. Use sentence-level context as a clue to the meaning of a word or phrase. (CCSS: L.3.4a)
+ii. Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable,
+comfortable/uncomfortable, care/careless, heat/preheat).
+(CCSS: L.3.4b)
+iii. Use a known root word as a clue to the meaning of an
+unknown word with the same root (e.g., company,
+companion). (CCSS: L.3.4c)
+iv. Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and
+phrases. (CCSS: L.3.4d)
+d. Demonstrate understanding of figurative language, word relationships and nuances in word meanings. (CCSS: L.3.5)
+i. Distinguish the literal and nonliteral meanings of words and
+phrases in context (e.g., take steps). (CCSS: L.3.5a)
+ii. Identify real-life connections between words and their use
+(e.g., describe people who are friendly or helpful).
+(CCSS:L.3.5b)
+iii. Distinguish shades of meaning among related words that
+describe states of mind or degrees of certainty (e.g., knew,
+believed, suspected, heard, wondered). (CCSS: L.3.5c)
+e. Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them). (CCSS: L.3.6)
+3. Writing and Composition:
+A. A writing process is used to plan, draft, and write a variety of literary genres:
+a. Write opinion pieces on topics or texts, supporting a point of view with reasons. (CCSS: W.3.1)
+i. Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that
+lists reasons. (CCSS: W.3.1a)
+ii. Provide reasons that support the opinion. (CCSS:
+W.3.1b)
+iii. Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons.
+(CCSS: W.3.1c)
+iv. Provide a concluding statement or section.
+(CCSS:W.3.1d)
+b. Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. (CCSS: W.3.3)
+i. Establish a situation and introduce a narrator and/or
+characters; organize an event sequence that unfolds
+naturally. (CCSS: W.3.3a)
+ii. Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the
+response of characters to situations. (CCSS: W.3.3b)
+iii. Use temporal words and phrases to signal event order. (CCSS: W.3c)
+iv. Provide a sense of closure. (CCSS: W.3.3d)
+B. A writing process is used to plan, draft, and write a variety of informational texts:
+a. Write informative/explanatory texts to examine a topic and convey ideas and information clearly. (CCSS: W.3.2)
+i. Introduce a topic and group related information
+together; include illustrations when useful to aiding
+comprehension. (CCSS: W.3.2a)
+ii. Develop the topic with facts, definitions, and details. (CCSS: W.3.2b)
+iii. Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of
+information. (CCSS: W.3c)
+iv. Provide a concluding statement or section.
+(CCSS:W.3.2d)
+C. Correct grammar, capitalization, punctuation, and spelling are used when writing:
+a. With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose. (CCSS: W.3.4)
+b. With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing. (CCSS: W.3.5)
+c. With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others. (CCSS: W.3.6)
+d. Use knowledge of language and its conventions when writing, speaking, reading, or listening. (CCSS: L.3.3)
+i. Choose words and phrases for effect. (CCSS: L.3.3a)
+ii. Recognize and observe differences between the conventions of spoken and written
+standard English. (CCSS: L.3.3b)
+e. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.3.1)
+i. Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and
+their functions in particular sentences. (CCSS: L.3.1a)
+ii. Form and use regular and irregular plural nouns. (CCSS: L.3.1b)
+iii. Use abstract nouns (e.g., childhood). (CCSS: L.3.1c)
+iv. Form and use regular and irregular verbs. (CCSS: L.3.1d) v. Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses. (CCSS: L.3.1e)
+vi. Ensure subject-verb and pronoun-antecedent agreement. (CCSS: L.3.1f)
+vii. Form and use comparative and superlative adjectives and
+adverbs, and choose between them depending on what is to be
+modified. (CCSS: L.3.1g)
+viii. Use coordinating and subordinating conjunctions. (CCSS:
+L.3.1h)
+ix. Produce simple, compound, and complex sentences. (CCSS:
+L.3.1i)
+f. Demonstrate command of the conventions of standard English
+capitalization, punctuation, and spelling when writing. (CCSS: L.3.2)
+i. Capitalize appropriate words in titles. (CCSS: L.3.2a)
+ii. Use commas in addresses. (CCSS: L.3.2b)
+iii. Use commas and quotation marks in dialogue. (CCSS: L.3.2c)
+iv. Form and use possessives. (CCSS: L.3.2d)
+v. Use conventional spelling for high-frequency and other studied
+words and for adding suffixes to base words (e.g., sitting,
+smiled, cries, happiness). (CCSS: L.3.2e)
+vi. Use spelling patterns and generalizations (e.g., word families,
+position-based spellings, syllable patterns, ending rules,
+meaningful word parts) in writing words. (CCSS: L.3.2f)
+vii. Consult reference materials, including beginning dictionaries,
+as needed to check and correct spellings. (CCSS: L.3.2g)
+4. Research and Reasoning:
+A. Researching a topic and sharing findings are often done with others: a. Conduct short research projects that build knowledge about a topic. (CCSS: W.3.7)
+b. Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort
+evidence into provided categories. (CCSS: W.3.8)
+Science:
+1. Physical Science:
+A. Matter exists in different states such as solids, liquids, and gasses and can change from one state to another by heating and cooling:
+a. Analyze And Interpret Observations about matter as it freezes and melts, and boils and condenses (DOK 1-2)
+b. Use evidence to develop a scientific explanation around how
+heating and cooling affects states of matter (DOK 1-3)
+c. Identify the state of any sample of matter (DOK 1)
+2. Life Science:
+A. The duration and timing of life cycle events such as reproduction and longevity vary across organisms and species:
+a. Use evidence to develop a scientific explanation regarding the
+stages of how organisms develop and change over time (DOK
+1-3)
+b. Analyze and interpret data to generate evidence that different
+organisms develop differently over time (DOK 1- 2)
+c. Use a variety of media to collect and analyze data regarding
+how organisms develop (DOK 1-2)
+3. Earth Systems Science:
+A. Earth’s materials can be broken down and/or combined into different materials such as rocks, minerals, rock cycle, formation of soil, and
+sand – some of which are usable resources for human activity:
+a. Investigate and identify two or more ways that Earth’s
+materials can be broken down and/or combined in different
+ways such as minerals into rocks, rock cycle, formation of soil,
+and sand (DOK 1-2)
+b. Use evidence to develop a scientific explanation about one or
+more processes that break down and/or combine Earth
+materials (DOK 1-3)
+c. Utilize a variety of media sources to collect and analyze data
+around Earth’s materials and the processes by which they are
+formed (DOK 1-2)
+fourthgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A. The decimal number system to the hundredths place describes
+place value patterns and relationships that are repeated in large
+and small numbers and forms the foundation for efficient
+algorithms:
+a. Generalize Place Value Understanding For Multi-digit
+whole numbers (CCSS: 4.NBT)
+i. Explain that in a multi-digit whole number, a digit
+in one place represents ten times what it
+represents in the place to its right. (CCSS:
+4.NBT.1)
+ii. Read and write multi-digit whole numbers using
+base-ten numerals, number names, and
+expanded form. (CCSS:4.NBT.2)
+iii. Compare two multi-digit numbers based on
+meanings of the digits in each place, using >, =,
+and < symbols to record the results of
+comparisons. (CCSS: 4.NBT.2)
+iv. Use place value understanding to round
+multi-digit whole numbers to any place. (CCSS:
+4.NBT.3)
+b. Use decimal notation to express fractions,and compare decimal fractions (CCSS: 4.NF)
+i. Express a fraction with denominator 10 as an
+equivalent fraction with denominator 100, and
+use this technique to add two fractions with
+respective denominators 10 and 100. (CCSS:
+4.NF.5)
+ii. Use decimal notation for fractions with
+denominators 10 or 100. (CCSS: 4.NF.6)
+iii. Compare two decimals to hundredths by
+reasoning about their size. (CCSS: 4.NF.7)
+B. Different models and representations can be used to compare fractional parts:
+a. Use Ideas Of Fraction Equivalence And Ordering
+To:(CCSS:4.NF)
+i. Explain equivalence of fractions using drawings
+and models.
+ii. Use the principle of fraction equivalence to
+recognize and generate equivalent fractions.
+(CCSS: 4.NF.1)
+iii. Compare two fractions with different numerators and different denominators, and justify the
+conclusions.(CCSS: 4.NF.2)
+b. Build fractions from unit fractions by applying
+understandings of operations on whole numbers. (CCSS: 4.NF)
+i. Apply previous understandings of addition and
+subtraction to add and subtract fractions.
+1. Compose And Decompose Fractions As
+Sums And Differences Of fractions with
+the same denominator in more than one
+way
+and justify with visual models.
+2. Add and subtract mixed numbers with
+denominators. (CCSS: 4.NF.3c)
+3. Solve Word Problems Involving Addition
+And Subtraction Of fractions referring to
+the same whole and having like
+denominators. (CCSS:4.NF.3d)
+ii. Apply and extend previous understandings of
+multiplication to multiply a fraction by a whole
+number. (CCSS: 4.NF.4)
+1. Express a fraction a/b as a multiple of 1/b.
+(CCSS: 4.NF.4a)
+2. Use a visual fraction model to express a/b
+as a multiple of 1/b, and apply to
+multiplication of whole number by a
+fraction (CCSS: 4.NF.4b)
+3. Solve word problems involving
+multiplication of a fraction by a whole
+number. (CCSS: 4.NF.4c)
+C. Formulate, represent, and use algorithms to compute with flexibility, accuracy, and efficiency:
+a. Use place value understanding and properties of operations to perform multi-digit arithmetic. (CCSS: 4.NBT)
+i. Fluently add and subtract multi-digit whole numbers using standard algorithms. (CCSS: 4.NBT.4)
+ii. Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using
+strategies based on place value and the properties of
+operations. (CCSS: 4.NBT.5)
+iii. Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies
+based on place value, the properties of operations, and/or the relationship between multiplication and division.
+(CCSS:4.NBT.6)
+iv. Illustrate and explain multiplication and division calculation by using equations, rectangular arrays, and/or area models.
+(CCSS: 4.NBT.6)
+b. Use the four operations with whole numbers to solve problems. (CCSS: 4.OA)
+i. Interpret a multiplication equation as a comparison.13 (CCSS: 4.OA.1)
+ii. Represent verbal statements of multiplicative comparisons as multiplication equations. (CCSS: 4.OA.1)
+iii. Multiply or divide to solve word problems involving
+multiplicative comparison. (CCSS: 4.OA.2)
+iv. Solve multistep word problems posed with whole numbers and having whole- number answers using the four operations,
+including problems in which remainders must be interpreted.
+(CCSS: 4.OA.3)
+v. Represent multi step word problems with equations using a variable to represent the unknown quantity. (CCSS: 4.OA.3)
+vi. Assess the reasonableness of answers using mental
+computation and estimation strategies including rounding.
+(CCSS: 4.OA.3)
+vii. Using the four operations analyze the relationship between choice and opportunity cost (PFL)
+2. Patterns, Functions, and Algebraic Structures:
+A. Number patterns and relationships can be represented by symbols:
+a. Generate and analyze patterns and identify apparent
+features of the pattern that were not explicit in the rule
+itself. (CCSS: 4.OA.5)
+i. Use number relationships to find the missing
+number in a sequence
+ii. Use a symbol to represent and find an unknown
+quantity in a problem situation
+iii. Complete input/output tables
+iv. Find the unknown in simple equations
+b. Apply concepts of squares,primes,composites,factors, and multiples to solve problems
+i. Find all factor pairs for a whole number in the
+range 1–100. (CCSS: 4.OA.4)
+ii. Recognize that a whole number is a multiple of
+each of its factors. (CCSS: 4.OA.4)
+iii. Determine whether a given whole number in the
+range 1–100 is a multiple of a given one-digit
+number. (CCSS: 4.OA.4)
+iv. Determine whether a given whole number in the
+range 1–100 is prime or composite. (CCSS:
+4.OA.4)
+3. Data Analysis, Statistics, and Probability:
+A. Visual displays are used to represent data:
+a. Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). (CCSS: 4.MD.4)
+b. Solve problems involving addition and subtraction of fractions by using information presented in line plots. (CCSS: 4.MD.4)
+4. Shape, Dimension, and Geometric Relationships:
+A. Appropriate measurement tools, units, and systems are used to measure different attributes of objects and time:
+a. Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit. (CCSS:
+4.MD)
+i. Know relative sizes of measurement units within one
+system of units including km, m, cm; kg, g; lb, oz.; l,
+ml; hr, min, sec. (CCSS: 4.MD.1)
+ii. Within a single system of measurement, express
+measurements in a larger unit in terms of a smaller unit.
+Record measurement equivalents in a two-column table.
+(CCSS: 4.MD.1)
+iii. Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of
+objects, and money, including problems involving simple
+fractions or decimals, and problems that require
+expressing measurements given in a larger unit in terms
+of a smaller unit. (CCSS: 4.MD.2)
+iv. Represent measurement quantities using diagrams such as number line diagrams that feature a measurement
+scale. (CCSS: 4.MD.2)
+v. Apply the area and perimeter formulas for rectangles in real world and mathematical problems. (CCSS: 4.MD.3)
+b. Use concepts of angle and measure angles.(CCSS:4.MD) i. Describe angles as geometric shapes that are formed
+wherever two rays share a common endpoint, and
+explain concepts of angle measurement. (CCSS: 4.MD.5)
+ii. Measure angles in whole-number degrees using a
+protractor. Sketch angles of specified measure.
+(CCSS:4.MD.6)
+iii. Demonstrate that angle measure as additive.
+(CCSS:4.MD.7)
+iv. Solve addition and subtraction problems to find unknown angles on a diagram in real world and mathematical
+problems. (CCSS: 4.MD.7)
+B. Geometric figures in the plane and in space are described and analyzed by their attributes:
+a. Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. (CCSS: 4.G.1)
+b. Identify points,line segments,angles,and perpendicular and
+parallel lines in two- dimensional figures. (CCSS: 4.G.1)
+c. Classify and identify two-dimensional figures according to
+attributes of line relationships or angle size. (CCSS: 4.G.2)
+d. Identify a line of symmetry for a two-dimensional figure.7
+(CCSS:4.G.3)
+Literacy:
+1. Oral Expression and Listening:
+A. A clear communication plan is necessary to effectively deliver and receive information:
+a. Engage effectively in a range of collaborative discussions
+(one-on-one,in groups, and teacher-led) with diverse partners
+on grade 4 topics and texts, building on others’ ideas and
+expressing their own clearly. (CCSS: SL.4.1)
+i. Come to discussions prepared, having read or studied
+required material; explicitly draw on that preparation
+and other information known about the topic to explore
+ideas under discussion. (CCSS: SL.4.1a)
+ii. Follow agreed-upon rules for discussions and carry out
+assigned roles. (CCSS: SL.4.1b)
+iii. Pose and respond to specific questions to clarify or
+follow up on information, and make comments that
+contribute to the discussion and link to the remarks of
+others. (CCSS: SL.4.1c)
+iv. Review the key ideas expressed and explain their own
+ideas and understanding in light of the discussion.
+(CCSS: SL.4.1d)
+b. Paraphrase portions of a text read aloud or information
+presented in diverse media and formats, including visually,
+quantitatively, and orally. (CCSS: SL.4.2)
+c. Identify the reasons and evidence a speaker provides to
+support particular points. (CCSS: SL.4.3)
+d. Report on a topic or text,tell a story,or recount an experience in an organized manner, using appropriate facts and relevant,
+descriptive details to support main ideas or themes; speak
+clearly at an understandable pace. (CCSS: SL.4.4)
+e. Add audio recordings and visual displays presentations when appropriate to enhance the development of main ideas or
+themes. (CCSS: SL.4.5)
+f. Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is
+appropriate (e.g., small- group discussion); use formal English when appropriate to task and situation. (CCSS: SL.4.6)
+2. Reading for All Purposes:
+A. Comprehension and fluency matter when reading literary texts in a fluent way:
+a. Use Key Ideas and Details to:
+i. Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the
+text. (CCSS: RL.4.1)
+ii. Determine a theme of a story, drama, or poem from details in the text; summarize the text. (CCSS: RL.4.2)
+iii. Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text (e.g., a
+character’s thoughts, words, or actions). (CCSS:RL.4.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of words and phrases as they are used in a text, including those that allude to significant characters
+found in mythology (e.g., Herculean). (CCSS: RL.4.4)
+ii. Explain major differences between poems, drama, and prose, and refer to the structural elements of poems (e.g., verse,
+rhythm, meter) and drama (e.g., casts of characters, settings,
+descriptions, dialogue, stage directions) when writing or
+speaking about a text. (CCSS: RL.4.5)
+iii. Compare and contrast the point of view from which different stories are narrated, including the difference between first
+and third-person narrations. (CCSS: RL.4.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each
+version reflects specific descriptions and directions in the text.
+(CCSS: RL.4.7)
+ii. Compare and contrast the treatment of similar themes and
+topics (e.g., opposition of good and evil) and patterns of
+events (e.g., the quest) in stories, myths, and traditional
+literature from different cultures. (CCSS: RL.4.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend literature,
+including stories, dramas, and poetry, in the grades 4–5 text
+complexity band proficiently, with scaffolding as needed at the
+high end of the range. (CCSS: RL.4.10)
+B. Comprehension and fluency matter when reading informational and persuasive texts in a fluent way:
+a. Use Key Ideas and Details to:
+i. Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the
+text. (CCSS: RI.4.1)
+ii. Determine the main idea of a text and explain how it is
+supported by key details; summarize the text. (CCSS: RI.4.2)
+iii. Explain events, procedures, ideas, or concepts in a historical, scientific, or technical text, including what happened and why,
+based on specific information in the text. (CCSS: RI.4.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of general academic and
+domain-specific words or phrases in a text relevant to a grade
+4 topic or subject area. (CCSS: RI.4.4)
+ii. Describe the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or
+information in a text or part of a text. (CCSS: RI.4.5)
+iii. Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and
+the information provided. (CCSS: RI.4.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Interpret information presented visually, orally, or
+quantitatively (e.g., in charts, graphs, diagrams, time lines,
+animations, or interactive elements on Web pages) and explain how the information contributes to an understanding of the
+text in which it appears. (CCSS: RI.4.7)
+ii. Explain how an author uses reasons and evidence to support particular points in a text. (CCSS: RI.4.8)
+iii. Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.
+(CCSS: RI.4.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 4–5 text complexity band proficiently, with
+scaffolding as needed at the high end of the range.
+(CCSS:RI.4.10)
+C. Knowledge of complex orthography (spelling patterns), morphology (word meanings), and word relationships to decode (read) multisyllabic words contributes to better reading skills:
+a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.4.3)
+i. Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes)
+to read accurately unfamiliar multisyllabic words in context and
+out of context. (CCSS: RF.4.3a)
+b. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.4.4)
+i. Read grade-level text with purpose and understanding.
+(CCSS:RF.4.4a)
+ii. Read grade-level prose and poetry orally with accuracy,
+appropriate rate, and expression. (CCSS: RF.4.4b)
+iii. Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS: RF.4.4c)
+c. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies. (CCSS: L.4.4)
+i. Use context (e.g., definitions, examples, or restatements in
+text) as a clue to the meaning of a word or phrase.
+(CCSS:L.4.4a)
+ii. Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., telegraph,
+photograph, autograph). (CCSS: L.4.4b)
+iii. Consult reference materials (e.g., dictionaries, glossaries,
+thesauruses), both print and digital, to find the pronunciation
+and determine or clarify the precise meaning of key words and
+phrases. (CCSS: L.4.4c)
+d. Demonstrate understanding of figurative language, word relationships, and nuances in word meanings. (CCSS: L.4.5)
+i. Explain the meaning of simple similes and metaphors (e.g., as pretty as a picture) in context. (CCSS: L.4.5a)
+ii. Recognize and explain the meaning of common idioms,
+adages, and proverbs. (CCSS: L.4.5b)
+iii. Demonstrate understanding of words by relating them to their opposites (antonyms) and to words with similar but not
+identical meanings (synonyms). (CCSS: L.4.5c)
+e. Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal precise actions, emotions, or states of being (e.g., quizzed, whined,
+stammered) and that are basic to a particular topic (e.g., wildlife, conservation, and endangered when discussing animal preservation). (CCSS: L.4.6)
+3. Writing and Composition:
+A. The recursive writing process is used to create a variety of literary genres for an intended audience:
+a. Write opinion pieces on topics or texts, supporting a point of view with reasons and information. (CCSS: W.4.1)
+i. Introduce a topic or text clearly,state an opinion,and create an organizational structure in which related ideas are grouped to support the writer’s purpose. (CCSS:
+W.4.1a)
+ii. Provide reasons that are supported by facts and
+details.(CCSS: W.4.1b)
+iii. Link Opinion And Reasons Using Words And
+Phrases(e.g.,for instance, in order to, in addition).
+(CCSS: W.4.1c)
+iv. Provide a concluding statement or section related to the opinion presented. (CCSS: W.4.1d)
+b. Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. (CCSS: W.4.3)
+i. Orient the reader by establishing a situation and
+introducing a narrator and/or characters; organize an
+event sequence that unfolds naturally. (CCSS: W.4.3a)
+ii. Use dialogue and description to develop experiences and events or show the responses of characters to
+situations. (CCSS: W.4.3b)
+iii. Use a variety of transitional words and phrases to
+manage the sequence of events. (CCSS: W.4.3c)
+iv. Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS:
+W.4.3d)
+v. Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.4.3e)
+B. Informational and persuasive texts use the recursive writing process: a. Write informative/explanatory texts to examine a topic and convey ideas and information clearly. (CCSS: W.4.2)
+i. Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g.,
+headings), illustrations, and multimedia when useful to
+aiding comprehension. (CCSS: W.4.2a)
+ii. Develop the topic with facts,definitions,concrete details, quotations, or other information and examples related to the topic. (CCSS: W.4.2b)
+iii. Link ideas within categories of information using words and phrases (e.g., another, for example, also, because).
+(CCSS:W.4.2c)
+iv. Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.4.2d)
+v. Provide A Concluding Statement Or Section Related To The information or explanation presented.
+(CCSS:W.4.2e)
+C. Correct sentence formation, grammar, punctuation, capitalization, and spelling are applied to make the meaning clear to the reader: a. Produce clear and coherent writing in which the development and organization are appropriate to task, purpose, and audience.
+(CCSS:W.4.4)
+b. With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing. (CCSS: W.4.5)
+c. With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of one page in a single sitting. (CCSS: W.4.6)
+d. Use knowledge of language and its conventions when writing, speaking, reading, or listening. (CCSS: L.4.3)
+i. Choose words and phrases to convey ideas precisely.
+(CCSS:L.4.3a)
+ii. Choose punctuation for effect. (CCSS: L.4.3b)
+iii. Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal
+discourse is appropriate (e.g., small-group discussion). (CCSS: L.4.3c)
+e. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.4.1)
+i. Use relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when,why). (CCSS: L.4.1a)
+ii. Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses. (CCSS: L.4.1b)
+iii. Use modal auxiliaries (e.g., can, may, must) to convey various conditions. (CCSS: L.4.1c)
+iv. Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag).
+(CCSS: L.4.1d)
+v. Form and use prepositional phrases. (CCSS: L.4.1e)
+vi. Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons. (CCSS: L.4.1f)
+vii. Correctly use frequently confused words (e.g., to, too, two; there, their). (CCSS: L.4.1g)
+f. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.4.2) i. Use correct capitalization. (CCSS: L.4.2a)
+ii. Use commas and quotation marks to mark direct speech and
+quotations from a text. (CCSS: L.4.2b)
+iii. Use a comma before a coordinating conjunction in a compound
+sentence. (CCSS: L.4.2c)
+iv. Spell grade-appropriate words correctly, consulting references
+as needed. (CCSS: L.4.2d)
+4. Research and Reasoning:
+A. Comprehending new information for research is a process undertaken with discipline both alone and within groups:
+a. Conduct short research projects that build knowledge through investigation of different aspects of a topic. (CCSS: W.4.7)
+b. Recallrelevantinformationfromexperiencesorgatherrelevant
+information from print and digital sources; take notes and
+categorize information, and provide a list of sources. (CCSS:
+W.4.8)
+c. Draw evidence from literary or informational texts to support analysis, reflection, and research. (CCSS: W.4.9)
+i. Apply grade 4 Reading standards to literature (e.g.,
+“Describe in depth a character, setting, or event in a
+story or drama, drawing on specific details in the text
+[e.g., a character’s thoughts, words, or actions].”).
+(CCSS:W.4.9.a)
+ii. Apply grade 4 Reading standards to informational texts
+(e.g., “Explain how an author uses reasons and evidence
+to support particular points in a text”). (CCSS: W.4.9.b)
+Science:
+1. Physical Science
+A. Energy comes in many forms such as light, heat, sound, magnetic, chemical, and electrical
+a. Identify and describe the variety of energy sources (DOK 1)
+b. Show that electricity in circuits requires a complete loop
+through which current can pass (DOK 1)
+c. Describe the energy transformation that takes place in electrical circuits where light, heat, sound, and magnetic effects are
+produced (DOK 1-2)
+d. Use multiple resources–including print, electronic, and human – to locate information about different sources of renewable and
+nonrenewable energy (DOK 1-2)
+2. Life Science
+A. All living things share similar characteristics, but they also have differences that can be described and classified
+a. Use evidence to develop a scientific explanation of what plants and animals need to survive (DOK 1-3)
+b. Use evidence to develop a scientific explanation for similarities and/or differences among different organisms (species)
+(DOK1-3)
+c. Analyze and interpret data representing variation in a trait (DOK1-2)
+d. Examine,evaluate,question,and ethically use information from a variety of sources and media to investigate questions about
+characteristics of living things (DOK 1- 2)
+B. Comparing fossils to each other or to living organisms reveals features of prehistoric environments and provides information about organisms today
+a. Use evidence to develop a scientific explanation for:
+i. What conclusions can be drawn from similarities
+between fossil evidence and living organisms (DOK 1-3)
+b. Analyze and interpret data to generate evidence about the prehistoric environment (DOK 1-2)
+c. Evaluate whether reasoning and conclusions about given fossils are supported by evidence (DOK 1-3)
+d. Use computer simulations that model and recreate past
+environments for study and entertainment (DOK 1-2)
+C. There is interaction and interdependence between and among living and nonliving components of systems
+a. Use evidence to develop a scientific explanation on how
+organisms adapt to their habitat (DOK 1-3)
+b. Identify the components that make a habitat type unique (DOK 1)
+c. Compare and contrast different habitat types (DOK 2)
+d. Create and evaluate models of the flow of nonliving
+components or resources through an ecosystem (DOK 2-3)
+e. Make a plan to positively impact a local ecosystem (DOK 2-4) f. Examine, evaluate, question, and ethically use information from a variety of sources and media to investigate endangered
+habitats (DOK 1-2)
+3. Earth Systems Science
+A. Earth is part of the solar system, which includes the Sun, Moon, and other bodies that orbit the Sun in predictable patterns that lead to
+observable paths of objects in the sky as seen from Earth
+a. Gather,analyze,and interpret data about components of the
+solar system (DOK 1-2)
+b. Utilize direct and indirect evidence to investigate the
+components of the solar system (DOK 1-2)
+c. Gather, analyze, and interpret data about the Sunrise and
+Sunset, and Moon movements and phases (DOK 1- 2)
+d. Develop a scientific explanation regarding relationships of the
+components of the solar system (DOK 1-3)
+fifthgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A. The decimal number system describes place value patterns and
+relationships that are repeated in large and small numbers and forms the foundation for efficient algorithms:
+a. Explain that in a multi-digit number, a digit in one place
+represents 10 times as much as it represents in the place to its
+right and 1/10 of what it represents in the place to its left.
+(CCSS: 5.NBT.1)
+i. Explain patterns in the number of zeros of the product
+when multiplying a number by powers of 10. (CCSS:
+5.NBT.2)
+ii. Explain patterns in the placement of the decimal point
+when a decimal is multiplied or divided by a power of
+10. (CCSS: 5.NBT.2)
+iii. Use whole-number exponents to denote powers of 10.
+(CCSS: 5.NBT.2)
+b. Read,write,and compare decimals to thousandths.(CCSS:
+5.NBT.3)
+i. Read and write decimals to thousandths using base-ten
+numerals, number names, and expanded form. (CCSS:
+5.NBT.3a)
+ii. Compare two decimals to thousandths based on
+meanings of the digits in each place, using >, =, and <
+symbols to record the results of comparisons. (CCSS:
+5.NBT.3b)
+c. Use place value understanding to round decimals to any place.
+(CCSS: 5.NBT.4)
+d. Convert like measurement units within a given measurement
+system. (CCSS: 5.MD)
+i. Convert among different-sized standard measurement units within a given measurement system. (CCSS:
+5.MD.1)
+ii. Use measurement conversions in solving multi-step, real world problems. (CCSS: 5.MD.1)
+B. Formulate, represent, and use algorithms with multi-digit whole numbers and decimals with flexibility, accuracy, and efficiency: a. Fluently multiply multi-digit whole numbers using standard algorithms. (CCSS: 5.NBT.5)
+b. Find whole-number quotients of whole numbers. (CCSS: 5.NBT.6)
+i. Use strategies based on place value, the properties of operations, and/or the relationship between
+multiplication and division. (CCSS: 5.NBT.6)
+ii. Illustrate and explain calculations by using equations, rectangular arrays, and/or area models. (CCSS:
+5.NBT.6)
+c. Add, subtract, multiply, and divide decimals to hundredths. (CCSS: 5.NBT.7)
+i. Use concrete models or drawings and strategies based on place value, properties of operations, and/or the
+relationship between addition and subtraction. (CCSS:
+5.NBT.7)
+ii. Relate strategies to a written method and explain the reasoning used. (CCSS: 5.NBT.7)
+d. Write and interpret numerical expressions. (CCSS:5.OA) i. Use parentheses, brackets, or braces in numerical
+expressions, and evaluate expressions with these
+symbols. (CCSS: 5.OA.1)
+ii. Write simple expressions that record calculations with numbers, and interpret numerical expressions without
+evaluating them. (CCSS: 5.OA.2)
+C. Formulate, represent, and use algorithms to add and subtract fractions with flexibility, accuracy, and efficiency:
+a. Use equivalent fractions as a strategy to add and subtract fractions. (CCSS: 5.NF)
+i. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of
+answers. (CCSS: 5.NF.2)
+ii. Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions
+with equivalent fractions with like denominators. (CCSS: 5.NF.1)
+iii. Solve word problems involving addition and subtraction of fractions referring to the same whole. (CCSS: 5.NF.2)
+D. The concepts of multiplication and division can be applied to multiply and divide fractions:
+a. Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). (CCSS: 5.NF.3)
+b. Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers. (CCSS: 5.NF.3)
+c. Interpret the product (a/b) × q as a part of a partition of q into b equal parts; equivalently, as the result of a sequence of operations a × q ÷ b. In general, (a/b) × (c/d) = ac/bd. (CCSS: 5.NF.4a)
+d. Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. (CCSS: 5.NF.4b)
+i. Multiply fractional side lengths to find areas of
+rectangles, and represent fraction products as
+rectangular areas. (CCSS: 5.NF.4b)
+e. Interpret multiplication as scaling(resizing).(CCSS:5.NF.5) i. Compare the size of a product to the size of one factor on the basis of the size of the other factor, without
+performing the indicated multiplication. (CCSS: 5.NF.5a) ii. Apply the principle of fraction equivalence a/b = (n × a)/(n × b) to the effect of multiplying a/b by 1. (CCSS:
+5.NF.5b)
+f. Solve real world problems involving multiplication of fractions and
+mixed numbers.(CCSS: 5.NF.6)
+g. Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. (CCSS: 5.NF.7a)
+h. Interpret division of a whole number by a unit fraction, and compute such quotients. (CCSS: 5.NF.7b)
+i. Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions. (CCSS: 5.NF.7c)
+2. Patterns, Functions, and Algebraic Structures:
+A. Number patterns are based on operations and relationships: a. Generate two numerical patterns using given rules. (CCSS: 5.OA.3)
+b. Identify apparent relationships between corresponding terms. (CCSS: 5.OA.3)
+c. Form ordered pairs consisting of corresponding terms from the two patterns, and graphs the ordered pairs on a coordinate
+plane. (CCSS: 5.OA.3)
+d. Explain informally relationships between corresponding terms in the patterns. (CCSS: 5.OA.3)
+3. Data Analysis,Statistics, and Probability:
+A. Visual displays are used to interpret data:
+a. Represent and interpret data.(CCSS:5.MD)
+i. Make a line plot to display a data set of
+measurements in fractions of a unit (1/2,
+1/4, 1/8). (CCSS: 5.MD.2)
+ii. Use operations on fractions for this grade to solve
+problems involving information presented in line plots.
+(CCSS: 5.MD.2)
+4. Shape, Dimension, and Geometric Relationships:
+A. Properties of multiplication and addition provide the foundation for volume an attribute of solids:
+a. Model and justify the formula for volume of rectangular prisms. (CCSS: 5.MD.5b)
+i. Model the volume of a right rectangular prism with
+whole- number side lengths by packing it with unit
+cubes. (CCSS: 5.MD.5b)
+ii. Show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying
+the height by the area of the base. (CCSS: 5.MD.5a)
+iii. Represent threefold whole-number products as volumes to represent the associative property of multiplication.
+(CCSS: 5.MD.5a)
+b. Find volume of rectangular prisms using a variety of methods and use these techniques to solve real world and mathematical
+problems. (CCSS: 5.MD.5a)
+i. Measure volumes by counting unit cubes, using cubic
+cm, cubic in, cubic ft, and improvised units. (CCSS:
+5.MD.4)
+ii. Apply the formulas V=l×w×h and V=b×h for rectangular
+prisms to find volumes of right rectangular prisms with
+whole-number edge lengths. (CCSS: 5.MD.5b)
+iii. Use the additive nature of volume to find volumes of
+solid figures composed of two non-overlapping right
+rectangular prisms by adding the volumes of the
+non-overlapping parts. (CCSS: 5.MD.5c)
+B. Geometric figures can be described by their attributes and specific locations in the plane:
+a. Graph points on the coordinate plane to solve real- world and mathematical problems. (CCSS: 5.G)
+b. Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and
+interpret coordinate values of points in the context of the
+situation. (CCSS:5.G.2)
+c. Classify two-dimensional figures into categories based on their properties. (CCSS: 5.G)
+i. Explain that attributes belonging to a category of
+two-dimensional figures also belong to all subcategories
+of that category. (CCSS: 5.G.3)
+ii. Classify two-dimensional figures in a hierarchy based on
+properties. (CCSS: 5.G.4)
+Literacy:
+1. Oral Expression and Listening:
+A. Effective communication requires speakers to express an opinion, provide information, describe a process, and persuade an audience: a. Describe a process and persuade an audience
+i. Report on a topic or text or present an opinion,
+sequencing ideas logically and using appropriate facts
+and relevant, descriptive details to support main ideas or
+themes. (CCSS: SL.5.4)
+ii. Use appropriate eye contact and speak clearly at an
+understandable pace. (CCSS: SL.5.4)
+b. Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes. (CCSS: SL.5.5)
+c. Adapt speech to a variety of contexts and tasks. (CCSS: SL.5.6
+B. Listening strategies are techniques that contribute to understanding different situations and serving different purposes:
+a. Listen to other’s ideas and form their own opinions
+b. Engage effectively in a range of collaborative discussions
+(one-on- one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others’ ideas and
+expressing their own clearly. (CCSS: SL.5.1)
+i. Come to discussions prepared,having read or studied
+required material; explicitly draw on that preparation
+and other information known about the topic to explore
+ideas under discussion. (CCSS: SL.5.1a)
+ii. Follow agreed-upon rules for discussions and carry out
+assigned roles. (CCSS: SL.5.1b)
+iii. Pose and respond to specific questions by making
+comments that contribute to the discussion and
+elaborate on the remarks of others. (CCSS: SL.5.1c)
+iv. Review the key ideas expressed and draw conclusions in light of information and knowledge gained from the
+discussions. (CCSS: SL.5.1d)
+c. Model a variety of active listening strategies (eye contact, note taking, questioning, formulating clarifying questions)
+i. Summarize a written text read aloud or information
+presented in diverse media and formats, including
+visually, quantitatively, and orally. (CCSS: SL.5.2)
+d. Summarize the points a speaker makes and explain how each claim is supported by reasons and evidence. (CCSS: SL.5.3)
+2. Reading for All Purposes:
+A. Literary texts are understood and interpreted using a range of strategies:
+a. Use pre-reading strategies, such as identifying a purpose for reading, generating questions to answers while reading, previewing sections of texts and activating prior knowledge
+b. Use Key Ideas and Details to:
+i. Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.
+(CCSS: RL.5.1)
+ii. Determine a theme of a story, drama, or poem from details in the text, including how characters in a story or drama respond to challenges or how the speaker in a poem reflects upon a
+topic; summarize the text. (CCSS: RL.5.2)
+iii. Compare and contrast two or more character’s points of view, settings, or events in a story or drama, drawing on specific
+details in the text (e.g., how characters
+interact).(CCSS:RL.5.3)
+c. Use Craft and Structure to:
+i. Determine the meaning of words and phrases as they are used in a text, including figurative language such as metaphors and similes. (CCSS: RL.5.4)
+ii. Use the relationship between particular words (e.g., synonyms, antonyms, homographs) to better understand each of the
+words. (CCSS: L.5.5c)
+iii. Explain how a series of chapters, scenes, or stanzas fits
+together to provide the overall structure of a particular story,
+drama, or poem. (CCSS: RL.5.5)
+iv. Describe how a narrator’s or speaker’s point of view influences how events are described. (CCSS: RL.5.6)
+v. Locate information to support opinions, predictions, inferences, and identification of the author’s message or theme
+vi. Compare and contrast the varieties of English (e.g. dialects, registers) used in stories, dramas, or poems. (CCSS: L.5.3b)
+d. Use Integration of Knowledge and Ideas to:
+i. Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel,
+multimedia presentation of fiction, folktale, myth, poem).
+(CCSS: RL.5.7)
+ii. Compare and contrast stories in the same genre (e.g.,
+mysteries and adventure stories) on their approaches to
+similar themes and topics. (CCSS:RL.5.9)
+iii. Use knowledge of literary devices (such as imagery, rhythm, foreshadowing, simple metaphors) to understand and respond to text.
+e. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend literature,
+including stories, dramas, and poetry, at the high end of the
+grades 4–5 text complexity band independently and
+proficiently. (CCSS: RL.5.10)
+B. Ideas found in a variety of informational texts need to be compared and understood:
+a. Use Key Ideas and Details to:
+i. Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.
+(CCSS: RI.5.1)
+ii. Determine two or more main ideas of a text and explain how they are supported by key details; summarize the text.
+(CCSS:RI.5.2)
+iii. Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text.
+(CCSS: RI.5.3)
+iv. Distinguish between fact and opinion, providing support for judgments made
+b. Use Craft and Structure to:
+i. Determine the meaning of general academic and
+domain-specific words and phrases in a text relevant to a
+grade 5 topic or subject area. (CCSS: RI.5.4)
+ii. Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas,
+concepts, or information in two or more texts. (CCSS: RI.5.5)
+iii. Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent. (CCSS: RI.5.6)
+iv. Use informational text features (such as bold type, headings, graphic organizers, numbering schemes, glossary) and text
+structures to organize or categorize information, to answer
+questions, or to perform specific tasks
+c. Use Integration of Knowledge and Ideas to
+i. Draw on information from multiple print or digital sources, demonstrating the ability to locate an answer to a question
+quickly or to solve a problem efficiently. (CCSS: RI.5.7)
+ii. Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and
+evidence support which point(s). (CCSS: RI.5.8)
+iii. Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably.
+(CCSS: RI.5.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical
+texts, at the high end of the grades 4– 5 text complexity band independently and proficiently. (CCSS: RI.5.10)
+C. Knowledge of morphology and word relationships matters when reading:
+a. Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context. (CCSS: RF.5.3a)
+b. Determine or clarify the meaning of unknown and
+multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.
+(CCSS: L.5.4)
+i. Use context (e.g., cause/effect relationships and
+comparisons in text) as a clue to the meaning of a word
+or phrase. (CCSS: L.5.4a)
+ii. Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g.,
+photograph, photosynthesis). (CCSS: L.5.4b)
+iii. Consult reference materials (e.g., dictionaries,
+glossaries, thesauruses), both print and digital, to find
+the pronunciation and determine or clarify the precise
+meaning of key words and phrases. (CCSS: L.5.3c)
+c. Read and identify the meaning of words with sophisticated prefixes and suffixes
+d. Apply knowledge of derivational suffixes that change the part of speech of the base word (such as active, activity)
+e. Infer meaning of words using structural analysis, context, and knowledge of multiple meanings
+f. Read and identify the meaning of roots and related word
+families in which the pronunciation of the root does not change g. Read with sufficient accuracy and fluency to support
+comprehension. (CCSS: RF.5.4)
+i. Read grade-level text with purpose and understanding.
+(CCSS: RF.5.4a)
+ii. Read grade-level prose and poetry orally with accuracy,
+appropriate rate, and expression. (CCSS: RF.5.4b)
+iii. Use context to confirm or self-correct word recognition
+and understanding, rereading as necessary. (CCSS:
+RF.5.4c)
+3. Writing and Composition:
+A. The recursive writing process contributes to the creative and unique literary genres for a variety of audiences and purposes:
+a. Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. (CCSS: W.5.3)
+i. Create personal and fictional narratives with a strong
+personal voice
+ii. Orient the reader by establishing a situation and
+introducing a narrator and/or characters; organize an
+event sequence that unfolds naturally. (CCSS: W.5.3a)
+iii. Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show
+the responses of characters to situations. (CCSS:
+W.5.3b)
+iv. Use a variety of transitional words, phrases, and clauses to manage the sequence of events. (CCSS: W.5.3c)
+v. Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS:
+W.5.3d)
+vi. Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.5.3e)
+b. Write poems using poetic techniques (alliteration,
+onomatopoeia); figurative language (simile, metaphor); and graphic elements (capital letters, line length)
+B. The recursive writing process creates stronger informational and persuasive texts for a variety of audiences and purposes: a. Write opinion pieces on topics or texts, supporting a point of view with reasons and information. (CCSS: W.5.1)
+i. Include cause and effect, opinions, and other opposing viewpoints in persuasive writing
+ii. Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are
+logically grouped to support the writer’s purpose.
+(CCSS:W.5.1a)
+iii. Provide logically ordered reasons that are supported by facts and details. (CCSS: W.5.1b)
+iv. Link opinion and reasons using words, phrases, and clauses (e.g., consequently, specifically). (CCSS: W.5.1c) v. Provide a concluding statement or section related to the opinion presented. (CCSS: W.5.1d)
+b. Write informative/explanatory texts to examine a topic and convey ideas and information clearly. (CCSS: W.5.2)
+i. Introduce a topic clearly, provide a general observation and focus, and group related information logically;
+include formatting (e.g., headings), illustrations, and
+multimedia when useful to aiding comprehension.
+(CCSS: W.5.2a)
+ii. Develop the topic with facts, definitions, concrete
+details, quotations, or other information and examples
+related to the topic. (CCSS: W.5.2b)
+iii. Link ideas within and across categories of information using words, phrases, and clauses (e.g., in contrast,
+especially). (CCSS: W.5.2c)
+iv. Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.5.2d)
+v. Provide a concluding statement or section related to the information or explanation presented. (CCSS: W.5.2e)
+C. Conventions apply consistently when evaluating written texts: a. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.5.2) i. Use punctuation to separate items in a series. (CCSS: L.5.2a) ii. Use a comma to separate an introductory element from the rest of the sentence. (CCSS: L.5.2b)
+iii. Use a comma to set off the words yes and no (e.g., Yes, thank you), to set off a tag question from the rest of the sentence
+(e.g., It’s true, isn’t it?), and to indicate direct address (e.g., Is that you, Steve?). (CCSS: L.5.2c)
+iv. Use underlining, quotation marks, or italics to indicate titles of works. (CCSS: L.5.2d)
+v. Spell grade-appropriate words correctly, consulting references as needed. (CCSS: L.5.2e)
+b. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.5.1)
+i. Explain the function of conjunctions, prepositions, and
+interjections in general and their function in particular
+sentences. (CCSS: L.5.1a)
+ii. Form and use the perfect (e.g., I had walked; I have walked; I will have walked) verb tenses. (CCSS: L.5.1b)
+iii. Use verb tense to convey various times, sequences, states, and conditions. (CCSS: L.5.1c)
+iv. Recognize and correct inappropriate shifts in verb tense. (CCSS: L.5.1d)
+v. Use correlative conjunctions (e.g., either/or, neither/nor). (CCSS: L.5.1e)
+c. Expand, combine, and reduce sentences for meaning, reader/listener interest, and style. (CCSS: L.5.1f)Produce clear and coherent writing in which the development and organization are appropriate to task, purpose, and audience. (CCSS: W.5.4)
+d. With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach. (CCSS: W.5.5)
+e. With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command
+of keyboarding skills to type a minimum of two pages in a single
+sitting. (CCSS: W.5.6)
+4. Research and Reasoning:
+A. High-quality research requires information that is organized and presented with documentation:
+a. Conduct short research projects that use several sources to build knowledge through investigation of different aspects of a topic. (CCSS: W.5.7)
+i. Summarize and support key ideas
+ii. Demonstrate comprehension of information with
+supporting logical and valid inferences
+iii. Develop and present a brief (oral or written)
+research report with clear focus and supporting
+detail for an intended audience
+b. Recall relevant information from experiences or gather relevant information from print and digital sources; summarize or
+paraphrase information in notes and finished work, and provide a list of sources. (CCSS: W.5.8)
+i. Develop relevant supporting visual information (charts,
+maps, graphs, photo evidence, models)
+ii. Provide documentation of sources used in a
+grade-appropriate format
+B. Identifying and evaluating concepts and ideas have implications and consequences:
+a. Draw evidence from literary or informational texts to support analysis, reflection, and research. (CCSS: W.5.9)
+i. Accurately explain the implications of concepts they use
+ii. Identify irrelevant ideas and use concepts and ideas in
+ways relevant to their purpose
+iii. Analyze concepts and draw distinctions between related but different concepts
+iv. Demonstrate use of language that is careful and precise while holding others to the same standards
+v. Distinguish clearly and precisely the difference between
+an implication and consequence
+vi. Distinguish probable from improbable implications and
+consequences
+vii. Apply grade 5 Reading standards to literature (e.g.,
+“Compare and contrast two or more characters, settings,
+or events in a story or a drama, drawing on specific
+details in the text [e.g., how characters interact]”).
+(CCSS: W.5.9a)
+viii. Apply grade 5 Reading standards to informational texts
+(e.g., “Explain how an author uses reasons and evidence
+to support particular points in a text, identifying which
+reasons and evidence support which point[s]”). (CCSS:
+W.5.9b)
+C. Quality reasoning requires asking questions and analyzing and evaluating viewpoints:
+a. Ask primary questions of clarity, significance, relevance,
+accuracy, precision, logic, fairness, depth, and breadth
+b. Acknowledge the need to treat all viewpoints fair-mindedly
+c. Recognize what they know and don’t know (intellectual
+humility)
+d. Recognize the value of using the reasoning process to foster
+desirable outcomes (intellectual confidence in reason)
+Science:
+1. Physical Science:
+A. Mixtures of matter can be separated regardless of how they were created; all weight and mass of the mixture are the same as the sum of weight and mass of its parts:
+a. Develop,communicate,and justify a procedure to separate
+simple mixtures based on physical properties (DOK 1- 3)
+b. Share evidence-based conclusions and an understanding of the impact on the weight/mass of a liquid or gas mixture before
+and after it is separated into parts (DOK 1-3)
+2. Life Science:
+A. All organisms have structures and systems with separate functions: a. Develop and communicate an evidence-based scientific
+explanation of the role of different organs or structures that are
+important for an organism’s survival – in both plants and
+animals (DOK 1-3)
+b. Analyze and interpret data to generate evidence that all
+organisms have structures that are required for survival in both
+plants and animals (DOK 1-2)
+c. Create and evaluate models of plant and/or animal systems or parts (DOK 2-3)
+B. Human body systems have basic structures, functions, and needs:
+a. Develop and communicate an evidence-based scientific
+explanation regarding how humans address basic survival
+needs (DOK 1-3)
+b. Analyze and interpret data to generate evidence that human systems are interdependent (DOK 1-2)
+c. Assess further scientific explanations regarding basic human body system functions (DOK 1-3)
+d. Create and evaluate models of human body systems and
+organs (DOK 2-3)
+e. Compare and contrast a human system to that of another
+organism, and provide hypotheses about why the similarities
+and differences exist (DOK 2-3)
+3. Earth Systems Science:
+A. Earth and sun provide a diversity of renewable and nonrenewable resources:
+a. Develop and communicate a scientific explanation addressing a question of local relevance about resources generated by the
+sun or Earth (DOK 1-3)
+b. Analyze and interpret a variety of data to understand the origin, utilization, and concerns associated with natural resources
+(DOK 1-3)
+B. Earth’s surface changes constantly through a variety of processes and forces:
+a. Analyze and interpret data identifying ways Earth’s surface is constantly changing through a variety of processes and forces such as plate tectonics, erosion, deposition, solar influences,
+climate, and human activity
+b. Develop and communicate an evidence based scientific
+explanation around one or more factors that change Earth’s
+surface (DOK 2-3)
+C. Weather conditions change because of the uneven heating of Earth’s surface by the Sun’s energy. Weather changes are measured by differences in temperature, air pressure, wind and water in the atmosphere and type of precipitation:
+a. Develop and communicate an evidence-based scientific
+explanation for changes in weather conditions (DOK 1-3)
+b. Gather,analyze,and interpret data such as temperature, air
+pressure, wind, and humidity in relation to daily weather
+conditions (DOK 1-3)
+c. Describe weather conditions based on data collected using a
+variety of weather tools (DOK 1-2)
+d. Use data collection tools and measuring devices to gather,
+organize, and analyze data such as temperature, air pressure,
+wind, and humidity in relation to daily weather conditions (DOK
+1-2)
+sixthgrade:
+Math:
+1. Number Sense, Properties, and Operations:
+A. Quantities can be expressed and compared using ratios and rates: a. Apply the concept of a ratio and use ratio language to describe
+a ratio relationship between two quantities. (CCSS: 6.RP.1)
+b. Apply the concept of a unit rate a/b associated with a ratio a:b
+with b ≠0, and use rate language in the context of a ratio
+relationship. (CCSS: 6.RP.2) Use ratio and rate reasoning to
+solve real-world and mathematical problems. (CCSS: 6.RP.3)
+i. Make tables of equivalent ratios relating quantities with
+whole-number measurements, find missing values in the
+tables, and plot the pairs of values on the coordinate
+plane. (CCSS: 6.RP.3a)
+ii. Use tables to compare ratios. (CCSS: 6.RP.3a)
+iii. Solve unit rate problems including those involving unit
+pricing and constant speed. (CCSS: 6.RP.3b)
+iv. Find a percent of a quantity as a rate per 100.
+(CCSS:6.RP.3c)
+v. Solve problems involving finding the whole, given a part
+and the percent. (CCSS: 6.RP.3c)
+vi. Use common fractions and percents to calculate parts of
+whole numbers in problem situations including
+comparisons of savings rates at different financial
+institutions (PFL)
+vii. Express the comparison of two whole number quantities using differences, part-to-part ratios, and part-to-whole
+ratios in real contexts, including investing and saving
+(PFL)
+viii. Use ratio reasoning to convert measurement units. (CCSS:6.RP.3d)
+B. Formulate, represent, and use algorithms with positive rational numbers with flexibility, accuracy, and efficiency:
+a. Fluently divide multi-digit numbers using standard algorithms. (CCSS: 6.NS.2)
+b. Fluently add, subtract, multiply ,and divide multi- digit decimals using standard algorithms for each operation. (CCSS: 6.NS.3) c. Find the greatest common factor of two whole numbers less than or equal to 100. (CCSS: 6.NS.4)
+d. Find the least common multiple of two whole numbers less than or equal to 12. (CCSS: 6.NS.4)
+e. Use the distributive property to express a sum of two whole numbers 1–100 with a common factor as a multiple of a sum of two whole numbers with no common factor. (CCSS: 6.NS.4)
+f. Interpret and model quotients of fractions through the creation of story contexts. (CCSS: 6.NS.1)
+g. Compute quotients of fractions. (CCSS: 6.NS.1)
+h. Solve word problems involving division of
+fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. (CCSS: 6.NS.1)
+C. In the real number system,rational numbers have a unique location on the number line and in space:
+a. Explain why positive and negative numbers are used together to describe quantities having opposite directions or values. (CCSS: 6.NS.5)
+i. Use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each
+situation. (CCSS: 6.NS.5)
+b. Use number line diagrams and coordinate axes to represent points on the line and in the plane with negative number coordinates. (CCSS: 6.NS.6)
+i. Describe a rational number as a point on the number line.
+(CCSS: 6.NS.6)
+ii. Use opposite signs of numbers to indicate locations on
+opposite sides of 0 on the number line. (CCSS: 6.NS.6a)
+iii. Identify that the opposite of the opposite of a number is the
+number itself. (CCSS: 6.NS.6a)
+iv. Explain when two ordered pairs differ only by signs, the
+locations of the points are related by reflections across one or
+both axes. (CCSS: 6.NS.6b)
+v. Find and position integers and other rational numbers on a
+horizontal or vertical number line diagram. (CCSS: 6.NS.6c)
+vi. Find and position pairs of integers and other rational numbers on a coordinate plane. (CCSS: 6.NS.6c)
+c. Order and find absolute value of rational numbers. (CCSS: 6.NS.7) i. Interpret statements of inequality as statements about the
+relative position of two numbers on a number line diagram.
+(CCSS: 6.NS.7a)
+ii. Write, interpret, and explain statements of order for rational
+numbers in real- world contexts. (CCSS: 6.NS.7b)
+iii. Define the absolute value of a rational number as its distance
+from 0 on the number line and interpret absolute value as
+magnitude for a positive or negative quantity in a real-world
+situation. (CCSS: 6.NS.7c)
+iv. Distinguish comparisons of absolute value from statements
+about order. (CCSS: 6.NS.7d)
+d. Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane including the use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate. (CCSS: 6.NS.8)
+2. Patterns, Functions, and Algebraic Structures:
+A. Algebraic expressions can be used to generalize properties of arithmetic:
+a. Write and evaluate numerical expressions involving whole number exponents. (CCSS: 6.EE.1)
+b. Write,read,and evaluate expressions in which letters stand for numbers. (CCSS: 6.EE.2)
+i. Write expressions that record operations with numbers
+and with letters standing for numbers. (CCSS: 6.EE.2a)
+ii. Identify parts of an expression using mathematical
+terms (sum, term, product, factor, quotient, coefficient)
+and describe one or more parts of an expression as a
+single entity. (CCSS: 6.EE.2b)
+iii. Evaluate expressions at specific values of their variables including expressions that arise from formulas used in
+real- world problems. (CCSS: 6.EE.2c)
+iv. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order
+when there are no parentheses to specify a particular
+order (Order of Operations). (CCSS: 6.EE.2c)
+c. Apply the properties of operations to generate equivalent expressions. (CCSS: 6.EE.3)
+d. Identify when two expressions are equivalent. (CCSS: 6.EE.4)
+B. Variables are used to represent unknown quantities within equations and inequalities:
+a. Describe solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? (CCSS: 6.EE.5)
+b. Use substitution to determine whether a given number in a specified set makes an equation or inequality true. (CCSS: 6.EE.5)
+c. Use variables to represent numbers and write expressions when solving a real-world or mathematical problem. (CCSS: 6.EE.6) i. Recognize that a variable can represent an unknown number, or, depending on the purpose at hand, any
+number in a specified set. (CCSS: 6.EE.6)
+d. Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers. (CCSS: 6.EE.7)
+e. Write an inequality of the form x>c or x<c to represent a constraint or condition in a real-world or mathematical problem. (CCSS: 6.EE.8)
+f. Show that inequalities of the form x > c or x < c have infinitely many solutions; represent solutions of such inequalities on number line diagrams. (CCSS: 6.EE.8)
+g. Represent and analyze quantitative relationships between dependent and independent variables. (CCSS: 6.EE)
+i. Use variables to represent two quantities in a real-world problem that change in relationship to one another.
+(CCSS: 6.EE.9)
+ii. Write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity,
+thought of as the independent variable. (CCSS: 6.EE.9)
+iii. Analyze the relationship between the dependent and
+independent variables using graphs and tables, and
+relate these to the equation. (CCSS: 6.EE.9)
+3. Data Analysis, Statistics, and Probability:
+A. Visual displays and summary statistics of one-variable data condense the information in data sets into usable knowledge:
+a. Identify a statistical question as one that anticipates variability in the data related to the question and accounts for it in the
+answers. (CCSS: 6.SP.1)
+b. Demonstrate that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape. (CCSS: 6.SP.2)
+c. Explain that a measure of center for a numerical data set
+summarizes all of its values with a single number, while a
+measure of variation describes how its values vary with a single number. (CCSS: 6.SP.3)
+d. Summarize and describe distributions. (CCSS:6.SP)
+i. Display numerical data in plots on a number line,
+including dot plots, histograms, and box plots. (CCSS:
+6.SP.4)
+ii. Summarize numerical data sets in relation to their
+context. (CCSS: 6.SP.5)
+1. Report the number of observations.
+(CCSS:6.SP.5a)
+2. Describe the nature of the attribute under
+investigation, including how it was measured and
+its units of measurement. (CCSS: 6.SP.5b)
+3. Give quantitative measures of center(median
+and/ or mean) and variability (interquartile range
+and/or mean absolute deviation), as well as
+describing any overall pattern and any striking
+deviations from the overall pattern with reference
+to the context in which the data were gathered.
+(CCSS: 6.SP.5c)
+4. Relate the choice of measures of center and
+variability to the shape of the data distribution
+and the context in which the data were gathered.
+(CCSS: 6.SP.5d)
+4. Shape, Dimension, and Geometric Relationships:
+A. Objects in space and their parts and attributes can be measured and analyzed:
+a. Develop and apply formulas and procedures for area of plane figures
+i. Find the area of right triangles, other triangles, special
+quadrilaterals, and polygons by composing into
+rectangles or decomposing into triangles and other
+shapes. (CCSS:6.G.1)
+ii. Apply these techniques in the context of solving
+real-world and mathematical problems. (CCSS: 6.G.1)
+b. Develop and apply formulas and procedures for volume of
+regular
+prisms.
+i. Find the volume of a right rectangular prism with
+fractional edge lengths by packing it with unit cubes of
+the appropriate unit fraction edge lengths. (CCSS:
+6.G.2)
+ii. Show that volume is the same as multiplying the edge
+lengths of a rectangular prism. (CCSS: 6.G.2)
+iii. Apply the formulas V=lwh and V=bh to find volumes of
+right rectangular prisms with fractional edge lengths in
+the context of solving real-world and mathematical
+problems. (CCSS: 6.G.2)
+c. Draw polygons in the coordinate plane to solve real-world and mathematical problems. (CCSS: 6.G.3)
+i. Draw polygons in the coordinate plane given coordinates
+for the vertices.
+ii. Use coordinates to find the length of a side joining
+points with the same first coordinate or the same second
+coordinate. (CCSS:6.G.3)
+d. Develop and apply formulas and procedures for the surface
+area.
+i. Represent three-dimensional figures using nets made up
+of rectangles and triangles. (CCSS: 6.G.4)
+ii. Use nets to find the surface area of figures. (CCSS:
+6.G.4)
+iii. Apply techniques for finding surface area in the context
+of solving real-world and mathematical problems.
+(CCSS: 6.G.4)
+Literacy:
+1. Oral Expression and Listening:
+A. Successful group discussions require planning and participation by all:
+a. Present claims and findings, sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate
+main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation. (CCSS: SL.6.4)
+b. Include multimedia components
+(e.g.,graphics,images,music,sound) and visual displays in
+presentations to clarify information. (CCSS: SL.6.5)
+c. Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.
+(CCSS: SL.6.6)
+d. Engage effectively in a range of collaborative discussions
+(one-on-one,ingroups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas
+and expressing their own clearly. (CCSS: SL.6.1)
+i. Come to discussions prepared, having read or studied
+required material; explicitly draw on that preparation by
+referring to evidence on the topic, text, or issue to probe
+and reflect on ideas under discussion. (CCSS: SL.6.1a)
+ii. Follow rules for collegial discussions, set specific goals
+and deadlines, and define individual roles as needed.
+(CCSS: SL.6.1b)
+iii. Pose and respond to specific questions with elaboration
+and detail by making comments that contribute to the
+topic, text, or issue under discussion. (CCSS: SL.6.1c)
+iv. Review the key ideas expressed and demonstrate
+understanding of multiple perspectives through
+reflection and paraphrasing. (CCSS: SL.6.1d)
+e. Interpret information presented in diverse media and
+formats(e.g.,visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study. (CCSS:
+SL.6.2)
+f. Delineate a speaker’s argument and specific claims,
+distinguishing claims that are supported by reasons and
+evidence from claims that are not. (CCSS: SL.6.3)
+2. Reading for All Purposes:
+A. Understanding the meaning within different types of literature depends on properly analyzing literary components:
+a. Use Key ideas and Details to:
+i. Cite textual evidence to support analysis of what the
+text says explicitly as well as inferences drawn from the
+text. (CCSS: RL.6.1)
+ii. Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary
+of the text distinct from personal opinions or judgments. (CCSS: RL.6.2)
+iii. Describe how a particular story’s or drama’s plot unfolds in a series of episodes as well as how the characters
+respond or change as the plot moves toward a
+resolution. (CCSS: RL.6.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of words and phrases as they are used in a text, including figurative and connotative
+meanings; analyze the impact of a specific word choice
+on meaning and tone. (CCSS: RL.6.4)
+ii. Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and
+contributes to the development of the theme, setting, or plot. (CCSS: RL.6.5)
+iii. Explain how an author develops the point of view of the narrator or speaker in a text. (CCSS: RL.6.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Compare and contrast the experience of reading a story, drama, or poem to listening to or viewing an audio,
+video, or live version of the text, including contrasting
+what they “see” and “hear” when reading the text to
+what they perceive when they listen or watch. (CCSS:
+RL.6.7)
+ii. Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy
+stories) in terms of their approaches to similar themes
+and topics. (CCSS: RL.6.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend literature, including stories, dramas, and poems, in the grades 6–8 text complexity band proficiently, with scaffolding as
+needed at the high end of the range. (CCSS: RL.6.10)
+B. Organizing structure to understand and analyze factual information: a. Use Key Ideas and Details to:
+i. Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. (CCSS:
+RI.6.1)
+ii. Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text
+distinct from personal opinions or judgments. (CCSS: RI.6.2)
+iii. Analyze in detail how a key individual, event, or idea is
+introduced, illustrated, and elaborated in a text (e.g., through
+examples or anecdotes). (CCSS: RI.6.3)
+b. Use Craft and Structure to:
+i. Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical
+meanings. (CCSS: RI.6.4)
+ii. Analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and contributes
+to the development of the ideas. (CCSS: RI.6.5)
+iii. Determine an author’s point of view or purpose in a text and explain how it is conveyed in the text. (CCSS: RI.6.6)
+c. Use Integration of Knowledge and Ideas to:
+i. Integrate information presented in different media or formats (e.g., visually,quantitatively) as well as in words to develop a
+coherent understanding of a topic or issue. (CCSS: RI.6.7)
+ii. Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and
+evidence from claims that are not. (CCSS: RI.6.8)
+iii. Compare and contrast one author’s presentation of events with that of another (e.g., a memoir written by and a biography on
+the same person). (CCSS: RI.6.9)
+d. Use Range of Reading and Complexity of Text to:
+i. By the end of the year, read and comprehend literary
+nonfiction in the grades 6–8 text complexity band proficiently,
+with scaffolding as needed at the high end of the range.
+(CCSS: RI.6.10)
+C. Word meanings are determined by how they are designed and how they are used in context:
+a. Determine or clarify the meaning of unknown and
+multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies. (CCSS: L.6.4)
+i. Use context (e.g., the overall meaning of a sentence or paragraph; a word’s position or function in a sentence)
+as a clue to the meaning of a word or phrase. (CCSS:
+L.6.4a)
+ii. Make connections back to previous sentences and ideas
+to resolve problems in comprehension
+iii. Use common, grade-appropriate Greek or Latin affixes
+and roots as clues to the meaning of a word (e.g.,
+audience, auditory, audible). (CCSS: L.6.4b)
+iv. Employ synonyms or antonyms gleaned from a passage to provide an approximate meaning of a word
+v. Consult reference materials (e.g., dictionaries,
+glossaries, thesauruses), both print and digital, to find
+the pronunciation of a word or determine or clarify its
+precise meaning or its part of speech. (CCSS: L.6.4c)
+vi. Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning
+in context or in a dictionary). (CCSS: L.6.4d)
+b. Demonstrate understanding of figurative language, word
+relationships, and nuances in word meanings. (CCSS: L.6.5)
+i. Interpret figures of speech (e.g., personification) in
+context. (CCSS: L.6.5a)
+ii. Use the relationship between particular words (e.g.,
+cause/effect, part/whole, item/category) to better
+understand each of the words. (CCSS:L.6.5b)
+iii. Distinguish among the connotations (associations) of
+words with similar denotations (definitions) (e.g., stingy,
+scrimping, economical, unwasteful, thrifty). (CCSS:
+L.6.5c)
+c. Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary
+knowledge when considering a word or phrase important to
+comprehension or expression. (CCSS: L.6.6)
+3. Writing and Composition:
+A. Writing literary genres for intended audiences and purposes requires ideas, organization, and voice:
+a. Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details,
+and well-structured event sequences. (CCSS: W.6.3)
+i. Engage and orient the reader by establishing a context
+and introducing a narrator and/or characters; organize
+an event sequence that unfolds naturally and logically.
+(CCSS: W.6.3a)
+ii. Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or
+characters. (CCSS: W.6.3b)
+iii. Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time
+frame or setting to another. (CCSS: W.6.3c)
+iv. Use precise words and phrases, relevant descriptive details, and sensory language to convey experiences and events. (CCSS: W.6.3d)
+v. Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.6.3e)
+b. Employ a range of planning strategies to generate descriptive and sensory details (webbing, free writing, graphic organizers) c. Use a range of poetic techniques (alliteration, onomatopoeia, rhyme scheme); figurative language (simile, metaphor,
+personification); and graphic elements (capital letters, line length, word position) to express personal or narrative voice in texts
+d. Organize literary and narrative texts using conventional organizational patterns of the chosen genre
+e. Use literary elements of a text (well-developed characters, setting, dialogue, conflict) to present ideas in a text
+f. Use word choice, sentence structure, and sentence length to create voice and tone in writing
+B. Writing informational and persuasive genres for intended audiences and purposes require ideas, organization, and voice develop: a. Write arguments to support claims with clear reasons and relevant evidence. (CCSS: W.6.1)
+i. Introduce claim(s) and organize the reasons and evidence clearly. (CCSS: W.6.1a)
+ii. Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of
+the topic or text. (CCSS: W.6.1b)
+iii. Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons. (CCSS: W.6.1c)
+iv. Establish and maintain a formal style. (CCSS: W.6.1d)
+v. Provide a concluding statement or section that follows from the argument presented. (CCSS: W.6.1e)
+b. Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. (CCSS: W.6.2)
+i. Introduce a topic; organize ideas, concepts, and information, using strategies such as definition, classification,
+comparison/contrast, and cause/effect; include formatting
+(e.g., headings), graphics (e.g., charts, tables), and
+multimedia when useful to aiding comprehension.
+(CCSS:W.6.2a)
+ii. Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.
+(CCSS:W.6.2b)
+iii. Use appropriate transitions to clarify the relationships among ideas and concepts. (CCSS: W.6.2c)
+iv. Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.6.2d)
+v. Establish and maintain a formal style. (CCSS: W.6.2e)
+vi. Provide a concluding statement or section that follows from the information or explanation presented. (CCSS: W.6.2f)
+c. Write multi-paragraph compositions that have clear topic development, logical organization, effective use of detail, and variety in sentence structure
+d. Organize information into a coherent essay or report with a thesis statement in the introduction and transition sentences to link
+paragraphs
+e. Write to pursue a personal interest, to explain, or to persuade f. Write to analyze informational texts (explains the steps in a scientific investigation)
+g. Analyze and improve clarity of paragraphs and transitions
+h. Select vocabulary and information to enhance the central idea i. Identify persuasive elements in a peer’s writing and critique the effectiveness
+C. Specific editing for grammar, usage, mechanics, and clarity gives writing its precision and legitimacy:
+a. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.6.1)
+i. Ensure that pronouns are in the proper case (subjective,
+objective, possessive). (CCSS:L.6.1a)
+ii. Use intensive pronouns (e.g., myself, ourselves). (CCSS: L.6.1b)
+iii. Recognize and correct inappropriate shifts in pronoun number and person. (CCSS:L.6.1c)
+iv. Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents). (CCSS: L.6.1d)
+v. Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language. (CCSS: L.6.1e)
+vi. Identify fragments and run-ons and revise sentences to eliminate them
+vii. Use coordinating conjunctions in compound sentences
+b. viii.Maintain consistent verb tense within paragraph.
+ix. Choose adverbs to describe verbs, adjectives, and other adverbs c. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.6.2)
+i. Use punctuation (commas, parentheses, dashes) to set off
+nonrestrictive/parenthetical elements. (CCSS: L.6.2a)
+ii. Spell correctly. (CCSS: L.6.2b)
+d. Use knowledge of language and its conventions when writing,
+speaking, reading, or listening. (CCSS: L.6.3)
+i. Vary sentence patterns for meaning, reader/listener interest,
+and style. (CCSS: L.6.3a)
+ii. Maintain consistency in style and tone. (CCSS: L.6.3b)
+e. Produce clear and coherent writing in which the development,
+organization, and style are
+appropriate to task, purpose, and audience. (Grade-specific
+expectations for writing types are defined in grade level expectations 1 and 2 above.) (CCSS: W.6.4)
+f. With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach. (CCSS: W.6.5)
+g. Use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate
+sufficient command of keyboarding skills to type a minimum of three pages in a single sitting. (CCSS: W.6.6)
+4. Research and Reasoning:
+A. Individual and group research projects require obtaining information on a topic from a variety of sources and organizing it for presentation: a. Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when
+appropriate. (CCSS: W.6.7)
+i. Identify a topic for research, developing the central idea
+or focus and potential research question(s)
+b. Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or
+paraphrase the data and conclusions of others while avoiding
+plagiarism and providing basic bibliographic information for
+sources. (CCSS: W.6.8)
+i. Use a range of print and nonprint sources (atlases,
+databases, reference materials, online and electronic
+resources, interviews, direct observation) to locate
+information to answer research questions
+ii. Locate specific information within resources using
+indexes, tables of contents, electronic search keywords,
+etc.
+c. Draw evidence from literary or informational texts to support analysis, reflection, and research. (CCSS: W.6.9)
+i. Follow established criteria for evaluating accuracy,
+validity, and usefulness of information
+ii. Select and organize information, evidence, details, or
+quotations that support the central idea or focus
+iii. Apply grade 6 Reading standards to literature (e.g.,
+“Compare and contrast texts in different forms or genres
+[e.g., stories and poems; historical novels and fantasy
+stories] in terms of their approaches to similar themes
+and topics”). (CCSS: W.6.8a)
+iv. Apply grade 6 Reading standards to literary nonfiction
+(e.g., “Trace and evaluate the argument and specific
+claims in a text, distinguishing claims that are supported
+by reasons and evidence from claims that are not”).
+(CCSS: W.6.8b)
+B. Assumptions can be concealed, and require identification and evaluation:
+a. Accurately identify own assumptions,as well as those of others b. Make assumptions that are consistent with one another
+c. Identify the natural tendency in humans to use stereotypes,
+prejudices, biases, and distortions
+d. Identify stereotypes, prejudices, biases, and distortions in self and thinking of others
+e. Accurately state the assumptions underlying the inferences they or others make, and then accurately assess those assumptions
+for justifiability
+C. Monitoring the thinking of self and others is a disciplined way to maintain awareness:
+a. Determine strengths and weaknesses of their thinking and
+thinking of others by using criteria including relevance, clarity,
+accuracy, fairness, significance, depth, breadth, logic, and
+precision
+b. Take control over their thinking to determine when thinking
+should be questioned and when it should be accepted.
+(intellectual autonomy)
+Science:
+1. Physical Science:
