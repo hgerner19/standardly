@@ -2,7 +2,7 @@ import pytesseract
 import PyPDF2
 import re
 
-pdf_path = '../data/coloStandards.pdf'
+reader = PdfReader("../data/coloStandards.pdf")
 
 with open(pdf_path, 'rb') as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)
