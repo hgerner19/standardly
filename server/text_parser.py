@@ -265,12 +265,13 @@ def iterate_topics(grades_dict):
 # Example usage
 updated_grades_dict = iterate_grades(grades_dict)
 
+print(updated_grades_dict)
 # Print the updated grades dictionary
 
-json_data = json.dumps(updated_grades_dict, indent=4)
-with open('standards', 'w') as file:
-    file.write(json_data)
+# json_data = json.dumps(updated_grades_dict, indent=4)
+# with open('standards', 'w') as file:
+#     file.write(json_data)
 
-print("JSON file created!")
+# print("JSON file created!")
 
 

@@ -1,0 +1,37 @@
+
+Table Grades {
+  GradeID int [pk, increment]
+  GradeName varchar
+}
+
+Table Subjects {
+  SubjectID int [pk, increment]
+  SubjectName varchar
+  GradeID int [ref: > Grades.GradeID]
+}
+
+Table Topics {
+  TopicID int [pk, increment]
+  TopicName varchar
+  SubjectID int [ref: > Subjects.SubjectID]
+}
+
+Table Subtopics {
+  SubtopicID int [pk, increment]
+  SubtopicName varchar
+  TopicID int [ref: > Topics.TopicID]
+}
+
+Table CurriculumItems {
+  ItemID int [pk, increment]
+  Description varchar
+  CurriculumCode varchar
+  SubtopicID int [ref: > Subtopics.SubtopicID]
+}
+
+Table SubCurriculumItems {
+    SubitemID int [pk, increment]
+    Description varchar
+    SubCurriculumCode varchar
+    ItemID int [ref: > CurriculumItems.ItemID]
+}

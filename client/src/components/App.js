@@ -11,6 +11,7 @@ function App() {
     const [user, setUser] = useState({
         "first_name": "",
         "last_name": "",
+        "username": "",
         "email": "",
         "grade": "",
     })
