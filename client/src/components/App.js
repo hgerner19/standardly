@@ -6,6 +6,7 @@ import About from "./About.js"
 import Search from "./Search.js"
 import Account from "./Account.js"
 import SignUp from "./SignUp.js"
+import NavBar from "./NavBar.js";
 
 function App() {
     const [user, setUser] = useState({
@@ -17,6 +18,7 @@ function App() {
     })
     return (
         <>
+            <NavBar />
             <Switch>
 
                 <Route exact path="/">
