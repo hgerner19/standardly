@@ -27,6 +27,7 @@ class Subtopics(Base):
     __tablename__ = 'subtopics'
     subtopicid = Column(Integer, primary_key=True, autoincrement=True)
     subtopicname = Column(String)
+    description = Column(String)
     topicid = Column(Integer, ForeignKey('topics.topicid'))
     topic = relationship("Topics")
 

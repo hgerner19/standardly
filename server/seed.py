@@ -6,7 +6,7 @@ from prettytable import PrettyTable
 
 engine = create_engine('postgresql://postgres:charlie@localhost:5432/standards_data')
 Base.metadata.bind = engine
-
+Base.metadata.drop_all(engine)
 
 Base.metadata.create_all(engine)
 
@@ -53,16 +53,32 @@ for grade_name, grade_data in data.items():
 
 
 session.commit()
-grades = session.query(Grades).all()
+# topics = session.query(Topics).all()
 
-if grades:
+# if topics:
+#     # Create a table instance
+#     table = PrettyTable()
+#     table.field_names = ["ID", "Topic Name","Subject ID"]
+
+#     # Add rows to the table
+#     for topic in topics:
+#         table.add_row([topic.topicid, topic.topicname,topic.subjectid])
+
+#     # Print the table
+#     print(table)
+# else:
+#     print("Grades table is empty.")
+
+# topics = session.query(Topics).all()
+subtopics = session.query(Subtopics).all()
+if subtopics:
     # Create a table instance
     table = PrettyTable()
-    table.field_names = ["Grade ID", "Grade Name"]
+    table.field_names = ["ID", "Subtopic Name","Description","topic ID"]
 
     # Add rows to the table
-    for grade in grades:
-        table.add_row([grade.gradeid, grade.gradename])
+    for subtopic in subtopics:
+        table.add_row([subtopic.subtopicid, subtopic.subtopicname,subtopic.description,subtopic.subtopicid])
 
     # Print the table
     print(table)
