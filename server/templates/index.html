@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My App</title>
+</head>
+<body>
+    <h1>Grades</h1>
+    <ul>
+        {% for grade in grades %}
+            <li>{{ grade.gradename }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Subjects</h1>
+    <ul>
+        {% for subject in subjects %}
+            <li>{{ subject.subjectname }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Topics</h1>
+    <ul>
+        {% for topic in topics %}
+            <li>{{ topic.topicname }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Subtopics</h1>
+    <ul>
+        {% for subtopic in subtopics %}
+            <li>{{ subtopic.description }}</li>
+        {% endfor %}
+    </ul>
+    <h1>Curriculum Items</h1>
+    <ul>
+        {% for item in curriculum_items %}
+            <li>{{ item.description }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Subcurriculum Items</h1>
+    <ul>
+        {% for item in subcurriculum_items %}
+            <li>{{ item.description }}</li>
+        {% endfor %}
+    </ul>
+
+    <!-- Display other data as needed (curriculum_items, subcurriculum_items, storage, users) -->
+</body>
+</html>
