@@ -7,7 +7,7 @@ import Search from "./Search.js";
 import Account from "./Account.js";
 import SignUp from "./SignUp.js";
 import NavBar from "./NavBar.js";
-import Login from "./login.js";
+import Login from "./Login.js";
 
 function App() {
   const [user, setUser] = useState({
@@ -43,8 +43,10 @@ function App() {
         <Route exact path="/account">
           <Account />
         </Route>
+        <Route exact path="/login">
+          {!isLoggedIn && <Login handleLoginStatus={handleLoginStatus} />}
+        </Route>
       </Switch>
-      {!isLoggedIn && <Login handleLoginStatus={handleLoginStatus} />}
     </>
   );
 }

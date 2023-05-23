@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Grid, Typography, TextField, Button, FormControl, InputLabel, Select, MenuItem } from '@mui/material';
-import { NavLink } from "react-router-dom";
+import { NavLink,useHistory } from "react-router-dom";
 
 const SignUp = () => {
 
@@ -21,7 +21,7 @@ const SignUp = () => {
             [name]: value
         }))
     }
-
+    const history = useHistory()
     const handleSubmitSignUp = (event) => {
         console.log(event)
         event.preventDefault()
@@ -39,6 +39,7 @@ const SignUp = () => {
           })
         .then((response) => response.json())
         .then((newUserData) => console.log(newUserData))
+        .then(() => {history.push("/login");});
     }
     return(
         <>

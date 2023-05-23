@@ -14,19 +14,56 @@ CORS(app)
 api = Api(app)
 
 # Routes
-@app.route('/search')
-def index():
-    # Fetch and display data from the database
-    grades = Grades.query.all()
-    subjects = Subjects.query.all()
-    topics = Topics.query.all()
-    subtopics = Subtopics.query.all()
-    curriculum_items = CurriculumItems.query.all()
-    subcurriculum_items = SubCurriculumItems.query.all()
-    # storage = Storage.query.all()
-    # users = Users.query.all()
+@app.route('/search', methods=['GET'])
+def search():
+    search_input = request.args.get('search_field')
+    grade = request.args.get('grade')
+    subject = request.args.get('subject')
 
-    return to_dict()
+    # Need to iterate through the tables down till you get to Curriculum item.subtopic.id.....!!!!!!!!!
+     def indexing(grade, subject):
+        grade_obj = Grades.query.filter_by(gradename=grade).first()
+        if grade_obj:
+            grade_id = grade_obj.gradeid
+            subject_obj = Subjects.query.filter_by(subjectname=subject, gradeid=grade_id).first()
+            if subject_obj:
+                subject_id = subject_obj.subjectid
+                topic_obj = Topics.query.filter_by(subjectid=subject_id).first()
+                if topic_obj:
+                    topic_id = topic_obj.topicid
+                    subtopic_obj = Subtopics.query.filter_by(topicid=topic_id).first()
+                    if subtopic_obj:
+                        return subtopic_obj.subtopicid
+        
+        return None
+
+    subtopic_id = indexing(grade,subject)
+
+    curriculum_items = CurriculumItems.query.join(Subtopics).filter(Subtopics.subtopicid == subtopic_id).all()
+    subcurriculum_items = SubCurriculumItems.query.join(CurriculumItems).join(Subtopics).filter(Subtopics.subtopicid == subtopic_id).all()
+
+    curriculum_matches = []
+    for item in curriculum_items:
+        if search_input.lower() in item.description.lower():
+            curriculum_matches.append({
+                'subtopic_name': item.subtopic.name,
+                'curriculum_description': item.description
+            })
+
+    subcurriculum_matches = []
+    for item in subcurriculum_items:
+        if search_input.lower() in item.description.lower():
+            subcurriculum_matches.append({
+                'subcurriculum_description': item.description,
+                'curriculum_description': item.curriculumitem.description,
+                'subtopic_name': item.curriculumitem.subtopic.name
+            })
+
+    return jsonify({
+        'curriculum_matches': curriculum_matches,
+        'subcurriculum_matches': subcurriculum_matches
+    })
+
 @app.route('/users/<int:id>', methods=['GET', 'PATCH', 'DELETE'])
 def user_by_id(id):
     user = User.query.filter(User.id == id).one_or_none()

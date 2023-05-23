@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Grid, Typography, TextField, Button, FormControl, InputLabel, Select, MenuItem, Box } from '@mui/material';
+import { Grid, Typography, TextField, Button} from '@mui/material';
 import { useHistory } from "react-router-dom";
 
 const Login = ({ handleLoginStatus }) => {
@@ -7,6 +7,7 @@ const Login = ({ handleLoginStatus }) => {
         "username": "",
         "password": ""
     })
+
     const history = useHistory();
     const handleUserLoginChange = (event) => {
         const name = event.target.name
@@ -19,7 +20,7 @@ const Login = ({ handleLoginStatus }) => {
 
     const handleLogin = (event) =>{
         event.preventDefault()
-        if(userLogin.email && userLogin.password) {
+        if(userLogin.username && userLogin.password) {
             fetchUserLogin()
             console.log(userLogin)
             handleLoginStatus(true);
@@ -74,11 +75,14 @@ const Login = ({ handleLoginStatus }) => {
                             fullWidth margin="normal" sx={{ mb: 2 }}  name="password"
                             onChange={handleUserLoginChange}
                         />
-                        </form>
                         <Button variant="contained" color="primary" 
-                        style={{backgroundColor: "#FFBD80" ,color: "black"}} fullWidth type="submit">
+                         style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
+                         backgroundColor: "#FFBD80" ,color: "black" }}  
+                         fullWidth type="submit">
                             Login
                         </Button>
+                        </form>
+                        
                     </Grid>
                 </Grid>
             </div>
