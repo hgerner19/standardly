@@ -9,16 +9,12 @@ from config import app, db, api
 
 migrate = Migrate(app, db)
 
-# Enable Cross-Origin Resource Sharing (CORS)
 CORS(app)
 
-# Create the Flask-RESTful API
 api = Api(app)
 
-# Define your models and tables here (Grades, Subjects, Topics, Subtopics, CurriculumItems, SubCurriculumItems, Storage, User)
-
 # Routes
-@app.route('/')
+@app.route('/search')
 def index():
     # Fetch and display data from the database
     grades = Grades.query.all()
@@ -27,25 +23,42 @@ def index():
     subtopics = Subtopics.query.all()
     curriculum_items = CurriculumItems.query.all()
     subcurriculum_items = SubCurriculumItems.query.all()
-    storage = Storage.query.all()
-    users = User.query.all()
+    # storage = Storage.query.all()
+    # users = Users.query.all()
 
-    return render_template('index.html', grades=grades, subjects=subjects, topics=topics,
-                           subtopics=subtopics, curriculum_items=curriculum_items,
-                           subcurriculum_items=subcurriculum_items, storage=storage, users=users)
+    return to_dict()
+@app.route('/users/<int:id>', methods=['GET', 'PATCH', 'DELETE'])
+def user_by_id(id):
+    user = User.query.filter(User.id == id).one_or_none()
 
-@app.route('/add_user', methods=['POST'])
-def add_user():
-    # Create a new user
-    name = request.form['name']
-    username = request.form['username']
-    grade = request.form['grade']
+    if user:
+        if request.method == 'GET':
+            response = make_response(user.to_dict(), 200)
 
-    user = User(name=name, username=username, grade=grade)
-    db.session.add(user)
-    db.session.commit()
+        if request.method == 'DELETE':
+            db.session.delete(user)
+            db.session.commit()
+            response = make_response({"success": f"User of id {id} deleted."})
 
-    return redirect('/')
+        if request.method == 'PATCH':
+            form_data = request.get_json()
+            for attr in form_data:
+                setattr(user, attr, form_data[attr])
+
+            db.session.add(user)
+            db.session.commit()
+
+            response = make_response(customer.to_dict(), 201)
+            for cookie in request.cookies:
+                response.set_cookie(cookie, '', expires=0)
+
+            response.set_cookie('user_name', user.first_name)
+            response.set_cookie('user_email', user.email)
+
+    else:
+        response = make_response({"error": f"404: Customer of id {id} not found."})
+
+    return response
 
 @app.route('/add_storage', methods=['POST'])
 def add_storage():
@@ -65,11 +78,18 @@ class Signup(Resource):
 
         name = request_json.get('name')
         username = request_json.get('username')
+        email = request_json.get('email')
+        password = request_json.get('password')
         grade = request_json.get('grade')
-        password = request_json.get('_password_hash')
 
-        user = User(name=name, username=username, grade=grade)
-        user._password_hash = password
+        user = User(
+            name = request_json["name"], 
+            username = request_json["username"], 
+            email = request_json["email"], 
+            grade = request_json["grade"]
+        )
+        user.password_hash = password
+        
         try:
             db.session.add(user)
             db.session.commit()
@@ -93,7 +113,7 @@ class Login(Resource):
     def post(self):
         user = User.query.filter_by(username=request.get_json()['username']).first()
 
-        if user and user.verify_password(request.get_json()['password']):
+        if user and user.authenticate(request.get_json()['password']):
             response = make_response(user.to_dict(), 200)
             response.set_cookie('user_name', user.name)
             response.set_cookie('user_username', user.username)

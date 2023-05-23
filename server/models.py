@@ -1,3 +1,4 @@
+from sqlalchemy_serializer import SerializerMixin
 from sqlalchemy import Column, Integer, String, ForeignKey, Table
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
@@ -8,13 +9,12 @@ bcrypt = Bcrypt()
 Base = db.Model
 
 
-class Grades(Base):
+class Grades(Base, SerializerMixin):
     __tablename__ = 'grades'
     gradeid = Column(Integer, primary_key=True, autoincrement=True)
     gradename = Column(String)
 
-
-class Subjects(Base):
+class Subjects(Base, SerializerMixin):
     __tablename__ = 'subjects'
     subjectid = Column(Integer, primary_key=True, autoincrement=True)
     subjectname = Column(String)
@@ -22,7 +22,7 @@ class Subjects(Base):
     grade = relationship("Grades")
 
 
-class Topics(Base):
+class Topics(Base, SerializerMixin):
     __tablename__ = 'topics'
     topicid = Column(Integer, primary_key=True, autoincrement=True)
     topicname = Column(String)
@@ -30,7 +30,7 @@ class Topics(Base):
     subject = relationship("Subjects")
 
 
-class Subtopics(Base):
+class Subtopics(Base,SerializerMixin):
     __tablename__ = 'subtopics'
     subtopicid = Column(Integer, primary_key=True, autoincrement=True)
     description = Column(String)
@@ -38,7 +38,7 @@ class Subtopics(Base):
     topic = relationship("Topics")
 
 
-class CurriculumItems(Base):
+class CurriculumItems(Base,SerializerMixin):
     __tablename__ = 'curriculumitems'
     itemid = Column(Integer, primary_key=True, autoincrement=True)
     description = Column(String)
@@ -47,7 +47,7 @@ class CurriculumItems(Base):
     subtopic = relationship("Subtopics")
 
 
-class SubCurriculumItems(Base):
+class SubCurriculumItems(Base,SerializerMixin):
     __tablename__ = 'subcurriculumitems'
     subitemid = Column(Integer, primary_key=True, autoincrement=True)
     description = Column(String)
@@ -56,7 +56,7 @@ class SubCurriculumItems(Base):
     curriculumitem = relationship("CurriculumItems")
 
 
-# Intermediate table for many-to-many relationship between Storage and CurriculumItems
+# intermediate table for many-to-many relationship between Storage and CurriculumItems
 storage_curriculumitem_table = Table(
     'storage_curriculumitem',
     Base.metadata,
@@ -64,7 +64,7 @@ storage_curriculumitem_table = Table(
     Column('curriculumitem_id', Integer, ForeignKey('curriculumitems.itemid'))
 )
 
-# Intermediate table for many-to-many relationship between Storage and SubCurriculumItems
+# intermediate table for many-to-many relationship between Storage and SubCurriculumItems
 storage_subcurriculumitem_table = Table(
     'storage_subcurriculumitem',
     Base.metadata,
@@ -73,7 +73,7 @@ storage_subcurriculumitem_table = Table(
 )
 
 
-class Storage(Base):
+class Storage(Base,SerializerMixin):
     __tablename__ = 'storage'
     id = Column(Integer, primary_key=True, autoincrement=True)
     user_id = Column(Integer, ForeignKey('users.id'))
@@ -84,7 +84,8 @@ class Storage(Base):
     subcurriculum_items = relationship('SubCurriculumItems', secondary=storage_subcurriculumitem_table)
 
 
-class User(Base):
+class User(Base,SerializerMixin):
+
     __tablename__ = 'users'
 
     id = Column(Integer, primary_key=True, autoincrement=True)
