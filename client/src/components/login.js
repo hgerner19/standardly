@@ -1,14 +1,21 @@
 import React, { useEffect, useState } from "react";
 import { Grid, Typography, TextField, Button} from '@mui/material';
 import { useHistory } from "react-router-dom";
+import { useSetRecoilState } from "recoil";
+import { isLoggedInState, userInfoState } from "./Atom";
 
-const Login = ({ handleLoginStatus }) => {
+const Login = () => {
     const [userLogin, setUserLogin] = useState({
         "username": "",
         "password": ""
     })
+    const setLoginStatus = useSetRecoilState(isLoggedInState);
+    const setUserInfo = useSetRecoilState(userInfoState);
+  
 
     const history = useHistory();
+
+
     const handleUserLoginChange = (event) => {
         const name = event.target.name
         const value = event.target.value
@@ -23,8 +30,8 @@ const Login = ({ handleLoginStatus }) => {
         if(userLogin.username && userLogin.password) {
             fetchUserLogin()
             console.log(userLogin)
-            handleLoginStatus(true);
-            history.push("/");
+            
+            
         } 
         else{
             window.alert("Password invalid. Try again.")
@@ -40,7 +47,14 @@ const Login = ({ handleLoginStatus }) => {
             body: JSON.stringify(userLogin),
         })
         .then((response) => response.json())
-        .then((userData) => console.log(userData))
+        .then((userData) => {
+            setUserInfo(userData); // Update the userInfoState with the retrieved user information
+            setLoginStatus(true);
+            history.push("/");
+          })
+          .catch((error) => {
+            console.error("Login error:", error);
+          });
     }
 
     return(
@@ -63,7 +77,7 @@ const Login = ({ handleLoginStatus }) => {
                         </Typography>
                         </Grid>
                         <form onSubmit={(event) => handleLogin(event)}>
-                        <TextField label="username" id="standard-basic"  
+                        <TextField label="Username" id="standard-basic"  
                             variant="standard" type="text" 
                             fullWidth margin="normal" sx={{ mb: 2 }} name="username"
                             value={userLogin.username}

@@ -7,6 +7,7 @@ from flask_migrate import Migrate
 from models import Grades, Subjects, Topics, Subtopics, CurriculumItems, SubCurriculumItems, User, Storage
 from config import app, db, api
 
+
 migrate = Migrate(app, db)
 
 CORS(app)
@@ -14,14 +15,21 @@ CORS(app)
 api = Api(app)
 
 # Routes
-@app.route('/search', methods=['GET'])
+@app.route('/search', methods=['POST'])
 def search():
-    search_input = request.args.get('search_field')
-    grade = request.args.get('grade')
-    subject = request.args.get('subject')
+    search_args = request.get_json()['params']
+    print(search_args)
+    search_input = search_args.get('search_field')
+    print(search_input)
+    grade = search_args.get('grade')
+    print(grade)
+    subject = search_args.get('subject')
+    print(subject)
+
+    
 
     # Need to iterate through the tables down till you get to Curriculum item.subtopic.id.....!!!!!!!!!
-     def indexing(grade, subject):
+    def indexing(grade, subject):
         grade_obj = Grades.query.filter_by(gradename=grade).first()
         if grade_obj:
             grade_id = grade_obj.gradeid
@@ -46,7 +54,7 @@ def search():
     for item in curriculum_items:
         if search_input.lower() in item.description.lower():
             curriculum_matches.append({
-                'subtopic_name': item.subtopic.name,
+                'subtopic_description': item.subtopic.description,
                 'curriculum_description': item.description
             })
 
@@ -56,13 +64,13 @@ def search():
             subcurriculum_matches.append({
                 'subcurriculum_description': item.description,
                 'curriculum_description': item.curriculumitem.description,
-                'subtopic_name': item.curriculumitem.subtopic.name
+                'subtopic_name': item.curriculumitem.subtopic.description
             })
 
-    return jsonify({
+    return make_response({
         'curriculum_matches': curriculum_matches,
         'subcurriculum_matches': subcurriculum_matches
-    })
+    }, 200)
 
 @app.route('/users/<int:id>', methods=['GET', 'PATCH', 'DELETE'])
 def user_by_id(id):
@@ -149,7 +157,7 @@ class CheckSession(Resource):
 class Login(Resource):
     def post(self):
         user = User.query.filter_by(username=request.get_json()['username']).first()
-
+        print(user)
         if user and user.authenticate(request.get_json()['password']):
             response = make_response(user.to_dict(), 200)
             response.set_cookie('user_name', user.name)
@@ -163,6 +171,10 @@ class Logout(Resource):
     def delete(self):
         response = make_response('Logged out')
 
+        # Clear the session
+        session.pop('user_id', None)
+
+        # Clear all cookies
         for cookie in request.cookies:
             response.set_cookie(cookie, '', expires=0)
 

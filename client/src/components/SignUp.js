@@ -53,7 +53,7 @@ const SignUp = () => {
                 >
                     <Grid item xs={12} sm={6} md={4} lg={3}>
                         <Typography variant="h5" align="left" style={{fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif']}} gutterBottom>
-                            Welcome to Standarly!
+                            Welcome to Standardly!
                         </Typography>
                         <Typography variant="subtitle2" style={{fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif']}}>
                             Create an account or <NavLink to='/login' style={{ textDecoration: 'none', color:'#000EE'}}> log in </NavLink>
@@ -107,7 +107,7 @@ const SignUp = () => {
                                 </Select>
                             </FormControl>
                             <Button variant="contained" color="primary" 
-                            style={{backgroundColor: "#FFBD80" ,color: "black"}} fullWidth type="submit">
+                            style={{backgroundColor: "#FFBD80" , color: "black"}} fullWidth type="submit">
                                 Sign Up
                             </Button>
                         </form>
