@@ -10,7 +10,7 @@ import Account from "./Account.js";
 import SignUp from "./SignUp.js";
 import NavBar from "./NavBar.js";
 import Login from "./Login.js";
-import AccountInfo from "./AccountInfo";
+import MyPlans from "./MyPlans";
 
 function App() {
   const isLoggedIn = useRecoilValue(isLoggedInState);
@@ -40,9 +40,14 @@ function App() {
         <Route exact path="/login">
           {!isLoggedIn && <Login />}
         </Route>
+        <Route exact path="/myplans">
+          <MyPlans />
+        </Route>
       </Switch>
     </Router>
   );
 }
 
 export default App;
+
+

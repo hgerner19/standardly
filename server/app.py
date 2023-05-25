@@ -6,13 +6,22 @@ from sqlite3 import IntegrityError
 from flask_migrate import Migrate
 from models import Grades, Subjects, Topics, Subtopics, CurriculumItems, SubCurriculumItems, User, Storage
 from config import app, db, api
-
+import cloudinary
+import cloudinary.uploader
+import cloudinary.api
+import urllib.parse
 
 migrate = Migrate(app, db)
 
 CORS(app)
 
 api = Api(app)
+
+cloudinary.config(
+    cloud_name='dfszptjw6',
+    api_key='967281579244582',
+    api_secret='W98igpwfxAxYSakegVO8oVmHPkc'
+)
 
 # Routes
 @app.route('/search', methods=['POST'])
@@ -105,17 +114,104 @@ def user_by_id(id):
 
     return response
 
+@app.route('/standards', methods=['GET'])
+def get_standards():
+    grade = request.args.get('grade')  # Retrieve the grade from the query parameters
+    subject = request.args.get('subject')  # Retrieve the subject from the query parameters
+
+    def indexing(grade, subject):
+        grade_obj = Grades.query.filter_by(gradename=grade).first()
+        if grade_obj:
+            grade_id = grade_obj.gradeid
+            subject_obj = Subjects.query.filter_by(subjectname=subject, gradeid=grade_id).first()
+            if subject_obj:
+                subject_id = subject_obj.subjectid
+                return subject_id
+        return None
+
+    subject_id = indexing(grade, subject)
+
+    curriculum_items = CurriculumItems.query.join(Subtopics).join(Topics).join(Subjects).filter(
+        Subjects.gradeid == grade_id, Subjects.subjectid == subject_id).all()
+    subcurriculum_items = SubCurriculumItems.query.join(CurriculumItems).join(Subtopics).join(Topics).join(
+        Subjects).filter(Subjects.gradeid == grade_id, Subjects.subjectid == subject_id).all()
+
+    curriculum_matches = []
+    for item in curriculum_items:
+        curriculum_matches.append({
+            'subtopic_description': item.subtopic.description,
+            'curriculum_description': item.description
+        })
+
+    subcurriculum_matches = []
+    for item in subcurriculum_items:
+        subcurriculum_matches.append({
+            'subcurriculum_description': item.description,
+            'curriculum_description': item.curriculumitem.description,
+            'subtopic_name': item.curriculumitem.subtopic.description
+        })
+
+    return make_response({
+        'curriculum_matches': curriculum_matches,
+        'subcurriculum_matches': subcurriculum_matches
+    }, 200)
+
+
+@app.route('/upload', methods=['POST'])
+def upload_file():
+    user_id = request.form['user_id']
+    file = request.files['file']
+
+    # Check if the user has selected a file
+    if file:
+        # Upload the file to Cloudinary
+        upload_result = cloudinary.uploader.upload(file)
+        resource_url = upload_result['secure_url']
+
+        # Create a new storage entry
+        storage = Storage(user_id=user_id, resource_url=resource_url)
+        db.session.add(storage)
+        db.session.commit()
+
+        return redirect('/')
+    else:
+        return {'error': 'No file selected'}, 400
+
 @app.route('/add_storage', methods=['POST'])
 def add_storage():
-    # Create a new storage entry
     user_id = request.form['user_id']
     resource_url = request.form['resource_url']
+    curriculum_item_ids = request.form.getlist('curriculum_item_ids')  # Assuming you pass the selected curriculum item IDs as a list
+    subcurriculum_item_ids = request.form.getlist('subcurriculum_item_ids')  # Assuming you pass the selected subcurriculum item IDs as a list
 
+    if resource_url.startswith('https://www.youtube.com/watch?v='):
+        # Handle YouTube links
+        parsed_url = urllib.parse.urlparse(resource_url)
+        video_id = urllib.parse.parse_qs(parsed_url.query).get('v')
+        if video_id:
+            youtube_embed_url = f'https://www.youtube.com/embed/{video_id[0]}'
+            resource_url = youtube_embed_url
+
+    # Create a new storage entry
     storage = Storage(user_id=user_id, resource_url=resource_url)
     db.session.add(storage)
     db.session.commit()
 
+    # Link storage with curriculum items
+    if curriculum_item_ids:
+        curriculum_items = CurriculumItems.query.filter(CurriculumItems.itemid.in_(curriculum_item_ids)).all()
+        storage.curriculum_items.extend(curriculum_items)
+
+    # Link storage with subcurriculum items
+    if subcurriculum_item_ids:
+        subcurriculum_items = SubCurriculumItems.query.filter(SubCurriculumItems.subitemid.in_(subcurriculum_item_ids)).all()
+        storage.subcurriculum_items.extend(subcurriculum_items)
+
+    db.session.commit()
+
     return redirect('/')
+
+
 
 class Signup(Resource):
     def post(self):
