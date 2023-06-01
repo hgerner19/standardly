@@ -140,26 +140,6 @@ function NavBar({isLoggedIn}) {
                   </Typography>
                 </Button>
 
-                <Button>
-                  <Typography
-                    variant="overline"
-                    noWrap
-                    paddingRight="1.5em"
-                    paddingLeft="1.5em"
-                  >
-                    <NavLink
-                      to="/lessonchecker"
-                      style={{
-                        color: "black",
-                        fontFamily: ["-apple-system", "BlinkMacSystemFont", "sans-serif"],
-                        textDecoration: "none",
-                      }}
-                      sx={{ mr: 10 }}
-                    >
-                      Lesson Checker
-                    </NavLink>
-                  </Typography>
-                </Button>
 
                 <Button onClick={handleMenuOpen}>
                     <AccountCircleIcon 
@@ -186,6 +166,18 @@ function NavBar({isLoggedIn}) {
                         }}
                       >
                         Account Settings
+                      </NavLink>
+                  </MenuItem>
+                  <MenuItem>
+                      <NavLink
+                        to="/tracker"
+                        style={{
+                          color: "black",
+                          fontFamily: ["-apple-system", "BlinkMacSystemFont", "sans-serif"],
+                          textDecoration: "none",
+                        }}
+                      >
+                        Tracker
                       </NavLink>
                   </MenuItem>
 

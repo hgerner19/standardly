@@ -59,26 +59,34 @@ def search():
     curriculum_items = CurriculumItems.query.join(Subtopics).filter(Subtopics.subtopicid == subtopic_id).all()
     subcurriculum_items = SubCurriculumItems.query.join(CurriculumItems).join(Subtopics).filter(Subtopics.subtopicid == subtopic_id).all()
 
-    curriculum_matches = []
+    match = None
+    topic_name = None
+
     for item in curriculum_items:
         if search_input.lower() in item.description.lower():
-            curriculum_matches.append({
+            match = {
                 'subtopic_description': item.subtopic.description,
-                'curriculum_description': item.description
-            })
+                'curriculum_description': item.description,
+                'type': 'CurriculumItem'  # Add 'type' field to indicate the type of match
+            }
+            topic_name = item.subtopic.topic.topicname
+            break
 
-    subcurriculum_matches = []
-    for item in subcurriculum_items:
-        if search_input.lower() in item.description.lower():
-            subcurriculum_matches.append({
-                'subcurriculum_description': item.description,
-                'curriculum_description': item.curriculumitem.description,
-                'subtopic_name': item.curriculumitem.subtopic.description
-            })
+    if not match:
+        for item in subcurriculum_items:
+            if search_input.lower() in item.description.lower():
+                match = {
+                    'subcurriculum_description': item.description,
+                    'curriculum_description': item.curriculumitem.description,
+                    'subtopic_name': item.curriculumitem.subtopic.description,
+                    'type': 'SubCurriculumItem'  # Add 'type' field to indicate the type of match
+                }
+                topic_name = item.curriculumitem.subtopic.topic.topicname
+                break
 
     return make_response({
-        'curriculum_matches': curriculum_matches,
-        'subcurriculum_matches': subcurriculum_matches
+        'topic_name': topic_name,
+        'match': match
     }, 200)
 
 @app.route('/users/<int:id>', methods=['GET', 'PATCH', 'DELETE'])
@@ -114,47 +122,57 @@ def user_by_id(id):
 
     return response
 
-@app.route('/standards', methods=['GET'])
-def get_standards():
-    grade = request.args.get('grade')  # Retrieve the grade from the query parameters
-    subject = request.args.get('subject')  # Retrieve the subject from the query parameters
+@app.route('/standard', methods=['POST'])
+def get_standards_endpoint():
+    search_args = request.get_json()['params']
+    grade = search_args.get('grade')
 
-    def indexing(grade, subject):
+    def indexing(grade):
         grade_obj = Grades.query.filter_by(gradename=grade).first()
         if grade_obj:
             grade_id = grade_obj.gradeid
-            subject_obj = Subjects.query.filter_by(subjectname=subject, gradeid=grade_id).first()
-            if subject_obj:
-                subject_id = subject_obj.subjectid
-                return subject_id
+            return grade_id
         return None
 
-    subject_id = indexing(grade, subject)
+    grade_id = indexing(grade)
 
-    curriculum_items = CurriculumItems.query.join(Subtopics).join(Topics).join(Subjects).filter(
-        Subjects.gradeid == grade_id, Subjects.subjectid == subject_id).all()
-    subcurriculum_items = SubCurriculumItems.query.join(CurriculumItems).join(Subtopics).join(Topics).join(
-        Subjects).filter(Subjects.gradeid == grade_id, Subjects.subjectid == subject_id).all()
+    if grade_id is None:
+        return make_response("Invalid grade", 400)
+
+    subjects = Subjects.query.filter_by(gradeid=grade_id).all()
 
     curriculum_matches = []
-    for item in curriculum_items:
-        curriculum_matches.append({
-            'subtopic_description': item.subtopic.description,
-            'curriculum_description': item.description
-        })
-
     subcurriculum_matches = []
-    for item in subcurriculum_items:
-        subcurriculum_matches.append({
-            'subcurriculum_description': item.description,
-            'curriculum_description': item.curriculumitem.description,
-            'subtopic_name': item.curriculumitem.subtopic.description
-        })
+
+    for subject in subjects:
+        curriculum_items = CurriculumItems.query.join(Subtopics).join(Topics).join(Subjects).filter(
+            Subjects.gradeid == grade_id, Subjects.subjectid == subject.subjectid).all()
+        subcurriculum_items = SubCurriculumItems.query.join(CurriculumItems).join(Subtopics).join(Topics).join(
+            Subjects).filter(Subjects.gradeid == grade_id, Subjects.subjectid == subject.subjectid).all()
+
+        for item in curriculum_items:
+            curriculum_matches.append({
+                'subject_name': subject.subjectname,
+                'curriculum_description': item.description,
+                'curriculum_id': item.itemid
+            })
+
+        for item in subcurriculum_items:
+            subcurriculum_matches.append({
+                'subject_name': subject.subjectname,
+                'subcurriculum_description': item.description,
+                'curriculum_description': item.curriculumitem.description,
+                'subtopic_name': item.curriculumitem.subtopic.description,
+                'subcurriculum_id': item.itemid,
+                'curriculum_id': item.itemid
+            })
 
     return make_response({
         'curriculum_matches': curriculum_matches,
         'subcurriculum_matches': subcurriculum_matches
     }, 200)
+
+
 
 
 @app.route('/upload', methods=['POST'])
@@ -211,7 +229,193 @@ def add_storage():
 
     return redirect('/')
 
+@app.route('/tracker', methods=['POST'])
+def tracker():
+    search_args = request.get_json()['params']
+    grade = search_args.get('grade')
 
+    subjects_data = {}
+    def indexing(grade):
+        grade_obj = Grades.query.filter_by(gradename=grade).first()
+        if grade_obj:
+            grade_id = grade_obj.gradeid
+            return grade_id
+        return None
+
+    grade_id = indexing(grade)
+
+    if grade_id is None:
+        return make_response("Invalid grade", 400)
+   
+    subjects = Subjects.query.filter_by(gradeid=grade_id).all()
+
+    print(f"Number of subjects: {len(subjects)}")
+
+    # Iterate over each subject
+    for subject in subjects:
+        subject_name = subject.subjectname
+        subject_object = {
+            'subjectname': subject_name,
+            'topics': {}
+        }
+
+        topics = Topics.query.filter_by(subjectid=subject.subjectid).all()
+
+        print(f"Subject: {subject_name}, Number of topics: {len(topics)}")
+
+        for topic in topics:
+            topic_name = topic.topicname
+            topic_data = {
+                'subtopics': {}
+            }
+
+            subtopics = Subtopics.query.filter_by(topicid=topic.topicid).all()
+
+            print(f"Subject: {subject_name}, Topic: {topic_name}, Number of subtopics: {len(subtopics)}")
+
+            for subtopic in subtopics:
+                subtopic_data = {
+                    'curriculumitems': {}
+                }
+
+                curriculum_items = CurriculumItems.query.filter_by(subtopicid=subtopic.subtopicid).all()
+
+                print(f"Subject: {subject_name}, Topic: {topic_name}, Subtopic: {subtopic.description}, Number of curriculum items: {len(curriculum_items)}")
+
+                for curriculum_item in curriculum_items:
+                    curriculum_item_data = {
+                        'subcurriculumitems': {}
+                    }
+
+                    subcurriculum_items = SubCurriculumItems.query.filter_by(itemid=curriculum_item.itemid).all()
+
+                    print(f"Subject: {subject_name}, Topic: {topic_name}, Subtopic: {subtopic.description}, Curriculum Item: {curriculum_item.description}, Number of subcurriculum items: {len(subcurriculum_items)}")
+
+                    for subcurriculum_item in subcurriculum_items:
+                        subcurriculum_item_data = {
+                            'description': subcurriculum_item.description
+                        }
+
+                        curriculum_item_data['subcurriculumitems'][subcurriculum_item.subitemid] = subcurriculum_item_data
+
+                    curriculum_item_data['description'] = curriculum_item.description
+
+                    # Add curriculum item data to the subtopic
+                    subtopic_data['curriculumitems'][curriculum_item.itemid] = curriculum_item_data
+
+                subtopic_data['description'] = subtopic.description
+                subtopic_data['subtopicid'] = subtopic.subtopicid
+
+                # Add subtopic data to the topic
+                topic_data['subtopics'][subtopic.subtopicid] = subtopic_data
+
+            topic_data['description'] = topic_name
+
+            # Add topic data to the subject
+            subject_object['topics'][topic.topicid] = topic_data
+
+        # Add subject object to the subjects data
+        subjects_data[subject_name] = subject_object
+
+    print(subjects_data)
+
+    return make_response(subjects_data, 200)
+
+@app.route('/plans', methods=['POST'])
+def plans():
+    search_args = request.get_json()['params']
+    grade = search_args.get('grade')
+
+    subjects_data = {}
+
+    def indexing(grade):
+        grade_obj = Grades.query.filter_by(gradename=grade).first()
+        if grade_obj:
+            grade_id = grade_obj.gradeid
+            return grade_id
+        return None
+
+    grade_id = indexing(grade)
+
+    if grade_id is None:
+        return make_response("Invalid grade", 400)
+
+    # Fetch subjects based on the selected grade
+    subjects = Subjects.query.filter_by(gradeid=grade_id).all()
+
+    # Iterate over each subject
+    for subject in subjects:
+        subject_name = subject.subjectname
+        subject_object = {
+            'subjectname': subject_name,
+            'topics': {}
+        }
+
+        # Fetch topics for the subject
+        topics = Topics.query.filter_by(subjectid=subject.subjectid).all()
+
+        # Iterate over each topic
+        for topic in topics:
+            topic_name = topic.topicname
+            topic_data = {
+                'subtopics': {}
+            }
+
+            # Fetch subtopics for the topic
+            subtopics = Subtopics.query.filter_by(topicid=topic.topicid).all()
+
+            # Iterate over each subtopic
+            for subtopic in subtopics:
+                subtopic_data = {
+                    'curriculumitems': {}
+                }
+
+                # Fetch curriculum items for the subtopic
+                curriculum_items = CurriculumItems.query.filter_by(subtopicid=subtopic.subtopicid).all()
+
+                # Iterate over each curriculum item
+                for curriculum_item in curriculum_items:
+                    curriculum_item_data = {
+                        'subcurriculumitems': {}
+                    }
+
+                    # Fetch subcurriculum items for the curriculum item
+                    subcurriculum_items = SubCurriculumItems.query.filter_by(itemid=curriculum_item.itemid).all()
+
+                    # Iterate over each subcurriculum item
+                    for subcurriculum_item in subcurriculum_items:
+                        subcurriculum_item_data = {
+                            'id': subcurriculum_item.subitemid,
+                            'description': subcurriculum_item.description
+                        }
+
+                        # Add subcurriculum item data to the curriculum item
+                        curriculum_item_data['subcurriculumitems'][subcurriculum_item.subitemid] = subcurriculum_item_data
+
+                    curriculum_item_data['id'] = curriculum_item.itemid
+                    curriculum_item_data['description'] = curriculum_item.description
+
+                    # Add curriculum item data to the subtopic
+                    subtopic_data['curriculumitems'][curriculum_item.itemid] = curriculum_item_data
+
+                subtopic_data['description'] = subtopic.description
+                subtopic_data['subtopicid'] = subtopic.subtopicid
+
+                # Add subtopic data to the topic
+                topic_data['subtopics'][subtopic.subtopicid] = subtopic_data
+
+            topic_data['description'] = topic_name
+
+            # Add topic data to the subject
+            subject_object['topics'][topic.topicid] = topic_data
+
+        # Add subject object to the subjects data
+        subjects_data[subject_name] = subject_object
+
+    return make_response(subjects_data, 200)
+
+
+    
 
 class Signup(Resource):
     def post(self):

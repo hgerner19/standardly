@@ -98,12 +98,12 @@ const SignUp = () => {
                                                             ['-apple-system', 'BlinkMacSystemFont', 'sans-serif']} }}
                                 >
                                     <MenuItem value="kindergarten">Kindergarten</MenuItem>
-                                    <MenuItem value="1st">1st Grade</MenuItem>
-                                    <MenuItem value="2nd">2nd Grade</MenuItem>
-                                    <MenuItem value="3rd">3rd Grade</MenuItem>
-                                    <MenuItem value="4th">4th Grade</MenuItem>
-                                    <MenuItem value="5th">5th Grade</MenuItem>
-                                    <MenuItem value="6th">6th Grade</MenuItem>
+                                    <MenuItem value="firstgrade">1st Grade</MenuItem>
+                                    <MenuItem value="secondgrade">2nd Grade</MenuItem>
+                                    <MenuItem value="thirdgrade">3rd Grade</MenuItem>
+                                    <MenuItem value="fourthgrade">4th Grade</MenuItem>
+                                    <MenuItem value="fifthgrade">5th Grade</MenuItem>
+                                    <MenuItem value="sixthgrade">6th Grade</MenuItem>
                                 </Select>
                             </FormControl>
                             <Button variant="contained" color="primary" 

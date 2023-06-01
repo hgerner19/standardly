@@ -11,7 +11,8 @@ import SignUp from "./SignUp.js";
 import NavBar from "./NavBar.js";
 import Login from "./Login.js";
 import MyPlans from "./MyPlans";
-
+import Tracker from "./Tracker.js";
+import "./App.css";
 function App() {
   const isLoggedIn = useRecoilValue(isLoggedInState);
   const userInfo = useRecoilValue(userInfoState);
@@ -41,10 +42,17 @@ function App() {
           {!isLoggedIn && <Login />}
         </Route>
         <Route exact path="/myplans">
-          <MyPlans />
+          <MyPlans userInfo={userInfo}/>
+        </Route>
+        <Route exact path="/tracker">
+          <Tracker userInfo={userInfo}/>
         </Route>
       </Switch>
+      <footer className="footer">
+
+      </footer>
     </Router>
+    
   );
 }
 

@@ -42,17 +42,12 @@ const About = () => {
                         </Typography>
                         <Box sx={{ width: '100%', height: 200, border: 'none' }}>
                             <Typography variant="body2" style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'] }}>
-                                - As a user, Standardly empowers you with comprehensive tools to enhance your teaching experience. Not only can you
+                                As a user, Standardly empowers you with comprehensive tools to enhance your teaching experience. Not only can you
                                 effortlessly track your standards throughout the year, but you also have the flexibility to link your own resources
                                 directly to specific standards. Whether it's a meticulously crafted lesson plan or a valuable YouTube video,
                                 Standardly allows you to seamlessly integrate them into your curriculum.
                             </Typography>
-                            <Typography variant="body2" style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'] }}>
-                                - One of the standout features of Standardly is its innovative lesson plan checker. This tool scans your plans and
-                                provides detailed feedback, highlighting the standards your lesson covers and identifying any areas that may require
-                                additional attention. This invaluable feature enables you to fine-tune your teaching strategies and deliver lessons
-                                that meet and exceed the expected educational standards.
-                            </Typography>
+                            
                         </Box>
                     </Grid>
                     <Grid item xs={12} sm={6}>

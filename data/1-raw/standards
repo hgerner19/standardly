@@ -1,7 +1,7 @@
 {
     "kindergarten": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. Whole numbers can be used to name,count,represent,and order quantity:",
                     "curriculum_items": {
@@ -54,7 +54,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Shapes are described by their characteristics and position and created by composing and decomposing:",
                     "curriculum_items": {
@@ -101,7 +101,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Oral communication skills are built within a language-rich environment:",
                     "curriculum_items": {
@@ -162,7 +162,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. A concept of print to read and a solid comprehension of literary texts are the building blocks for reading:",
                     "curriculum_items": {
@@ -281,7 +281,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. Text types and purposes, labels, and familiar words are used to communicate information and ideas:",
                     "curriculum_items": {
@@ -330,7 +330,7 @@
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning:": {
                 "Subtopic1": {
                     "content": "A. Identify purpose, information and question an issue:",
                     "curriculum_items": {
@@ -345,7 +345,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Physcial Science:": {
                 "Subtopic1": {
                     "content": "A. Objects can move in a variety of ways that can be described by speed and direction:",
                     "curriculum_items": {
@@ -372,7 +372,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. Organisms can be described and sorted by their physical characteristics:",
                     "curriculum_items": {
@@ -385,7 +385,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science:": {
                 "Subtopic1": {
                     "content": "A. The sun provides heat and light to Earth:",
                     "curriculum_items": {
@@ -408,7 +408,7 @@
     },
     "firstgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. The whole number system describes place value relationships within and beyond 100 and forms the foundation for efficient algorithms:",
                     "curriculum_items": {
@@ -433,11 +433,9 @@
                                 "subcurriculum_item1": "Add within 100, including adding a two-digit number and a one-digit number and adding a two-digit number and a multiple of ten, using concrete models or drawings, and/or the relationship between addition and subtraction. (CCSS: 1.NBT.4)",
                                 "subcurriculum_item2": "Identify coins and find the value of a collection of two coins (PFL)",
                                 "subcurriculum_item3": "Mentally find 10 more or 10 less than any  two-digit number, without counting;explain the reasoning used. (CCSS: 1.NBT.5)",
-                                "subcurriculum_item4": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or  drawings and strategies based on place value,  properties of operations, and/or the relationship between addition and subtraction. (CCSS:1.NBT.6)"
+                                "subcurriculum_item4": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or  drawings and strategies based on place value,  properties of operations, and/or the relationship between addition and subtraction. (CCSS:1.NBT.6)",
+                                "subcurriculum_item5": "Relate addition and subtraction strategies to a written method and explain the reasoning used. (CCSS: 1.NBT.4 and 1.NBT.6)"
                             }
-                        },
-                        "curriculum_item4": {
-                            "content": "v. Relate addition and subtraction strategies to a written method and explain the reasoning used. (CCSS: 1.NBT.4 and 1.NBT.6)"
                         }
                     }
                 },
@@ -445,7 +443,7 @@
                     "content": "B. Number relationships can be used to solve addition and subtraction problems:",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "a. Represent and solve problems involving addition and subtraction. (CCSS: 1.OA)",
+                            "content": "a. Represent and solve problems involving addition and subtraction.(CCSS: 1.OA)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Use addition and subtraction within 20 to solve word problems. (CCSS: 1.OA.1)",
                                 "subcurriculum_item2": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20.3 (CCSS: 1.OA.2)"
@@ -476,7 +474,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Data Analysis, Statistics, and Probability:": {
                 "Subtopic1": {
                     "content": "A.Visual displays of information can be used to answer questions:\nto three categories. (CCSS: 1.MD.4)",
                     "curriculum_items": {
@@ -490,7 +488,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A.Shapes can be described by defining attributes and created by composing and decomposing:",
                     "curriculum_items": {
@@ -533,7 +531,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Multiple strategies develop and expand oral vocabulary:",
                     "curriculum_items": {
@@ -582,7 +580,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. Comprehending and fluently reading a variety of literary texts are the beginning traits of readers:",
                     "curriculum_items": {
@@ -679,14 +677,10 @@
                                 "subcurriculum_item1": "Know the spelling-sound correspondences for common consonant digraphs (two letters that represent one sound). (CCSS: RF.1.3a)",
                                 "subcurriculum_item2": "Decode regularly spelled one-syllable words. (CCSS:RF.1.3b)",
                                 "subcurriculum_item3": "Know final -e and common vowel team conventions for representing long vowel sounds. (CCSS: RF.1.3c)",
-                                "subcurriculum_item4": "Use knowledge that every syllable must have a vowel sound to determine the number of syllables in a printed word. (CCSS:RF .1.3d)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "v. Decode two-syllable words following basic patterns by breaking the words into syllables. (CCSS: RF.1.3e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Read words with inflectional endings. (CCSS: RF.1.3f)",
-                                "subcurriculum_item2": "Recognize and read grade-appropriate irregularly spelled words. (CCSS: RF.1.3g)"
+                                "subcurriculum_item4": "Use knowledge that every syllable must have a vowel sound to determine the number of syllables in a printed word. (CCSS:RF .1.3d)",
+                                "subcurriculum_item5": "Decode two-syllable words following basic patterns by breaking the words into syllables. (CCSS: RF.1.3e)",
+                                "subcurriculum_item6": "Read words with inflectional endings. (CCSS: RF.1.3f)",
+                                "subcurriculum_item7": "Recognize and read grade-appropriate irregularly spelled words. (CCSS: RF.1.3g)"
                             }
                         }
                     }
@@ -725,7 +719,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. Exploring the writing process develops ideas for writing texts that carry meaning:",
                     "curriculum_items": {
@@ -755,38 +749,29 @@
                                 "subcurriculum_item1": "Print all upper- and lowercase letters. (CCSS:L.1.1a)",
                                 "subcurriculum_item2": "Use common, proper, and possessive nouns. (CCSS:L.1.1b)",
                                 "subcurriculum_item3": "Use singular and plural nouns with matching verbs in basic sentences (e.g., He hops; We hop). (CCSS: L.1.1c)",
-                                "subcurriculum_item4": "Use personal, possessive, and indefinite pronouns (e.g., I, me, my; they, them, their, anyone, everything). (CCSS: L.1.1d)"
+                                "subcurriculum_item4": "Use personal, possessive, and indefinite pronouns (e.g., I, me, my; they, them, their, anyone, everything). (CCSS: L.1.1d)",
+                                "subcurriculum_item5": "Use verbs to convey a sense of past,present,and future (e.g.,YesterdayI walked home; Today I walk home; Tomorrow I will walk home). (CCSS L.1.1e)",
+                                "subcurriculum_item6": "Use frequently occurring adjectives. (CCSS:L.1.1f)",
+                                "subcurriculum_item7": "Use frequently occurring conjunctions (e.g., and, but, or, so, because).(CCSS: L.1.1g)",
+                                "subcurriculum_item8": "Use frequently occurring prepositions (e.g., during, beyond, toward).(CCSS: L.1.1i)",
+                                "subcurriculum_item9": "Produce and expand complete simple and compound declarative,interrogative, imperative, and exclamatory sentences in response to prompts. (CCSS: L.1.1j)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Use verbs to convey a sense of past,present,and future (e.g.,YesterdayI walked home; Today I walk home; Tomorrow I will walk home). (CCSS L.1.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use frequently occurring adjectives. (CCSS:L.1.1f)",
-                                "subcurriculum_item2": "Use frequently occurring conjunctions (e.g., and, but, or, so, because).(CCSS: L.1.1g)",
-                                "subcurriculum_item3": "Use determiners (e.g., articles, demonstratives). (CCSS:L.1.1h)",
-                                "subcurriculum_item4": "Use frequently occurring prepositions (e.g., during, beyond, toward).(CCSS: L.1.1i)",
-                                "subcurriculum_item5": "Produce and expand complete simple and compound declarative,interrogative, imperative, and exclamatory sentences in response to prompts. (CCSS: L.1.1j)"
-                            }
-                        },
-                        "curriculum_item3": {
                             "content": "b. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.1.2)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Write complete simple sentences.",
                                 "subcurriculum_item2": "Capitalize dates and names of people. (CCSS: L.1.2a)",
                                 "subcurriculum_item3": "Use end punctuation for sentences. (CCSS:L.1.2b)",
-                                "subcurriculum_item4": "Use commas in dates and to separate single words in a series. (CCSS: L.1.2c)"
-                            }
-                        },
-                        "curriculum_item4": {
-                            "content": "v. Use conventional spelling for words with common spelling patterns and for frequently occurring irregular words. (CCSS:L.1.2d)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Spell untaught words phonetically, drawing on phonemic awareness and spelling conventions. (CCSS: L.1.2e)"
+                                "subcurriculum_item4": "Use commas in dates and to separate single words in a series. (CCSS: L.1.2c)",
+                                "subcurriculum_item5": "Use conventional spelling for words with common spelling patterns and for frequently occurring irregular words. (CCSS:L.1.2d)",
+                                "subcurriculum_item6": "Spell untaught words phonetically, drawing on phonemic awareness and spelling conventions. (CCSS: L.1.2e)"
                             }
                         }
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning:": {
                 "Subtopic1": {
                     "content": "A. Purpose, information, and questions about an issue are essential steps in early research:",
                     "curriculum_items": {
@@ -807,7 +792,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Physical Science:": {
                 "Subtopic1": {
                     "content": "A. Solids and liquids have unique properties that distinguish them:",
                     "curriculum_items": {
@@ -823,7 +808,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. Offspring have characteristics that are similar to but not exactly like their parents\u2019 characteristics:",
                     "curriculum_items": {
@@ -856,7 +841,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science:": {
                 "Subtopic1": {
                     "content": "A. Earth\u2019s materials can be compared and classified based on their properties:",
                     "curriculum_items": {
@@ -885,7 +870,7 @@
     },
     "secondgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A.The whole number system describes place value relationships through 1,000 and forms the foundation for efficient algorithms:",
                     "curriculum_items": {
@@ -895,24 +880,21 @@
                                 "subcurriculum_item1": "Represent the digits of a three-digit number as hundreds, tens, and ones.1 (CCSS: 2.NBT.1)",
                                 "subcurriculum_item2": "Count within 1000. (CCSS: 2.NBT.2)",
                                 "subcurriculum_item3": "Skip-count by 5s, 10s, and 100s. (CCSS: 2.NBT.2)",
-                                "subcurriculum_item4": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form. (CCSS: 2.NBT.3)"
+                                "subcurriculum_item4": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form. (CCSS: 2.NBT.3)",
+                                "subcurriculum_item5": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons. (CCSS: 2.NBT.4)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons. (CCSS: 2.NBT.4)"
-                        },
-                        "curriculum_item3": {
                             "content": "b. Use place value understanding and properties of operations adding subtract. (CCSS: 2.NBT)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction. (CCSS: 2.NBT.5)",
                                 "subcurriculum_item2": "Add up to four two-digit numbers using strategies based on place value and properties of operations. (CCSS: 2.NBT.6)",
                                 "subcurriculum_item3": "Add and subtract within 1000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method. (CCSS:2.NBT.7)",
-                                "subcurriculum_item4": "Mentally add 10 or 100 to a given number 100\u2013900, and mentally subtract 10 or 100 from a given number 100\u2013900. (CCSS: 2.NBT.8)"
+                                "subcurriculum_item4": "Mentally add 10 or 100 to a given number 100\u2013900, and mentally subtract 10 or 100 from a given number 100\u2013900. (CCSS: 2.NBT.8)",
+                                "subcurriculum_item5": "Explain why addition and subtraction strategies work, using place value and the properties of operations. (CCSS: 2.NBT.9)"
                             }
-                        },
-                        "curriculum_item4": {
-                            "content": "v. Explain why addition and subtraction strategies work, using place value and the properties of operations. (CCSS: 2.NBT.9)"
                         }
+                        
                     }
                 },
                 "Subtopic2": {
@@ -942,7 +924,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Data Analysis, Statistics, and Probability:": {
                 "Subtopic1": {
                     "content": "A. Visual displays of data can be constructed in a variety of formats to solve problems:",
                     "curriculum_items": {
@@ -957,7 +939,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Shapes can be described by their attributes and used to represent part/whole relationships:",
                     "curriculum_items": {
@@ -1009,7 +991,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Discussions contribute and expand on the ideas of self and others:",
                     "curriculum_items": {
@@ -1044,7 +1026,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. Fluent reading depends on specific skills and approaches to understanding strategies when reading literary text:",
                     "curriculum_items": {
@@ -1083,9 +1065,12 @@
                     }
                 },
                 "Subtopic2": {
-                    "content": "B. Fluent reading depends on specific skills and approaches to understanding strategies when reading informational text: a. Use Key Ideas and Details to:",
+                    "content": "B. Fluent reading depends on specific skills and approaches to understanding strategies when reading informational text:",
                     "curriculum_items": {
                         "curriculum_item1": {
+                            "content": "a. Use Key Ideas and Details to:"
+                        },
+                        "curriculum_item2": {
                             "content": "b. Use Craft and Structure to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Determine the meaning of words and phrases in a text relevant to a grade 2 topic or subject area. (CCSS: RI.2.)",
@@ -1093,7 +1078,7 @@
                                 "subcurriculum_item3": "Identify the main purpose of a text, including what the author wants to answer, explain, or describe. (CCSS: RI.2.6)"
                             }
                         },
-                        "curriculum_item2": {
+                        "curriculum_item3": {
                             "content": "c. Use Integration of Knowledge and Ideas to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Explain how specific images (e.g., a diagram showing how a machine works) contribute to and clarify a text. (CCSS: RI.2.7)",
@@ -1101,31 +1086,31 @@
                                 "subcurriculum_item3": "Compare and contrast the most important points presented by two texts on the same topic. (CCSS: RI.2.9)"
                             }
                         },
-                        "curriculum_item3": {
+                        "curriculum_item4": {
                             "content": "d. Use Range of Reading and Level of Text Complexity to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 2\u20133 text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS:RI.2.10)"
                             }
                         },
-                        "curriculum_item4": {
-                            "content": "e. Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases. (CCSS: L.2.4e) C. Decoding words with accuracy depends on knowledge of complex spelling patterns and morphology:"
-                        },
                         "curriculum_item5": {
+                            "content": "e. Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases. (CCSS: L.2.4e)"
+                        }
+                    },
+                    "Subtopic3": {
+                        "content": "C. Decoding words with accuracy depends on knowledge of complex spelling patterns and morphology:",
+                        "curriculum_item1": {
                             "content": "a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.2.3)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Distinguish long and short vowels when reading regularly spelled one-syllable words.(CCSS: RF.2.3a)",
                                 "subcurriculum_item2": "Know spelling-sound correspondences for additional common vowel teams. (CCSS:RF.2.3b)",
                                 "subcurriculum_item3": "Decode regularly spelled two-syllable words with long vowels. (CCSS:RF.2.3c)",
-                                "subcurriculum_item4": "Decode words with common prefixes and suffixes. (CCSS:RF.2.3d)"
+                                "subcurriculum_item4": "Decode words with common prefixes and suffixes. (CCSS:RF.2.3d)",
+                                "subcurriculum_item5": "Identify words with inconsistent but common spelling-sound correspondences. (CCSS:RF.2.3e)",
+                                "subcurriculum_item6": "Recognize and read grade-appropriate irregularly spelled words. (CCSS: RF.2.3f)"
                             }
                         },
-                        "curriculum_item6": {
-                            "content": "v. Identify words with inconsistent but common spelling-sound correspondences. (CCSS:RF.2.3e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Recognize and read grade-appropriate irregularly spelled words. (CCSS: RF.2.3f)"
-                            }
-                        },
-                        "curriculum_item7": {
+                       
+                        "curriculum_item2": {
                             "content": "b. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.2.4)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Read grade-level text with purpose and understanding. (CCSS: RF.2.4a)",
@@ -1133,7 +1118,7 @@
                                 "subcurriculum_item3": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS: RF.2.4c)"
                             }
                         },
-                        "curriculum_item8": {
+                        "curriculum_item3": {
                             "content": "c. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 2 reading and content, choosing flexibly from an array of strategies. (CCSS: L.2.4)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Use sentence-level context as a clue to the meaning of a word or phrase. (CCSS: L.2.4a)",
@@ -1142,20 +1127,20 @@
                                 "subcurriculum_item4": "Use knowledge of the meaning of individual words to predict the meaning of compound words (e.g., birdhouse, lighthouse, housefly; bookshelf, notebook, bookmark). (CCSS:L.2.4d)"
                             }
                         },
-                        "curriculum_item9": {
+                        "curriculum_item4": {
                             "content": "d. Demonstrate understanding of figurative language, word relationships and nuances in word meanings. (CCSS: L.2.5)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Identify real-life connections between words and their use (e.g., describe foods that are spicy or juicy). (CCSS: L.2.5a)",
                                 "subcurriculum_item2": "Distinguish shades of meaning among closely related verbs (e.g., toss, throw, hurl) and closely related adjectives (e.g., thin, slender, skinny, scrawny). (CCSS: L.2.5b)"
                             }
                         },
-                        "curriculum_item10": {
+                        "curriculum_item5": {
                             "content": "e. Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using adjectives and adverbs to describe (e.g., When other kids are happy that makes me happy). (CCSS: L.2.6)"
                         }
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. Exploring the writing process helps to plan and draft a variety of literary genres:",
                     "curriculum_items": {
@@ -1184,37 +1169,31 @@
                                 "subcurriculum_item1": "Use collective nouns (e.g., group). (CCSS: L.2.1a)",
                                 "subcurriculum_item2": "Form and use frequently occurring irregular plural nouns (e.g., feet, children, teeth, mice, fish). (CCSS: L.2.1b)",
                                 "subcurriculum_item3": "Use reflexive pronouns (e.g., myself, ourselves). (CCSS:L.2.1c)",
-                                "subcurriculum_item4": "Form and use the past tense of frequently occurring irregular verbs (e.g.,sat, hid, told). (CCSS: L.2.1d)"
+                                "subcurriculum_item4": "Form and use the past tense of frequently occurring irregular verbs (e.g.,sat, hid, told). (CCSS: L.2.1d)",
+                                "subcurriculum_item5": "Use adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.2.1e)",
+                                "subcurriculum_item6": "Produce, expand, and rearrange complete simple and compound sentences (e.g., The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy). (CCSS: L.2.1f)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Use adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.2.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Produce, expand, and rearrange complete simple and compound sentences (e.g., The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy). (CCSS: L.2.1f)"
-                            }
-                        },
-                        "curriculum_item3": {
                             "content": "b. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS:L.2.2)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Capitalize holidays, product names, and geographic names. (CCSS: L.2.2a)",
                                 "subcurriculum_item2": "Use commas in greetings and closings of letters. (CCSS:L.2.2b)",
                                 "subcurriculum_item3": "Use an apostrophe to form contractions and frequently occurring possessives. (CCSS: L.2.2c)",
-                                "subcurriculum_item4": "Generalize learned spelling patterns when writing words (e.g., cage \u2192 badge; boy \u2192 boil). (CCSS: L.2.2d)"
+                                "subcurriculum_item4": "Generalize learned spelling patterns when writing words (e.g., cage \u2192 badge; boy \u2192 boil). (CCSS: L.2.2d)",
+                                "subcurriculum_item5": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings. (CCSS: L.2.2e)"
                             }
                         },
-                        "curriculum_item4": {
-                            "content": "v. Consult reference materials, including beginning dictionaries, as needed to check and correct spellings. (CCSS: L.2.2e)"
-                        },
-                        "curriculum_item5": {
+                        "curriculum_item3": {
                             "content": "c. With guidance and support from adults and peers, focus on a topic and strengthen writing as needed by revising and editing. (CCSS: W.2.5)"
                         },
-                        "curriculum_item6": {
+                        "curriculum_item4": {
                             "content": "d. With guidance and support from adults, use a variety of digital tools to produce and publish writing, including in collaboration with peers. (CCSS: W.2.6)"
                         }
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning:": {
                 "Subtopic1": {
                     "content": "A. Reference materials help us locate information and answer questions:",
                     "curriculum_items": {
@@ -1234,7 +1213,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Physical Science: ": {
                 "Subtopic1": {
                     "content": "A. Changes in speed or direction of motion are caused by forces such as pushes and pulls:",
                     "curriculum_items": {
@@ -1247,7 +1226,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. Organisms depend on their habitat\u2019s nonliving parts to satisfy their needs:",
                     "curriculum_items": {
@@ -1277,7 +1256,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science: ": {
                 "Subtopic1": {
                     "content": "A. Weather and the changing seasons impact the environment and organisms such as humans, plants, and other animals:",
                     "curriculum_items": {
@@ -1297,7 +1276,7 @@
     },
     "thirdgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. The whole number system describes place value relationships and forms the foundation for efficient algorithms:",
                     "curriculum_items": {
@@ -1367,50 +1346,10 @@
                             }
                         }
                     }
-                },
-                "Subtopic4": {
-                    "content": "B. Linear and area measurement are fundamentally different and require different units of measure:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Use concepts of area and relate area to multiplication and addition. (CCSS: 3.MD)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Recognize area as an attribute of plane figures and apply concepts of area measurement. (CCSS:3.MD.5)",
-                                "subcurriculum_item2": "Find area of rectangles with whole number side lengths using a variety of methods (CCSS:3.MD.7a)",
-                                "subcurriculum_item3": "Relate area to the operations of multiplication and addition and recognize area as additive. (CSSS: 3.MD.7)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "b. Describe perimeter as an attribute of plane figures and distinguish between linear and area measures. (CCSS:3.MD)"
-                        },
-                        "curriculum_item3": {
-                            "content": "c. Solve real world and mathematical problems involving perimeters of polygons. (CCSS: 3.MD.8)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Find the perimeter given the side lengths. (CCSS:3.MD.8)",
-                                "subcurriculum_item2": "Find an unknown side length given the perimeter. (CCSS: 3.MD.8)",
-                                "subcurriculum_item3": "Find rectangles with the same perimeter and different areas or with the same area and different perimeters. (CCSS: 3.MD.8)"
-                            }
-                        }
-                    }
-                },
-                "Subtopic5": {
-                    "content": "C. Time and attributes of object can be measured with appropriate Tools:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Solve problems involving measurement and estimation of intervals of time, liquid volumes, and masses of objects. (CCSS: 3.MD)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Tell and write time to the nearest minute. (CCSS:3.MD.1)",
-                                "subcurriculum_item2": "Measure time intervals in minutes. (CCSS: 3.MD.1)",
-                                "subcurriculum_item3": "Solve word problems involving addition and subtraction of time intervals in minutes using a number line diagram. (CCSS: 3.MD.1)",
-                                "subcurriculum_item4": "Measure and estimate liquid volumes and masses of objects using standard units of grams (g), kilograms (kg), and liters (l). (CCSS: 3.MD.2)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "v. Use models to add, subtract, multiply, or divide to solve one- step word problems involving masses or volumes that are given in the same units. (CCSS: 3.MD.2)"
-                        }
-                    }
                 }
+                
             },
-            "Topic2": {
+            "Data Analysis, Statistics, and Probability:": {
                 "Subtopic1": {
                     "content": "A. Visual Displays Are Used To Describe Data:",
                     "curriculum_items": {
@@ -1425,7 +1364,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Geometric Figures Are Described By Their Attributes:\n1. Identify Rhombuses,rectangles,and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories. (CCSS: 3.G.1)",
                     "curriculum_items": {
@@ -1482,7 +1421,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Oral communication is used both informally and formally:",
                     "curriculum_items": {
@@ -1518,7 +1457,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. Strategies are needed to make meaning of various types of literary genres:",
                     "curriculum_items": {
@@ -1631,7 +1570,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. A writing process is used to plan, draft, and write a variety of literary genres:",
                     "curriculum_items": {
@@ -1694,42 +1633,38 @@
                                 "subcurriculum_item1": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences. (CCSS: L.3.1a)",
                                 "subcurriculum_item2": "Form and use regular and irregular plural nouns. (CCSS: L.3.1b)",
                                 "subcurriculum_item3": "Use abstract nouns (e.g., childhood). (CCSS: L.3.1c)",
-                                "subcurriculum_item4": "Form and use regular and irregular verbs. (CCSS: L.3.1d)"
+                                "subcurriculum_item4": "Form and use regular and irregular verbs. (CCSS: L.3.1d)",
+                                "subcurriculum_item5": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses. (CCSS: L.3.1e)",
+                                "subcurriculum_item6": "Ensure subject-verb and pronoun-antecedent agreement. (CCSS: L.3.1f)",
+                                "subcurriculum_item7": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.3.1g)",
+                                "subcurriculum_item3": "Use coordinating and subordinating conjunctions. (CCSS: L.3.1h)",
+                                "subcurriculum_item8": "Use coordinating and subordinating conjunctions. (CCSS: L.3.1h)",
+                                "subcurriculum_item9": "Produce simple, compound, and complex sentences. (CCSS: L.3.1i)"
                             }
                         },
                         "curriculum_item6": {
-                            "content": "v. Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses. (CCSS: L.3.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Ensure subject-verb and pronoun-antecedent agreement. (CCSS: L.3.1f)",
-                                "subcurriculum_item2": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.3.1g)",
-                                "subcurriculum_item3": "Use coordinating and subordinating conjunctions. (CCSS: L.3.1h)",
-                                "subcurriculum_item4": "Produce simple, compound, and complex sentences. (CCSS: L.3.1i)"
-                            }
-                        },
-                        "curriculum_item7": {
                             "content": "f. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.3.2)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Capitalize appropriate words in titles. (CCSS: L.3.2a)",
                                 "subcurriculum_item2": "Use commas in addresses. (CCSS: L.3.2b)",
                                 "subcurriculum_item3": "Use commas and quotation marks in dialogue. (CCSS: L.3.2c)",
-                                "subcurriculum_item4": "Form and use possessives. (CCSS: L.3.2d)"
-                            }
-                        },
-                        "curriculum_item8": {
-                            "content": "v. Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness). (CCSS: L.3.2e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words. (CCSS: L.3.2f)",
-                                "subcurriculum_item2": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings. (CCSS: L.3.2g)"
+                                "subcurriculum_item4": "Form and use possessives. (CCSS: L.3.2d)",
+                                "subcurriculum_item5": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness). (CCSS: L.3.2e)",
+                                "subcurriculum_item6": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words. (CCSS: L.3.2f)",
+                                "subcurriculum_item7": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings. (CCSS: L.3.2g)"
                             }
                         }
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning": {
                 "Subtopic1": {
-                    "content": "A. Researching a topic and sharing findings are often done with others: a. Conduct short research projects that build knowledge about a topic. (CCSS: W.3.7)",
+                    "content": "A. Researching a topic and sharing findings are often done with others:",
                     "curriculum_items": {
-                        "curriculum_item1": {
+                        "curriculum_item1":{
+                            "content": "a. Conduct short research projects that build knowledge about a topic. (CCSS: W.37)"
+                        },
+                        "curriculum_item2": {
                             "content": "b. Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories. (CCSS: W.3.8)"
                         }
                     }
@@ -1737,255 +1672,47 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Pyscial Science": {
                 "Subtopic1": {
-                    "content": "A. Oral communication is used both informally and formally:",
+                    "content": "A. Matter exists in different states such as solids, liquids, and gasses and can change from one state to another by heating and cooling:",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "a. Report on a topic or text, tell a story,or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace. (CCSS: SL.3.4)"
+                            "content": "a. Analyze And Interpret Observations about matter as it freezes and melts, and boils and condenses (DOK 1-2)"
                         },
                         "curriculum_item2": {
-                            "content": "b. Create engaging audio recordings of stories or poems that demonstrate fluid reading at an understandable pace; add visual displays when appropriate to emphasize or enhance certain facts or details. (CCSS: SL.3.5)"
+                            "content": "b. Use evidence to develop a scientific explanation around how heating and cooling affects states of matter (DOK 1-3)"
                         },
                         "curriculum_item3": {
-                            "content": "c. Speak in complete sentences when appropriate to task and situation in order to provide requested detail or clarification. (CCSS: SL.3.6)"
-                        }
-                    }
-                },
-                "Subtopic2": {
-                    "content": "B. Successful group activities need the cooperation of everyone:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others\u2019 ideas and expressing their own clearly. (CCSS: SL 3.1)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion. (CCSS: SL.3.1a)",
-                                "subcurriculum_item2": "Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care, speaking one at a time about the topics and texts under discussion). (CCSS: SL.3.1b)",
-                                "subcurriculum_item3": "Ask questions to check understanding of information presented, stay on topic, and link their comments to the remarks of others. (CCSS: SL.3.1c)",
-                                "subcurriculum_item4": "Explain their own ideas and understanding in light of the discussion. (CCSS: SL.3.1d)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "b. Determine the main ideas and supporting details of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally. (CCSS: SL 3.2)"
-                        },
-                        "curriculum_item3": {
-                            "content": "c. Ask and answer questions about information from a speaker, offering appropriate elaboration and detail. (CCSS: SL 3.3)"
+                            "content": "c. Identify the state of any sample of matter (DOK 1)"
                         }
                     }
                 }
             },
-            "Topic2": {
+            "Life Science": {
                 "Subtopic1": {
-                    "content": "A. Strategies are needed to make meaning of various types of literary genres:",
+                    "content": "A. The duration and timing of life cycle events such as reproduction and longevity vary across organisms and species:",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "a. Use Key Ideas and Details to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers. (CCSS: RL.3.1)",
-                                "subcurriculum_item2": "Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or moral and explain how it is conveyed through key details in the text. (CCSS: RL.3.2)",
-                                "subcurriculum_item3": "Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the sequence of events. (CCSS: RL.3.3)"
-                            }
+                            "content": "a. Use evidence to develop a scientific explanation regarding the stages of how organisms develop and change over time (DOK 1-3)"
+                            
                         },
                         "curriculum_item2": {
-                            "content": "b. Use Craft and Structure to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language. (CCSS: RL.3.4)",
-                                "subcurriculum_item2": "Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier sections. (CCSS: RL.3.5)",
-                                "subcurriculum_item3": "Distinguish their own point of view from that of the narrator or those of the characters. (CCSS: RL.3.6)"
-                            }
+                            "content": "b. Analyze and interpret data to generate evidence that different organisms develop differently over time (DOK 1- 2)"
                         },
                         "curriculum_item3": {
-                            "content": "c. Use Integration of Knowledge and Ideas to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Explain how specific aspects of a text\u2019s illustrations contribute to what is conveyed by the words in a story (e.g., create mood, emphasize aspects of a character or setting). (CCSS:RL.3.7)",
-                                "subcurriculum_item2": "Compare and contrast the themes, settings, and plots of  stories written by the same author about the same or similar characters (e.g., in books from a series). (CCSS: RL.3.9)"
-                            }
-                        },
-                        "curriculum_item4": {
-                            "content": "d. Use Range of Reading and Complexity of Text to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 2\u20133 text complexity band independently and proficiently. (CCSS: RL.3.10)"
-                            }
-                        }
-                    }
-                },
-                "Subtopic2": {
-                    "content": "B. Comprehension strategies are necessary when reading informational or persuasive text:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Use Key Ideas and Details to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers. (CCSS: RI.3.1)",
-                                "subcurriculum_item2": "Determine the main idea of a text; recount the key details and explain how they support the main idea. (CCSS: RI.3.2)",
-                                "subcurriculum_item3": "Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect. (CCSS: RI.3.3)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "b. Use Craft and Structure to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 3 topic or subject area. (CCSS: RI.3.4)",
-                                "subcurriculum_item2": "Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic efficiently. (CCSS: RI.3.5)",
-                                "subcurriculum_item3": "Distinguish their own point of view from that of the author of a text. (CCSS: RI.3.6)"
-                            }
-                        },
-                        "curriculum_item3": {
-                            "content": "c. Use Integration of Knowledge and Ideas to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where,when, why, and how key events occur). (CCSS: RI.3.7)",
-                                "subcurriculum_item2": "Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect, first/second/third in a sequence). (CCSS: RI.3.8)",
-                                "subcurriculum_item3": "Compare and contrast the most important points and key details presented in two texts on the same topic. (CCSS: RI.3.9)"
-                            }
-                        },
-                        "curriculum_item4": {
-                            "content": "d. Use Range of Reading and Complexity of Text to:",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 2\u20133 text complexity band independently and proficiently. (CCSS: RI.3.10)"
-                            }
-                        }
-                    }
-                },
-                "Subtopic3": {
-                    "content": "C. Increasing word understanding, word use, and word relationships increases vocabulary:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.3.3)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Identify and know the meaning of the most common prefixes and derivational suffixes.(CCSS: RF.3.3a)",
-                                "subcurriculum_item2": "Decode words with common Latin suffixes. (CCSS: RF.3.3b)",
-                                "subcurriculum_item3": "Decode multisyllable words. (CCSS: RF.3.3c)",
-                                "subcurriculum_item4": "Read grade-appropriate irregularly spelled words. (CCSS:RF.3.3d)"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "b. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.3.4)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Read grade-level text with purpose and understanding. (CCSS.3.4a)",
-                                "subcurriculum_item2": "Read grade-level prose and poetry orally with accuracy, appropriate rate, and expression. (CCSS.3.4b)",
-                                "subcurriculum_item3": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS.3.4c)"
-                            }
-                        },
-                        "curriculum_item3": {
-                            "content": "c. Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies. (CCSS: L.3.4)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use sentence-level context as a clue to the meaning of a word or phrase. (CCSS: L.3.4a)",
-                                "subcurriculum_item2": "Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat). (CCSS: L.3.4b)",
-                                "subcurriculum_item3": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., company, companion). (CCSS: L.3.4c)",
-                                "subcurriculum_item4": "Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases. (CCSS: L.3.4d)"
-                            }
-                        },
-                        "curriculum_item4": {
-                            "content": "d. Demonstrate understanding of figurative language, word relationships and nuances in word meanings. (CCSS: L.3.5)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps). (CCSS: L.3.5a)",
-                                "subcurriculum_item2": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful). (CCSS:L.3.5b)",
-                                "subcurriculum_item3": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered). (CCSS: L.3.5c)"
-                            }
-                        },
-                        "curriculum_item5": {
-                            "content": "e. Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them). (CCSS: L.3.6)"
+                            "content": "c. Use a variety of media to collect and analyze data regarding how organisms develop (DOK 1-2)"    
                         }
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science": {
                 "Subtopic1": {
-                    "content": "A. A writing process is used to plan, draft, and write a variety of literary genres:",
-                    "curriculum_items": {
+                    "content": "Earth’s materials can be broken down and/or combined into different materials such as rocks, minerals, rock cycle, formation of soil, and sand – some of which are usable resources for human activity:","curriculum_items": {
                         "curriculum_item1": {
-                            "content": "a. Write opinion pieces on topics or texts, supporting a point of view with reasons. (CCSS: W.3.1)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons. (CCSS: W.3.1a)",
-                                "subcurriculum_item2": "Provide reasons that support the opinion. (CCSS: W.3.1b)",
-                                "subcurriculum_item3": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons. (CCSS: W.3.1c)",
-                                "subcurriculum_item4": "Provide a concluding statement or section. (CCSS:W.3.1d)"
-                            }
+                            "content": "a. Investigate and identify two or more ways that Earth’s materials can be broken down and/or combined in different ways such as minerals into rocks, rock cycle, formation of soil, and sand (DOK 1-2)"
                         },
                         "curriculum_item2": {
-                            "content": "b. Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences. (CCSS: W.3.3)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Establish a situation and introduce a narrator and/or characters; organize an event sequence that unfolds naturally. (CCSS: W.3.3a)",
-                                "subcurriculum_item2": "Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the response of characters to situations. (CCSS: W.3.3b)",
-                                "subcurriculum_item3": "Use temporal words and phrases to signal event order. (CCSS: W.3c)",
-                                "subcurriculum_item4": "Provide a sense of closure. (CCSS: W.3.3d)"
-                            }
-                        }
-                    }
-                },
-                "Subtopic2": {
-                    "content": "B. A writing process is used to plan, draft, and write a variety of informational texts:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Write informative/explanatory texts to examine a topic and convey ideas and information clearly. (CCSS: W.3.2)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension. (CCSS: W.3.2a)",
-                                "subcurriculum_item2": "Develop the topic with facts, definitions, and details. (CCSS: W.3.2b)",
-                                "subcurriculum_item3": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information. (CCSS: W.3c)",
-                                "subcurriculum_item4": "Provide a concluding statement or section. (CCSS:W.3.2d)"
-                            }
-                        }
-                    }
-                },
-                "Subtopic3": {
-                    "content": "C. Correct grammar, capitalization, punctuation, and spelling are used when writing:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose. (CCSS: W.3.4)"
-                        },
-                        "curriculum_item2": {
-                            "content": "b. With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing. (CCSS: W.3.5)"
-                        },
-                        "curriculum_item3": {
-                            "content": "c. With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others. (CCSS: W.3.6)"
-                        },
-                        "curriculum_item4": {
-                            "content": "d. Use knowledge of language and its conventions when writing, speaking, reading, or listening. (CCSS: L.3.3)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Choose words and phrases for effect. (CCSS: L.3.3a)",
-                                "subcurriculum_item2": "Recognize and observe differences between the conventions of spoken and written standard English. (CCSS: L.3.3b)"
-                            }
-                        },
-                        "curriculum_item5": {
-                            "content": "e. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.3.1)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences. (CCSS: L.3.1a)",
-                                "subcurriculum_item2": "Form and use regular and irregular plural nouns. (CCSS: L.3.1b)",
-                                "subcurriculum_item3": "Use abstract nouns (e.g., childhood). (CCSS: L.3.1c)",
-                                "subcurriculum_item4": "Form and use regular and irregular verbs. (CCSS: L.3.1d)"
-                            }
-                        },
-                        "curriculum_item6": {
-                            "content": "v. Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses. (CCSS: L.3.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Ensure subject-verb and pronoun-antecedent agreement. (CCSS: L.3.1f)",
-                                "subcurriculum_item2": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified. (CCSS: L.3.1g)",
-                                "subcurriculum_item3": "Use coordinating and subordinating conjunctions. (CCSS: L.3.1h)",
-                                "subcurriculum_item4": "Produce simple, compound, and complex sentences. (CCSS: L.3.1i)"
-                            }
-                        },
-                        "curriculum_item7": {
-                            "content": "f. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.3.2)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Capitalize appropriate words in titles. (CCSS: L.3.2a)",
-                                "subcurriculum_item2": "Use commas in addresses. (CCSS: L.3.2b)",
-                                "subcurriculum_item3": "Use commas and quotation marks in dialogue. (CCSS: L.3.2c)",
-                                "subcurriculum_item4": "Form and use possessives. (CCSS: L.3.2d)"
-                            }
-                        },
-                        "curriculum_item8": {
-                            "content": "v. Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness). (CCSS: L.3.2e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words. (CCSS: L.3.2f)",
-                                "subcurriculum_item2": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings. (CCSS: L.3.2g)"
-                            }
-                        }
-                    }
-                }
-            },
-            "Topic4": {
-                "Subtopic1": {
-                    "content": "A. Researching a topic and sharing findings are often done with others: a. Conduct short research projects that build knowledge about a topic. (CCSS: W.3.7)",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "b. Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories. (CCSS: W.3.8)"
+                            "content": "b. Use evidence to develop a scientific explanation about one or more processes that break down and/or combine Earth materials (DOK 1-3)"
                         }
                     }
                 }
@@ -1994,7 +1721,7 @@
     },
     "fourthgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. The decimal number system to the hundredths place describes place value patterns and relationships that are repeated in large and small numbers and forms the foundation for efficient algorithms:",
                     "curriculum_items": {
@@ -2035,36 +1762,9 @@
                             }
                         }
                     }
-                }
-            },
-            "Topic2": {
-                "Subtopic1": {
-                    "content": "A. Number patterns and relationships can be represented by symbols:",
-                    "curriculum_items": {
-                        "curriculum_item1": {
-                            "content": "a. Generate and analyze patterns and identify apparent features of the pattern that were not explicit in the rule itself. (CCSS: 4.OA.5)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use number relationships to find the missing number in a sequence",
-                                "subcurriculum_item2": "Use a symbol to represent and find an unknown quantity in a problem situation",
-                                "subcurriculum_item3": "Complete input/output tables",
-                                "subcurriculum_item4": "Find the unknown in simple equations"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "b. Apply concepts of squares,primes,composites,factors, and multiples to solve problems",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Find all factor pairs for a whole number in the range 1\u2013100. (CCSS: 4.OA.4)",
-                                "subcurriculum_item2": "Recognize that a whole number is a multiple of each of its factors. (CCSS: 4.OA.4)",
-                                "subcurriculum_item3": "Determine whether a given whole number in the range 1\u2013100 is a multiple of a given one-digit number. (CCSS: 4.OA.4)",
-                                "subcurriculum_item4": "Determine whether a given whole number in the range 1\u2013100 is prime or composite. (CCSS: 4.OA.4)"
-                            }
-                        }
-                    }
-                }
-            },
-            "Topic3": {
-                "Subtopic1": {
-                    "content": "C. Formulate, represent, and use algorithms to compute with flexibility, accuracy, and efficiency:\nbased on place value, the properties of operations, and/or the relationship between multiplication and division. (CCSS:4.NBT.6)\n2. Patterns, Functions, and Algebraic Structures:",
+                },
+                "Subtopic3": {
+                    "content": "C. Formulate, represent, and use algorithms to compute with flexibility, accuracy, and efficiency:based on place value, the properties of operations, and/or the relationship between multiplication and division. (CCSS:4.NBT.6). Patterns, Functions, and Algebraic Structures:",
                     "curriculum_items": {
                         "curriculum_item1": {
                             "content": "a. Use place value understanding and properties of operations to perform multi-digit arithmetic. (CCSS: 4.NBT)",
@@ -2092,9 +1792,11 @@
                             }
                         }
                     }
-                },
-                "Subtopic2": {
-                    "content": "A. Number patterns and relationships can be represented by symbols:\n3. Data Analysis, Statistics, and Probability:",
+                }
+            },
+            "Patterns, Functions, and Algebraic Structures:": {
+                "Subtopic1": {
+                    "content": "A. Number patterns and relationships can be represented by symbols:",
                     "curriculum_items": {
                         "curriculum_item1": {
                             "content": "a. Generate and analyze patterns and identify apparent features of the pattern that were not explicit in the rule itself. (CCSS: 4.OA.5)",
@@ -2115,10 +1817,12 @@
                             }
                         }
                     }
-                },
-                "Subtopic3": {
-                    "content": "A. Visual displays are used to represent data:",
-                    "curriculum_items": {
+                }
+            },
+            "Data Analysis, Statistics, and Probability:": {
+                "Subtopic1": {
+                    "content": "A. Visual dsiplays are used to represent data:",
+                    "curriculum_items":{
                         "curriculum_item1": {
                             "content": "a. Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). (CCSS: 4.MD.4)"
                         },
@@ -2126,9 +1830,9 @@
                             "content": "b. Solve problems involving addition and subtraction of fractions by using information presented in line plots. (CCSS: 4.MD.4)"
                         }
                     }
-                }
+                } 
             },
-            "Topic4": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Appropriate measurement tools, units, and systems are used to measure different attributes of objects and time:",
                     "curriculum_items": {
@@ -2138,13 +1842,11 @@
                                 "subcurriculum_item1": "Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. (CCSS: 4.MD.1)",
                                 "subcurriculum_item2": "Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two-column table. (CCSS: 4.MD.1)",
                                 "subcurriculum_item3": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit. (CCSS: 4.MD.2)",
-                                "subcurriculum_item4": "Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale. (CCSS: 4.MD.2)"
+                                "subcurriculum_item4": "Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale. (CCSS: 4.MD.2)",
+                                "subcurriculum_item5": "Apply the area and perimeter formulas for rectangles in real world and mathematical problems. (CCSS: 4.MD.3)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Apply the area and perimeter formulas for rectangles in real world and mathematical problems. (CCSS: 4.MD.3)"
-                        },
-                        "curriculum_item3": {
                             "content": "b. Use concepts of angle and measure angles.(CCSS:4.MD)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Describe angles as geometric shapes that are formed wherever two rays share a common endpoint, and explain concepts of angle measurement. (CCSS: 4.MD.5)",
@@ -2168,14 +1870,14 @@
                             "content": "c. Classify and identify two-dimensional figures according to  attributes of line relationships or angle size. (CCSS: 4.G.2)"
                         },
                         "curriculum_item4": {
-                            "content": "d. Identify a line of symmetry for a two-dimensional figure.7 (CCSS:4.G.3)"
+                            "content": "d. Identify a line of symmetry for a two-dimensional figure.(CCSS:4.G.3)"
                         }
                     }
                 }
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. A clear communication plan is necessary to effectively deliver and receive information:",
                     "curriculum_items": {
@@ -2206,7 +1908,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. Comprehension and fluency matter when reading literary texts in a fluent way:",
                     "curriculum_items": {
@@ -2315,7 +2017,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. The recursive writing process is used to create a variety of literary genres for an intended audience:",
                     "curriculum_items": {
@@ -2334,11 +2036,9 @@
                                 "subcurriculum_item1": "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally. (CCSS: W.4.3a)",
                                 "subcurriculum_item2": "Use dialogue and description to develop experiences and events or show the responses of characters to situations. (CCSS: W.4.3b)",
                                 "subcurriculum_item3": "Use a variety of transitional words and phrases to manage the sequence of events. (CCSS: W.4.3c)",
-                                "subcurriculum_item4": "Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS: W.4.3d)"
+                                "subcurriculum_item4": "Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS: W.4.3d)",
+                                "subcurriculum_item5": "Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.4.3e)"
                             }
-                        },
-                        "curriculum_item3": {
-                            "content": "v. Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.4.3e)"
                         }
                     }
                 },
@@ -2351,11 +2051,9 @@
                                 "subcurriculum_item1": "Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension. (CCSS: W.4.2a)",
                                 "subcurriculum_item2": "Develop the topic with facts,definitions,concrete details, quotations, or other information and examples related to the topic. (CCSS: W.4.2b)",
                                 "subcurriculum_item3": "Link ideas within categories of information using words and phrases (e.g., another, for example, also, because). (CCSS:W.4.2c)",
-                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.4.2d)"
+                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.4.2d)",
+                                "subcurriculum_item4": "Provide A Concluding Statement Or Section Related To The information or explanation presented. (CCSS:W.4.2e)"
                             }
-                        },
-                        "curriculum_item2": {
-                            "content": "v. Provide A Concluding Statement Or Section Related To The information or explanation presented. (CCSS:W.4.2e)"
                         }
                     }
                 },
@@ -2382,17 +2080,13 @@
                                 "subcurriculum_item1": "Use relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when,why). (CCSS: L.4.1a)",
                                 "subcurriculum_item2": "Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses. (CCSS: L.4.1b)",
                                 "subcurriculum_item3": "Use modal auxiliaries (e.g., can, may, must) to convey various conditions. (CCSS: L.4.1c)",
-                                "subcurriculum_item4": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag). (CCSS: L.4.1d)"
+                                "subcurriculum_item4": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag). (CCSS: L.4.1d)",
+                                "subcurriculum_item5":"Form and use prepositional phrases. (CCSS: L.4.1e)",
+                                "subcurriculum_item6":"Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons. (CCSS: L.4.1f)",
+                                "subcurriculum_item7":"Correctly use frequently confused words (e.g., to, too, two; there, their). (CCSS: L.4.1g)"
                             }
                         },
                         "curriculum_item5": {
-                            "content": "v. Form and use prepositional phrases. (CCSS: L.4.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons. (CCSS: L.4.1f)",
-                                "subcurriculum_item2": "Correctly use frequently confused words (e.g., to, too, two; there, their). (CCSS: L.4.1g)"
-                            }
-                        },
-                        "curriculum_item6": {
                             "content": "f. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.4.2)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Use correct capitalization. (CCSS: L.4.2a)",
@@ -2404,7 +2098,7 @@
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning:": {
                 "Subtopic1": {
                     "content": "A. Comprehending new information for research is a process undertaken with discipline both alone and within groups:",
                     "curriculum_items": {
@@ -2426,7 +2120,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Physcial Science": {
                 "Subtopic1": {
                     "content": "A. Energy comes in many forms such as light, heat, sound, magnetic, chemical, and electrical",
                     "curriculum_items": {
@@ -2445,7 +2139,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. All living things share similar characteristics, but they also have differences that can be described and classified",
                     "curriculum_items": {
@@ -2499,7 +2193,10 @@
                             "content": "d. Create and evaluate models of the flow of nonliving components or resources through an ecosystem (DOK 2-3)"
                         },
                         "curriculum_item5": {
-                            "content": "e. Make a plan to positively impact a local ecosystem (DOK 2-4) f. Examine, evaluate, question, and ethically use information from a variety of sources and media to investigate endangered habitats (DOK 1-2)"
+                            "content": "e. Make a plan to positively impact a local ecosystem (DOK 2-4)"
+                        },
+                        "curriculum_item6":{
+                            "content":"f. Examine, evaluate, question, and ethically use information from a variety of sources and media to investigate endangered habitats (DOK 1-2)"
                         }
                     }
                 }
@@ -2527,7 +2224,7 @@
     },
     "fifthgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. The decimal number system describes place value patterns and relationships that are repeated in large and small numbers and forms the foundation for efficient algorithms:",
                     "curriculum_items": {
@@ -2637,7 +2334,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Patterns, Functions, and Algebraic Structures:": {
                 "Subtopic1": {
                     "content": "A. Number patterns are based on operations and relationships:",
                     "curriculum_items": {
@@ -2656,7 +2353,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Data Analysis, Statistics, and Probability:": {
                 "Subtopic1": {
                     "content": "A. Visual displays are used to interpret data:",
                     "curriculum_items": {
@@ -2670,7 +2367,7 @@
                     }
                 }
             },
-            "Topic4": {
+            "Shape, Dimension,and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Properties of multiplication and addition provide the foundation for volume an attribute of solids:",
                     "curriculum_items": {
@@ -2713,7 +2410,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Effective communication requires speakers to express an opinion, provide information, describe a process, and persuade an audience:",
                     "curriculum_items": {
@@ -2759,7 +2456,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes": {
                 "Subtopic1": {
                     "content": "A. Literary texts are understood and interpreted using a range of strategies:",
                     "curriculum_items": {
@@ -2780,16 +2477,12 @@
                                 "subcurriculum_item1": "Determine the meaning of words and phrases as they are used in a text, including figurative language such as metaphors and similes. (CCSS: RL.5.4)",
                                 "subcurriculum_item2": "Use the relationship between particular words (e.g., synonyms, antonyms, homographs) to better understand each of the words. (CCSS: L.5.5c)",
                                 "subcurriculum_item3": "Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem. (CCSS: RL.5.5)",
-                                "subcurriculum_item4": "Describe how a narrator\u2019s or speaker\u2019s point of view influences how events are described. (CCSS: RL.5.6)"
+                                "subcurriculum_item4": "Describe how a narrator\u2019s or speaker\u2019s point of view influences how events are described. (CCSS: RL.5.6)",
+                                "subcurriculum_item5": "Locate information to support opinions, predictions, inferences, and identification of the author\u2019s message or theme",
+                                "subcurriculum_item6": "Compare and contrast the varieties of English (e.g. dialects, registers) used in stories, dramas, or poems. (CCSS: L.5.3b)"
                             }
                         },
                         "curriculum_item4": {
-                            "content": "v. Locate information to support opinions, predictions, inferences, and identification of the author\u2019s message or theme",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Compare and contrast the varieties of English (e.g. dialects, registers) used in stories, dramas, or poems. (CCSS: L.5.3b)"
-                            }
-                        },
-                        "curriculum_item5": {
                             "content": "d. Use Integration of Knowledge and Ideas to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale, myth, poem). (CCSS: RL.5.7)",
@@ -2866,17 +2559,20 @@
                             "content": "e. Infer meaning of words using structural analysis, context, and knowledge of multiple meanings"
                         },
                         "curriculum_item6": {
-                            "content": "f. Read and identify the meaning of roots and related word families in which the pronunciation of the root does not change g. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.5.4)",
+                            "content": "f. Read and identify the meaning of roots and related word families in which the pronunciation of the root does not change"
+                        }, 
+                        "curriculum_item7": {
+                            "content": "g. Read with sufficient accuracy and fluency to support comprehension. (CCSS: RF.5.4)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Read grade-level text with purpose and understanding.",
                                 "subcurriculum_item2": "Read grade-level prose and poetry orally with accuracy,",
                                 "subcurriculum_item3": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary. (CCSS: RF.5.4c)"
-                            }
+                            }   
                         }
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition": {
                 "Subtopic1": {
                     "content": "A. The recursive writing process contributes to the creative and unique literary genres for a variety of audiences and purposes:",
                     "curriculum_items": {
@@ -2886,25 +2582,29 @@
                                 "subcurriculum_item1": "Create personal and fictional narratives with a strong personal voice",
                                 "subcurriculum_item2": "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally. (CCSS: W.5.3a)",
                                 "subcurriculum_item3": "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show the responses of characters to situations. (CCSS: W.5.3b)",
-                                "subcurriculum_item4": "Use a variety of transitional words, phrases, and clauses to manage the sequence of events. (CCSS: W.5.3c)"
+                                "subcurriculum_item4": "Use a variety of transitional words, phrases, and clauses to manage the sequence of events. (CCSS: W.5.3c)",
+                                "subcurriculum_item5":"Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS: W.5.3d)",
+                                "subcurriculum_item6": "Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.5.3e)"
                             }
                         },
+                        
                         "curriculum_item2": {
-                            "content": "v. Use concrete words and phrases and sensory details to convey experiences and events precisely. (CCSS: W.5.3d)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.5.3e)"
-                            }
-                        },
-                        "curriculum_item3": {
                             "content": "b. Write poems using poetic techniques (alliteration, onomatopoeia); figurative language (simile, metaphor); and graphic elements (capital letters, line length)"
                         }
                     }
                 },
                 "Subtopic2": {
-                    "content": "B. The recursive writing process creates stronger informational and persuasive texts for a variety of audiences and purposes: a. Write opinion pieces on topics or texts, supporting a point of view with reasons and information. (CCSS: W.5.1)",
+                    "content": "B. The recursive writing process creates stronger informational and persuasive texts for a variety of audiences and purposes:",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "v. Provide a concluding statement or section related to the opinion presented. (CCSS: W.5.1d)"
+                            "content": "a. Write opinion pieces on topics or texts, supporting a point of view with reasons and information. (CCSS: W.5.1)",
+                            "subcurriculum_items": {
+                                "subcurriculum_item1":"Include cause and effect, opinions, and other opposing viewpoints in persuasive writing",
+                                "subcurriculum_item2":"Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are logically grouped to support the writer’s purpose. (CCSS:W.5.1a)",
+                                "subcurriculum_item3":"Provide logically ordered reasons that are supported by facts and details. (CCSS: W.5.1b)",
+                                "subcurriculum_item4":"Link opinion and reasons using words, phrases, and clauses (e.g., consequently, specifically). (CCSS: W.5.1c)",
+                                "subcurriculum_item5": "Provide a concluding statement or section related to the opinion presented. (CCSS: W.5.1d)"
+                            }
                         },
                         "curriculum_item2": {
                             "content": "b. Write informative/explanatory texts to examine a topic and convey ideas and information clearly. (CCSS: W.5.2)",
@@ -2912,11 +2612,9 @@
                                 "subcurriculum_item1": "Introduce a topic clearly, provide a general observation and focus, and group related information logically; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension. (CCSS: W.5.2a)",
                                 "subcurriculum_item2": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic. (CCSS: W.5.2b)",
                                 "subcurriculum_item3": "Link ideas within and across categories of information using words, phrases, and clauses (e.g., in contrast, especially). (CCSS: W.5.2c)",
-                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.5.2d)"
+                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.5.2d)",
+                                "subcurriculum_item5": "Provide a concluding statement or section related to the information or explanation presented. (CCSS: W.5.2e)"
                             }
-                        },
-                        "curriculum_item3": {
-                            "content": "v. Provide a concluding statement or section related to the information or explanation presented. (CCSS: W.5.2e)"
                         }
                     }
                 },
@@ -2929,37 +2627,34 @@
                                 "subcurriculum_item1": "Use punctuation to separate items in a series. (CCSS: L.5.2a)",
                                 "subcurriculum_item2": "Use a comma to separate an introductory element from the rest of the sentence. (CCSS: L.5.2b)",
                                 "subcurriculum_item3": "Use a comma to set off the words yes and no (e.g., Yes, thank you), to set off a tag question from the rest of the sentence (e.g., It\u2019s true, isn\u2019t it?), and to indicate direct address (e.g., Is that you, Steve?). (CCSS: L.5.2c)",
-                                "subcurriculum_item4": "Use underlining, quotation marks, or italics to indicate titles of works. (CCSS: L.5.2d)"
+                                "subcurriculum_item4": "Use underlining, quotation marks, or italics to indicate titles of works. (CCSS: L.5.2d)",
+                                "subcurriculum_item5": "Spell grade-appropriate words correctly, consulting references as needed. (CCSS: L.5.2e)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Spell grade-appropriate words correctly, consulting references as needed. (CCSS: L.5.2e)"
-                        },
-                        "curriculum_item3": {
                             "content": "b. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking. (CCSS: L.5.1)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Explain the function of conjunctions, prepositions, and interjections in general and their function in particular sentences. (CCSS: L.5.1a)",
                                 "subcurriculum_item2": "Form and use the perfect (e.g., I had walked; I have walked; I will have walked) verb tenses. (CCSS: L.5.1b)",
                                 "subcurriculum_item3": "Use verb tense to convey various times, sequences, states, and conditions. (CCSS: L.5.1c)",
-                                "subcurriculum_item4": "Recognize and correct inappropriate shifts in verb tense. (CCSS: L.5.1d)"
+                                "subcurriculum_item4": "Recognize and correct inappropriate shifts in verb tense. (CCSS: L.5.1d)",
+                                "subcurriculum_item5": "Use correlative conjunctions (e.g., either/or, neither/nor). (CCSS: L.5.1e)"
                             }
                         },
-                        "curriculum_item4": {
-                            "content": "v. Use correlative conjunctions (e.g., either/or, neither/nor). (CCSS: L.5.1e)"
-                        },
-                        "curriculum_item5": {
+                       
+                        "curriculum_item3": {
                             "content": "c. Expand, combine, and reduce sentences for meaning, reader/listener interest, and style. (CCSS: L.5.1f)Produce clear and coherent writing in which the development and organization are appropriate to task, purpose, and audience. (CCSS: W.5.4)"
                         },
-                        "curriculum_item6": {
+                        "curriculum_item4": {
                             "content": "d. With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach. (CCSS: W.5.5)"
                         },
-                        "curriculum_item7": {
+                        "curriculum_item5": {
                             "content": "e. With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of two pages in a single sitting. (CCSS: W.5.6)"
                         }
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning": {
                 "Subtopic1": {
                     "content": "A. High-quality research requires information that is organized and presented with documentation:",
                     "curriculum_items": {
@@ -2989,15 +2684,10 @@
                                 "subcurriculum_item1": "Accurately explain the implications of concepts they use",
                                 "subcurriculum_item2": "Identify irrelevant ideas and use concepts and ideas in ways relevant to their purpose",
                                 "subcurriculum_item3": "Analyze concepts and draw distinctions between related but different concepts",
-                                "subcurriculum_item4": "Demonstrate use of language that is careful and precise while holding others to the same standards"
-                            }
-                        },
-                        "curriculum_item2": {
-                            "content": "v. Distinguish clearly and precisely the difference between an implication and consequence",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Distinguish probable from improbable implications and consequences",
-                                "subcurriculum_item2": "Apply grade 5 Reading standards to literature (e.g., \u201cCompare and contrast two or more characters, settings,  or events in a story or a drama, drawing on specific details in the text [e.g., how characters interact]\u201d).  (CCSS: W.5.9a)",
-                                "subcurriculum_item3": "Apply grade 5 Reading standards to informational texts  (e.g., \u201cExplain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point[s]\u201d). (CCSS: W.5.9b)"
+                                "subcurriculum_item4": "Demonstrate use of language that is careful and precise while holding others to the same standards",
+                                "subcurriculum_item5":"Distinguish clearly and precisely the difference between an implication and consequence",
+                                "subcurriculum_item6":"Apply grade 5 Reading standards to literature (e.g., \u201cCompare and contrast two or more characters, settings,  or events in a story or a drama, drawing on specific details in the text [e.g., how characters interact]\u201d).  (CCSS: W.5.9a)",
+                                "subcurriculum_item7": "Apply grade 5 Reading standards to informational texts  (e.g., \u201cExplain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point[s]\u201d). (CCSS: W.5.9b)"
                             }
                         }
                     }
@@ -3022,7 +2712,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Pysical Science:": {
                 "Subtopic1": {
                     "content": "A. Mixtures of matter can be separated regardless of how they were created; all weight and mass of the mixture are the same as the sum of weight and mass of its parts:\nand after it is separated into parts (DOK 1-3)",
                     "curriculum_items": {
@@ -3035,7 +2725,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. All organisms have structures and systems with separate functions:",
                     "curriculum_items": {
@@ -3071,7 +2761,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science:": {
                 "Subtopic1": {
                     "content": "A. Earth and sun provide a diversity of renewable and nonrenewable resources:",
                     "curriculum_items": {
@@ -3116,7 +2806,7 @@
     },
     "sixthgrade": {
         "math": {
-            "Topic1": {
+            "Number Sense, Properties, and Operations:": {
                 "Subtopic1": {
                     "content": "A. Quantities can be expressed and compared using ratios and rates:",
                     "curriculum_items": {
@@ -3129,15 +2819,11 @@
                                 "subcurriculum_item1": "Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. (CCSS: 6.RP.3a)",
                                 "subcurriculum_item2": "Use tables to compare ratios. (CCSS: 6.RP.3a)",
                                 "subcurriculum_item3": "Solve unit rate problems including those involving unit pricing and constant speed. (CCSS: 6.RP.3b)",
-                                "subcurriculum_item4": "Find a percent of a quantity as a rate per 100. (CCSS:6.RP.3c)"
-                            }
-                        },
-                        "curriculum_item3": {
-                            "content": "v. Solve problems involving finding the whole, given a part  and the percent. (CCSS: 6.RP.3c)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Use common fractions and percents to calculate parts of whole numbers in problem situations including comparisons of savings rates at different financial institutions (PFL)",
-                                "subcurriculum_item2": "Express the comparison of two whole number quantities using differences, part-to-part ratios, and part-to-whole ratios in real contexts, including investing and saving (PFL)",
-                                "subcurriculum_item3": "Use ratio reasoning to convert measurement units. (CCSS:6.RP.3d)"
+                                "subcurriculum_item4": "Find a percent of a quantity as a rate per 100. (CCSS:6.RP.3c)",
+                                "subcurriculum_item5":"Solve problems involving finding the whole, given a part  and the percent. (CCSS: 6.RP.3c)",
+                                "subcurriculum_item6":"Use common fractions and percents to calculate parts of whole numbers in problem situations including comparisons of savings rates at different financial institutions (PFL)",
+                                "subcurriculum_item7":"Express the comparison of two whole number quantities using differences, part-to-part ratios, and part-to-whole ratios in real contexts, including investing and saving (PFL)",
+                                "subcurriculum_item8":"Use ratio reasoning to convert measurement units. (CCSS:6.RP.3d)"
                             }
                         }
                     }
@@ -3186,16 +2872,13 @@
                                 "subcurriculum_item1": "Describe a rational number as a point on the number line. (CCSS: 6.NS.6)",
                                 "subcurriculum_item2": "Use opposite signs of numbers to indicate locations on opposite sides of 0 on the number line. (CCSS: 6.NS.6a)",
                                 "subcurriculum_item3": "Identify that the opposite of the opposite of a number is the number itself. (CCSS: 6.NS.6a)",
-                                "subcurriculum_item4": "Explain when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes. (CCSS: 6.NS.6b)"
+                                "subcurriculum_item4": "Explain when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes. (CCSS: 6.NS.6b)",
+                                "subcurriculum_item5": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram. (CCSS: 6.NS.6c)" ,
+                                "subcurriculum_item6": "Find and position pairs of integers and other rational numbers on a coordinate plane. (CCSS: 6.NS.6c)"
                             }
                         },
+                        
                         "curriculum_item3": {
-                            "content": "v. Find and position integers and other rational numbers on a horizontal or vertical number line diagram. (CCSS: 6.NS.6c)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Find and position pairs of integers and other rational numbers on a coordinate plane. (CCSS: 6.NS.6c)"
-                            }
-                        },
-                        "curriculum_item4": {
                             "content": "c. Order and find absolute value of rational numbers. (CCSS: 6.NS.7) i. Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram. (CCSS: 6.NS.7a)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Write, interpret, and explain statements of order for rational numbers in real- world contexts. (CCSS: 6.NS.7b)",
@@ -3203,13 +2886,13 @@
                                 "subcurriculum_item3": "Distinguish comparisons of absolute value from statements about order. (CCSS: 6.NS.7d)"
                             }
                         },
-                        "curriculum_item5": {
+                        "curriculum_item4": {
                             "content": "d. Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane including the use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate. (CCSS: 6.NS.8)"
                         }
                     }
                 }
             },
-            "Topic2": {
+            "Patterns, Functions, and Algebraic Structures:": {
                 "Subtopic1": {
                     "content": "A. Algebraic expressions can be used to generalize properties of arithmetic:",
                     "curriculum_items": {
@@ -3268,7 +2951,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Data Analysis, Statistics, and Probability:": {
                 "Subtopic1": {
                     "content": "A. Visual displays and summary statistics of one-variable data condense the information in data sets into usable knowledge:",
                     "curriculum_items": {
@@ -3295,7 +2978,7 @@
                     }
                 }
             },
-            "Topic4": {
+            "Shape, Dimension, and Geometric Relationships:": {
                 "Subtopic1": {
                     "content": "A. Objects in space and their parts and attributes can be measured and analyzed:",
                     "curriculum_items": {
@@ -3334,7 +3017,7 @@
             }
         },
         "literacy": {
-            "Topic1": {
+            "Oral Expression and Listening:": {
                 "Subtopic1": {
                     "content": "A. Successful group discussions require planning and participation by all:",
                     "curriculum_items": {
@@ -3365,7 +3048,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Reading for All Purposes:": {
                 "Subtopic1": {
                     "content": "A. Understanding the meaning within different types of literature depends on properly analyzing literary components:",
                     "curriculum_items": {
@@ -3401,9 +3084,17 @@
                     }
                 },
                 "Subtopic2": {
-                    "content": "B. Organizing structure to understand and analyze factual information: a. Use Key Ideas and Details to:",
+                    "content": "B. Organizing structure to understand and analyze factual information:",
                     "curriculum_items": {
-                        "curriculum_item1": {
+                        "curriculum_item1":{
+                            "content": "a. Use Key Ideas and Details to:",
+                            "subcurriculum_items":{
+                                "subcurriculum_item1": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. (CCSS: RI.6.1)",
+                                "subcurriculum_item2": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments. (CCSS: RI.6.2)",
+                                "subcurriculum_item3": "Analyze in detail how a key individual, event, or idea is introduced, illustrated, and elaborated in a text (e.g., through examples or anecdotes). (CCSS: RI.6.3)"
+                            }
+                        },
+                        "curriculum_item2": {
                             "content": "b. Use Craft and Structure to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings. (CCSS: RI.6.4)",
@@ -3411,7 +3102,7 @@
                                 "subcurriculum_item3": "Determine an author\u2019s point of view or purpose in a text and explain how it is conveyed in the text. (CCSS: RI.6.6)"
                             }
                         },
-                        "curriculum_item2": {
+                        "curriculum_item3": {
                             "content": "c. Use Integration of Knowledge and Ideas to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Integrate information presented in different media or formats (e.g., visually,quantitatively) as well as in words to develop a coherent understanding of a topic or issue. (CCSS: RI.6.7)",
@@ -3419,7 +3110,7 @@
                                 "subcurriculum_item3": "Compare and contrast one author\u2019s presentation of events with that of another (e.g., a memoir written by and a biography on the same person). (CCSS: RI.6.9)"
                             }
                         },
-                        "curriculum_item3": {
+                        "curriculum_item4": {
                             "content": "d. Use Range of Reading and Complexity of Text to:",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "By the end of the year, read and comprehend literary  nonfiction in the grades 6\u20138 text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RI.6.10)"
@@ -3436,16 +3127,13 @@
                                 "subcurriculum_item1": "Use context (e.g., the overall meaning of a sentence or paragraph; a word\u2019s position or function in a sentence) as a clue to the meaning of a word or phrase. (CCSS: L.6.4a)",
                                 "subcurriculum_item2": "Make connections back to previous sentences and ideas to resolve problems in comprehension",
                                 "subcurriculum_item3": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g.,audience, auditory, audible). (CCSS: L.6.4b)",
-                                "subcurriculum_item4": "Employ synonyms or antonyms gleaned from a passage to provide an approximate meaning of a word"
+                                "subcurriculum_item4": "Employ synonyms or antonyms gleaned from a passage to provide an approximate meaning of a word",
+                                "subcurriculum_item5": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech. (CCSS: L.6.4c)",
+                                "subcurriculum_item6": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary). (CCSS: L.6.4d)"
                             }
                         },
+                        
                         "curriculum_item2": {
-                            "content": "v. Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech. (CCSS: L.6.4c)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary). (CCSS: L.6.4d)"
-                            }
-                        },
-                        "curriculum_item3": {
                             "content": "b. Demonstrate understanding of figurative language, word relationships, and nuances in word meanings. (CCSS: L.6.5)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Interpret figures of speech (e.g., personification) in context. (CCSS: L.6.5a)",
@@ -3453,13 +3141,13 @@
                                 "subcurriculum_item3": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., stingy, scrimping, economical, unwasteful, thrifty). (CCSS: L.6.5c)"
                             }
                         },
-                        "curriculum_item4": {
+                        "curriculum_item3": {
                             "content": "c. Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression. (CCSS: L.6.6)"
                         }
                     }
                 }
             },
-            "Topic3": {
+            "Writing and Composition:": {
                 "Subtopic1": {
                     "content": "A. Writing literary genres for intended audiences and purposes requires ideas, organization, and voice:",
                     "curriculum_items": {
@@ -3469,25 +3157,23 @@
                                 "subcurriculum_item1": "Engage and orient the reader by establishing a context and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically. (CCSS: W.6.3a)",
                                 "subcurriculum_item2": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters. (CCSS: W.6.3b)",
                                 "subcurriculum_item3": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another. (CCSS: W.6.3c)",
-                                "subcurriculum_item4": "Use precise words and phrases, relevant descriptive details, and sensory language to convey experiences and events. (CCSS: W.6.3d)"
+                                "subcurriculum_item4": "Use precise words and phrases, relevant descriptive details, and sensory language to convey experiences and events. (CCSS: W.6.3d)",
+                                "subcurriculum_item5": "Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.6.3e)"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Provide a conclusion that follows from the narrated experiences or events. (CCSS: W.6.3e)"
-                        },
-                        "curriculum_item3": {
                             "content": "b. Employ a range of planning strategies to generate descriptive and sensory details (webbing, free writing, graphic organizers)"
                         },
-                        "curriculum_item4": {
+                        "curriculum_item3": {
                             "content": "c. Use a range of poetic techniques (alliteration, onomatopoeia, rhyme scheme); figurative language (simile, metaphor, personification); and graphic elements (capital letters, line length, word position) to express personal or narrative voice in texts"
                         },
-                        "curriculum_item5": {
+                        "curriculum_item4": {
                             "content": "d. Organize literary and narrative texts using conventional organizational patterns of the chosen genre"
                         },
-                        "curriculum_item6": {
+                        "curriculum_item5": {
                             "content": "e. Use literary elements of a text (well-developed characters, setting, dialogue, conflict) to present ideas in a text"
                         },
-                        "curriculum_item7": {
+                        "curriculum_item6": {
                             "content": "f. Use word choice, sentence structure, and sentence length to create voice and tone in writing"
                         }
                     }
@@ -3496,7 +3182,14 @@
                     "content": "B. Writing informational and persuasive genres for intended audiences and purposes require ideas, organization, and voice develop: a. Write arguments to support claims with clear reasons and relevant evidence. (CCSS: W.6.1)",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "v. Provide a concluding statement or section that follows from the argument presented. (CCSS: W.6.1e)"
+                            "content": "a. Write arguments to support claims with clear reasons and relevant evidence. (CCSS: W.6.1)",
+                            "subcurriculum_items": {
+                                "subcurriculum_item1": "Introduce claim(s) and organize the reasons and evidence clearly. (CCSS: W.6.1a)",
+                                "subcurriculum_item2": "Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text. (CCSS: W.6.1b)",
+                                "subcurriculum_item3": "Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons. (CCSS: W.6.1c)",
+                                "subcurriculum_item4": "Establish and maintain a formal style. (CCSS: W.6.1d)",
+                                "subcurriculum_item5": "Provide a concluding statement or section that follows from the argument presented. (CCSS: W.6.1e)"
+                            }
                         },
                         "curriculum_item2": {
                             "content": "b. Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. (CCSS: W.6.2)",
@@ -3504,32 +3197,28 @@
                                 "subcurriculum_item1": "Introduce a topic; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension. (CCSS:W.6.2a)",
                                 "subcurriculum_item2": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples. (CCSS:W.6.2b)",
                                 "subcurriculum_item3": "Use appropriate transitions to clarify the relationships among ideas and concepts. (CCSS: W.6.2c)",
-                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.6.2d)"
+                                "subcurriculum_item4": "Use precise language and domain-specific vocabulary to inform about or explain the topic. (CCSS: W.6.2d)",
+                                "subcurriculum_item5": "Establish and maintain a formal style. (CCSS: W.6.2e)",
+                                "subcurriculum_item6": "Provide a concluding statement or section that follows from the information or explanation presented. (CCSS: W.6.2f)"
                             }
                         },
                         "curriculum_item3": {
-                            "content": "v. Establish and maintain a formal style. (CCSS: W.6.2e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Provide a concluding statement or section that follows from the information or explanation presented. (CCSS: W.6.2f)"
-                            }
-                        },
-                        "curriculum_item4": {
                             "content": "c. Write multi-paragraph compositions that have clear topic development, logical organization, effective use of detail, and variety in sentence structure"
                         },
-                        "curriculum_item5": {
+                        "curriculum_item4": {
                             "content": "d. Organize information into a coherent essay or report with a thesis statement in the introduction and transition sentences to link paragraphs"
                         },
-                        "curriculum_item6": {
+                        "curriculum_item5": {
                             "content": "e. Write to pursue a personal interest, to explain, or to persuade f. Write to analyze informational texts (explains the steps in a scientific investigation)"
                         },
-                        "curriculum_item7": {
+                        "curriculum_item6": {
                             "content": "g. Analyze and improve clarity of paragraphs and transitions"
                         },
+                        "curriculum_item7": {
+                            "content": "h. Select vocabulary and information to enhance the central idea"
+                        },
                         "curriculum_item8": {
-                            "content": "h. Select vocabulary and information to enhance the central idea",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Identify persuasive elements in a peer\u2019s writing and critique the effectiveness"
-                            }
+                            "content": "i. Identify persuasive elements in a peer\u2019s writing and critique the effectiveness"
                         }
                     }
                 },
@@ -3542,23 +3231,19 @@
                                 "subcurriculum_item1": "Ensure that pronouns are in the proper case (subjective, objective, possessive). (CCSS:L.6.1a)",
                                 "subcurriculum_item2": "Use intensive pronouns (e.g., myself, ourselves). (CCSS: L.6.1b)",
                                 "subcurriculum_item3": "Recognize and correct inappropriate shifts in pronoun number and person. (CCSS:L.6.1c)",
-                                "subcurriculum_item4": "Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents). (CCSS: L.6.1d)"
+                                "subcurriculum_item4": "Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents). (CCSS: L.6.1d)",
+                                "subcurriculum_item5": "Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language. (CCSS: L.6.1e)",
+                                "subcurriculum_item6": "Identify fragments and run-ons and revise sentences to eliminate them",
+                                "subcurriculum_item7": "Use coordinating conjunctions in compound sentences"
                             }
                         },
                         "curriculum_item2": {
-                            "content": "v. Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language. (CCSS: L.6.1e)",
-                            "subcurriculum_items": {
-                                "subcurriculum_item1": "Identify fragments and run-ons and revise sentences to eliminate them",
-                                "subcurriculum_item2": "Use coordinating conjunctions in compound sentences"
-                            }
-                        },
-                        "curriculum_item3": {
-                            "content": "b. viii.Maintain consistent verb tense within paragraph.",
+                            "content": "b. Maintain consistent verb tense within paragraph.",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Choose adverbs to describe verbs, adjectives, and other adverbs"
                             }
                         },
-                        "curriculum_item4": {
+                        "curriculum_item3": {
                             "content": "c. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing. (CCSS: L.6.2)",
                             "subcurriculum_items": {
                                 "subcurriculum_item1": "Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements. (CCSS: L.6.2a)",
@@ -3584,7 +3269,7 @@
                     }
                 }
             },
-            "Topic4": {
+            "Research and Reasoning:": {
                 "Subtopic1": {
                     "content": "A. Individual and group research projects require obtaining information on a topic from a variety of sources and organizing it for presentation:",
                     "curriculum_items": {
@@ -3616,7 +3301,7 @@
                     "content": "B. Assumptions can be concealed, and require identification and evaluation:",
                     "curriculum_items": {
                         "curriculum_item1": {
-                            "content": "a. Accurately identify own assumptions,as well as those of others"
+                            "content": "a. Accurately identify own assumptions, as well as those of others"
                         },
                         "curriculum_item2": {
                             "content": "b. Make assumptions that are consistent with one another"
@@ -3646,7 +3331,7 @@
             }
         },
         "science": {
-            "Topic1": {
+            "Physcial Science:": {
                 "Subtopic1": {
                     "content": "A. All matter is made of atoms, which are far too small to see directly through a light microscope. Elements have unique atoms and thus, unique properties. Atoms themselves are made of even smaller particles:",
                     "curriculum_items": {
@@ -3710,7 +3395,7 @@
                     }
                 }
             },
-            "Topic2": {
+            "Life Science:": {
                 "Subtopic1": {
                     "content": "A. Changes in environmental conditions can affect the survival of individual organisms, populations, and entire species:",
                     "curriculum_items": {
@@ -3743,7 +3428,7 @@
                     }
                 }
             },
-            "Topic3": {
+            "Earth Systems Science:": {
                 "Subtopic1": {
                     "content": "A. Complex interrelationships exist between Earth\u2019s structure and natural processes that over time are both constructive and destructive:",
                     "curriculum_items": {
@@ -3799,3 +3484,4 @@
         }
     }
 }
+
