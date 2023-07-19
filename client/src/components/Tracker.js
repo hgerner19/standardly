@@ -41,7 +41,7 @@ const Tracker = ({ userInfo }) => {
     <Grid
       container
       display="flex"
-      justifyContent="center"
+      justifyContent="left"
       alignItems="center"
       marginTop={12}
       style={{ minHeight: 'calc(100vh - 200px)', paddingBottom: '200px' }}
@@ -49,11 +49,11 @@ const Tracker = ({ userInfo }) => {
       <Typography
         color="#FFBD80"
         variant="h2"
-        alignItems={"left"}
+        alignItems="left"
         style={{ fontFamily: ["-apple-system", "BlinkMacSystemFont", "sans-serif"] }}
         gutterBottom
       >
-        Teaching Made Easier
+        Standard Tracker
       </Typography>
       {Object.keys(subjects).map((subjectName) => (
         <Accordion key={subjectName} >

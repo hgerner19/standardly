@@ -19,6 +19,7 @@ import {
 const MyPlans = ({ userInfo }) => {
   const [subjects, setSubjects] = useState([]);
   const [selectedItems, setSelectedItems] = useState([]);
+  const [description, setDescription] = useState([]);
   const [uploadedResources, setUploadedResources] = useState([]);
 
   useEffect(() => {
@@ -45,10 +46,11 @@ const MyPlans = ({ userInfo }) => {
   };
 
   const handleItemClick = (item) => {
-    const itemId = item.id; // Access the ID property of the item object
+    const itemId = item.id;
+    const itemDescription = item.description; // Access the ID property of the item object
     // Check if the item is already selected
     const isSelected = selectedItems.includes(itemId);
-  
+    const descr = description.includes(itemDescription);
     if (isSelected) {
       // Item is already selected, remove it from the selected items
       setSelectedItems((prevSelectedItems) => prevSelectedItems.filter((id) => id !== itemId));
@@ -56,6 +58,13 @@ const MyPlans = ({ userInfo }) => {
       // Item is not selected, add it to the selected items
       setSelectedItems((prevSelectedItems) => [...prevSelectedItems, itemId]);
     }
+    if(descr){
+      setDescription((prevDescription) => prevDescription.filter((description) => description !== itemDescription));
+    }else {
+      // Item is not selected, add it to the selected items
+      setDescription((prevDescription) => [...prevDescription, itemDescription]);
+    }
+    
   };
 
   const openCloudinaryWidget = () => {
@@ -76,26 +85,28 @@ const MyPlans = ({ userInfo }) => {
         (error, result) => {
           if (!error && result && result.event === 'success') {
             console.log('Done! Here is the image info:', result.info);
-            handleResourceUpload(result.info.url);
+            handleResourceUpload(result.info.url, result.info.original_filename);
           }
         }
       );
       widget.open();
   };
 
-  const handleResourceUpload = async (resourceUrl) => {
+  const handleResourceUpload = async (resourceUrl,resourceName) => {
     try {
       const formData = new FormData();
       formData.append('user_id', userInfo.id);
+      formData.append('title', resourceName);
       formData.append('resource_url', resourceUrl);
+      
       selectedItems.forEach((itemId) => {
         formData.append('curriculum_item_ids', itemId);
       });
   
       const response = await axios.post('/api/add_storage', formData);
   
-      console.log('Uploaded resource:', resourceUrl);
-      setUploadedResources((prevResources) => [...prevResources, resourceUrl]);
+      console.log('Uploaded resource:', resourceName);
+      setUploadedResources((prevResources) => [...prevResources, resourceName]);
     } catch (error) {
       console.error(error);
     }
@@ -117,7 +128,7 @@ const MyPlans = ({ userInfo }) => {
         style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'] }}
         gutterBottom
       >
-        My Plans
+        Upload Plans
       </Typography>
       <Grid >
         <form>
@@ -155,7 +166,7 @@ const MyPlans = ({ userInfo }) => {
                                           selectedItems.includes(curriculumItemId) ? 'contained' : 'outlined'
                                         }
                                         onClick={() => handleItemClick(item)}
-                                        style={{borderBlockColor:"#FFBD80"}}
+                                        style={{color: "black",backgroundColor:"#FFBD80"}}
                                       >
                                         {item.description}
                                       </Button>
@@ -172,6 +183,7 @@ const MyPlans = ({ userInfo }) => {
                                                       : 'outlined'
                                                   }
                                                   onClick={() => handleItemClick(subItem)}
+                                                  style={{color: "black",backgroundColor:"#FFBD80"}}
                                                 >
                                                   {subItem.description}
                                                 </Button>
@@ -193,10 +205,34 @@ const MyPlans = ({ userInfo }) => {
                 </AccordionDetails>
               </Accordion>
             ))}
-            <Button onClick={openCloudinaryWidget}>Upload Files</Button>
+            <Button style={{color: "#FFBD80"}}onClick={openCloudinaryWidget}>Upload Files</Button>
+            
           </FormControl>
         </form>
       </Grid>
+      <Grid>
+      <Typography
+        color="#FFBD80"
+        variant="h2"
+        align="left"
+        style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'] }}
+        gutterBottom
+      >
+        My Plans
+      </Typography>
+      
+      <List>
+
+              {uploadedResources.map((resourceName, index) => (
+                <ListItem key={index}>
+                  <Typography  style={{ fontFamily: ['-apple-system', 'BlinkMacSystemFont', 'sans-serif'] }}>
+                    {resourceName} - {description}
+                  </Typography>
+                  
+                </ListItem>
+              ))}
+            </List>
+            </Grid>
     </Grid>
   );
 };

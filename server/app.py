@@ -198,7 +198,9 @@ def upload_file():
 @app.route('/add_storage', methods=['POST'])
 def add_storage():
     user_id = request.form['user_id']
+    title = request.form['title']
     resource_url = request.form['resource_url']
+    
     curriculum_item_ids = request.form.getlist('curriculum_item_ids')  # Assuming you pass the selected curriculum item IDs as a list
     subcurriculum_item_ids = request.form.getlist('subcurriculum_item_ids')  # Assuming you pass the selected subcurriculum item IDs as a list
 
@@ -211,7 +213,7 @@ def add_storage():
             resource_url = youtube_embed_url
 
     # Create a new storage entry
-    storage = Storage(user_id=user_id, resource_url=resource_url)
+    storage = Storage(user_id=user_id, title=title, resource_url=resource_url)
     db.session.add(storage)
     db.session.commit()
 

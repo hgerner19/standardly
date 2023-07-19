@@ -2,10 +2,8 @@ from sqlalchemy_serializer import SerializerMixin
 from sqlalchemy import Column, Integer, String, ForeignKey, Table
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
-from flask_bcrypt import Bcrypt
-from config import db
+from config import db, bcrypt
 
-bcrypt = Bcrypt()
 Base = db.Model
 
 
@@ -77,12 +75,15 @@ class Storage(Base,SerializerMixin):
     __tablename__ = 'storage'
     id = Column(Integer, primary_key=True, autoincrement=True)
     user_id = Column(Integer, ForeignKey('users.id'))
+    title = Column(String)
     resource_url = Column(String(255))
 
-    user = relationship('User', backref='storage')
+
+    #user = relationship('User', backref='storage')
     curriculum_items = relationship('CurriculumItems', secondary=storage_curriculumitem_table)
     subcurriculum_items = relationship('SubCurriculumItems', secondary=storage_subcurriculumitem_table)
-
+    def serialize(self):
+        return super(Storage, self).serialize(exclude=('user', 'curriculum_items', 'subcurriculum_items'))
 
 class User(Base,SerializerMixin):
 
